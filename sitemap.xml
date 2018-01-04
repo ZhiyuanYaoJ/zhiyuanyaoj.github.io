@@ -1,11 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://zhiyuanyao.com/pretty</loc>
-    
-    <lastmod>2018-01-03T21:45:11.871Z</lastmod>
-    
-  </url>
-  
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://www.zhiyuanyao.com/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/categories/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/archives/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/tags/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/about/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/raspberrypi/2018/01/02/raspi-wifi-ssh/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/category/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/raspberrypi/2018/01/01/raspi-setup/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/algorithm/c++/2017/12/25/lc-317/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/daily/2017/12/24/xmas/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/algorithm/c++/2017/12/17/lc-239/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/fran%C3%A7ais/2017/12/14/pronom_demonstratif/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/c++/2017/12/09/effective-cpp-item-1/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/c++/2017/12/09/effective-cpp-intro/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/java/l'x/2017/10/02/inf-java2/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/deeplearning/2017/09/25/aws/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/deeplearning/rnn/2017/09/25/rnn-resources/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/java/l'x/2017/09/18/inf-java/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/daily/l'x/2017/09/18/timetable/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/daily/2017/09/17/first-blog/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.zhiyuanyao.com/tag/</loc>
+  <lastmod>2018-01-04T13:37:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 </urlset>
