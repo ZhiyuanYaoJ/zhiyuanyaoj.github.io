@@ -370,7 +370,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 234c788b11cf12c7646868826b84ee36
 
 # Google Analytics ID
 google_analytics: UA-110987408-1
@@ -519,7 +519,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
