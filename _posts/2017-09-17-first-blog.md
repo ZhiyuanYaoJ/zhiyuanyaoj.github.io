@@ -7,7 +7,7 @@ categories:
 tags:
 - Daily
 photos:
-- https://ericyaoj.github.io/blog/assets/images/bojack.jpg
+- https://ericyaoj.github.io/assets/images/bojack.jpg
 ---
 
 ## First Blog on Page

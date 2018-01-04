@@ -7,7 +7,7 @@ categories:
 tags:
 - RaspberryPi
 photos:
-- https://ericyaoj.github.io/blog/assets/images/raspi/raspi-config.png
+- https://ericyaoj.github.io/assets/images/raspi/raspi-config.png
 ---
 
 ## Intro
@@ -42,11 +42,11 @@ $ sudo raspi-config
 
 then, following are the instructions afterwards.
 
-![Raspi Config Interface](https://ericyaoj.github.io/blog/assets/images/raspi/raspi-config-interface.png)
+![Raspi Config Interface](https://ericyaoj.github.io/assets/images/raspi/raspi-config-interface.png)
 
-![Raspi Config Interface - Choose SSH](https://ericyaoj.github.io/blog/assets/images/raspi/raspi-config-interface-ssh.png)
+![Raspi Config Interface - Choose SSH](https://ericyaoj.github.io/assets/images/raspi/raspi-config-interface-ssh.png)
 
-![Raspi Config Interface - Choose Yes](https://ericyaoj.github.io/blog/assets/images/raspi/raspi-config-interface-ssh-y.png)
+![Raspi Config Interface - Choose Yes](https://ericyaoj.github.io/assets/images/raspi/raspi-config-interface-ssh-y.png)
 
 Then it should be good to go!
 
@@ -99,7 +99,7 @@ Thus, we can recognize that the Raspberry Pi has the address `192.168.1.50`.
 
 ### Static IP Address
 
-Remember last time, I have already configured Wi-Fi connection. (See [last post](https://ericyaoj.github.io/blog/raspberrypi/2018/01/01/raspi-setup/)) In order to let our Raspberry Pi have a static IP address, which means whenever our RPi is connected to the Wi-Fi, it will have the same IP address (as far as I know), we have to manually configure the IP address. The way to do it is fairly simple:
+Remember last time, I have already configured Wi-Fi connection. (See [last post](https://ericyaoj.github.io/raspberrypi/2018/01/01/raspi-setup/)) In order to let our Raspberry Pi have a static IP address, which means whenever our RPi is connected to the Wi-Fi, it will have the same IP address (as far as I know), we have to manually configure the IP address. The way to do it is fairly simple:
 
 - Open up `/etc/dhcpcd.conf` (`$ sudo nano /etc/dhcpcd.conf`)
 - Scroll all the way to the bottom and add the following:
