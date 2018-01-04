@@ -14,7 +14,7 @@ date_format: '%d-%m-%Y'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: http://zhiyuanyao.com
 baseurl:
 permalink: pretty
 
@@ -596,7 +596,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
