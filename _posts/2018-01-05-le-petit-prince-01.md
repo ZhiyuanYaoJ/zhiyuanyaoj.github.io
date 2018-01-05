@@ -7,7 +7,7 @@ categories:
 tags:
 - Français
 photos:
-- https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-petit-prince.png
+- https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-petit-prince.jpeg
 ---
 
 # 关于《小王子》
@@ -196,6 +196,7 @@ au cours de
 > - 解读：咱们小时候的艺术类启蒙，基本都是画册或者绘本吧！一张精彩的插图，便打开了「我」的画家梦。
 >   > ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 > - lorsque 当...时，近义词为quand, au moment où，如：
+> 
 >       J'étais sur le point de sortir lorsque le téléphone a sonné. 
 >       我正要出门的时候，电话铃响了。
 >       
@@ -203,13 +204,20 @@ au cours de
 >       当他发怒时，没人敢靠近他。
 > - magnifique adj. （即可形容人也可形容物）
 >   - 豪华的，宏伟的
+> 
 >           un magnifique palais 豪华的宫殿
+> 
 >   - 优美的，漂亮的
+> 
 >           une femme magnifique 绝世美女
 >           Quel magnifique paysage ! 风景多美啊！
+>
 >   - 出色的，卓越的
->           un magnifique succès 辉煌的成就
+> 
+>          un magnifique succès 辉煌的成就
+>
 > - une fois 有一次，此处作插入语，去掉不影响句子的完整性
+> 
 >       une forêt vierge 原始森林，文中首字母大写，表示特指
 
 ### 例句二
@@ -297,9 +305,9 @@ Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigan
 >       > Ils sont tout surpris.
 >       > 他们很惊讶。
 >   - 如果修饰的形容词为元音或哑音h开头，即使是阴性形容词，tout也不需要配合：
->       > Elle est tout étonnée. 她很惊讶。
-Elles sont tout heureuses. 她很惊讶。
-阴阳同形的形容词，表达阴性含义时，tout也要配合：
+>           Elle est tout étonnée. 她很惊讶。
+>           Elles sont tout heureuses. 她很惊讶。
+>   - 阴阳同形的形容词，表达阴性含义时，tout也要配合：
 Elle est sortie de l'hôpital toute pâle. 她脸色惨白地离开了医院。
 fatigant,e adj. 累人的，使人疲倦的，注意区分 fatigant,e 和 fatigué,e 的区别：fatigué 是“疲劳的，疲乏的”，而 fatigant 是“使别人疲劳的”。
 pour les enfant 在此处作插入语，补充说明前面的“fatigant”是对于孩子们来说的。
