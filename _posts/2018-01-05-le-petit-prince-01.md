@@ -180,7 +180,9 @@ Toutes les grandes personnes ont d'abord été des enfants, mais peu d'entre ell
 > Note:
 > 
 > **解读**：咱们小时候的艺术类启蒙，基本都是画册或者绘本吧！一张精彩的插图，便打开了「我」的画家梦。
+> 
 >   > ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
+> 
 > - lorsque 当...时，近义词为quand, au moment où，如：
 > 
 >       J'étais sur le point de sortir lorsque le téléphone a sonné. 
@@ -188,17 +190,19 @@ Toutes les grandes personnes ont d'abord été des enfants, mais peu d'entre ell
 >       
 >       Personne n'ose l'approcher lorsqu'il est en colère. 
 >       当他发怒时，没人敢靠近他。
+>       
 > - magnifique adj. （即可形容人也可形容物）
->   - 豪华的，宏伟的
+> 
+>   > 豪华的，宏伟的
 > 
 >           un magnifique palais 豪华的宫殿
 > 
->   - 优美的，漂亮的
+>   > 优美的，漂亮的
 > 
 >           une femme magnifique 绝世美女
 >           Quel magnifique paysage ! 风景多美啊！
 >
->   - 出色的，卓越的
+>   > 出色的，卓越的
 > 
 >          un magnifique succès 辉煌的成就
 >
@@ -213,7 +217,9 @@ J'ai **alors** beaucoup **réfléchi sur** les aventures de la jungle et, **à m
 > Note:
 > 
 > **解读**：「我」对丛林中的奇遇有着许多的想法，于是，用彩色铅笔画出了「我」的第一幅图画。
+> 
 >   > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
+> 
 > - alors adv. 当时；那么；于是
 >       
 >       J'étais alors à Pékin. 
@@ -250,7 +256,7 @@ J'ai montré mon **chef d'oeuvre** aux grandes personnes et je leur ai demandé 
 >   > ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
 > - un chef-d'œuvre 杰作，代表作（注意：f 不发音）
 > - si 法语中 si 的用法类似英语的 if
->   - si 在这句句子中引导补语从句，译为“是否”，又如：
+>   > si 在这句句子中引导补语从句，译为“是否”，又如：
 >       
 >           Assurez-vous si la porte est bien fermée. 
 >           请查看一下门是否关好了。
@@ -258,7 +264,7 @@ J'ai montré mon **chef d'oeuvre** aux grandes personnes et je leur ai demandé 
 >           Je ne sais pas si je dois dire "oui" ou "non". 
 >           我不知道我该说“是”还是“否”。
 >           
->   - si 也有“如果”的意思，如：
+>   > si 也有“如果”的意思，如：
 >           
 >           Si tu veux la paix, prépare la guerre. 
 >           如果你想要和平，就先做好战争的准备吧。
@@ -277,6 +283,7 @@ Les grandes personnes m'ont **conseillé de laisser de côté les dessins** de *
 > Note:
 > 
 > **解读**：大人们劝6岁的「我」还是把精力多放在地理、历史、算术、语法上。“画画有啥用？”
+> 
 > - conseiller qqch. à qqn. / conseiller à qqn. de inf. 建议某人（做）某事
 >   
 >       Je vous conseille un bouquet de roses rouges. 
@@ -302,6 +309,7 @@ Les grandes personnes ne comprennent jamais rien **toutes seules**, et c'est **f
 > Note: 
 > 
 > **解读**：面对无法正确读懂画作的大人们，「我」表达了自己内心的想法：“大人们如果只靠自己，便永远什么也弄不懂，总是需要孩子们不断地给他们作解释，这真叫孩子们腻味。”
+> 
 > - toutes seules 一个人
 >   > tout在此处作副词，强调程度，意思是“完全地；非常地”。
 >   > 
@@ -355,21 +363,26 @@ J'ai **ainsi** eu, **au cours de** ma vie, **des tas de** contacts avec **des ta
 
 ### 例句七
 
-Je me mettais à sa portée. Je lui parlais de bridge, de golf, de politique et de cravates.
+Je **me mettais** **à sa portée**. Je lui parlais de **bridge**, de golf, de politique et de **cravates**.
 
 > Note:
 > 
 > **解读**：对于那些“没有足够理解能力”的大人们，「我」只得迁就他们的水平，与他们谈论桥牌、高尔夫球、政治、领带等话题。
-
-se mettre 置身于；变得，成为
-se mettre à table 坐下吃饭，入席
-se mettre en colère 生起气来
-se mettre en route 上路，动身，启程
-à la portée de qqn. 在某人能触及到的地方；在某人能力范围之内
-Ces médicaments ne doivent pas rester à la portée des enfants. 这些药不应该放在儿童能够接触到的地方。
-Ce sport est à la portée de tout le monde. 这项体育运动人人都可以做。
-bridge n.m. 这个词来自英语，在法语中使用指“桥牌”，法语中指“桥”要用“un pont”。
-une cravate 领带。另外，法语的“西服”用“un costume”，这两个词经常一起使用。
+> - se mettre 置身于；变得，成为
+> 
+>       se mettre à table 坐下吃饭，入席
+>       se mettre en colère 生起气来
+>       se mettre en route 上路，动身，启程
+>       
+> - à la portée de qqn. 在某人能触及到的地方；在某人能力范围之内
+> 
+>       Ces médicaments ne doivent pas rester à la portée des enfants. 
+>       这些药不应该放在儿童能够接触到的地方。
+>       Ce sport est à la portée de tout le monde. 
+>       这项体育运动人人都可以做。
+>       
+> - bridge n.m. 这个词来自英语，在法语中使用指“桥牌”，法语中指“桥”要用“un pont”。
+> - une cravate 领带。另外，法语的“西服”用“un costume”，这两个词经常一起使用。
 
 # 文化拓展
 
