@@ -47,9 +47,11 @@ photos:
 ## 原文及翻译
 
 > Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s'appelait "Histoires Vécues". Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.
+
 ```
     当我还只有六岁的时候，在一本描写原始森林，名叫《真实的故事》的书中， 看到了一幅精彩的插画，画的是一条蟒蛇正在吞食一只大野兽，下面就是那幅画的摹本：
 ```
+
 > ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 
 On disait dans le livre: "Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion".
@@ -294,7 +296,7 @@ Les grandes personnes m'ont **conseillé de laisser de côté les dessins** de *
 
 ### 例句五
 
-Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigant, pour les enfants, de toujours et toujours leur donner des explications.
+Les grandes personnes ne comprennent jamais rien **toutes seules**, et c'est **fatigant**, **pour les enfants**, de toujours et toujours leur donner des explications.
 
 > Note: 
 > 解读：面对无法正确读懂画作的大人们，「我」表达了自己内心的想法：“大人们如果只靠自己，便永远什么也弄不懂，总是需要孩子们不断地给他们作解释，这真叫孩子们腻味。”
@@ -306,9 +308,7 @@ Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigan
 >           她很高兴。
 >           Elles sont toutes surprises. 
 >           她们很惊讶。
->       
->       > **注意**：tout作副词时，没有阳性复数的形式：
->               
+>       > **注意**：tout作副词时，没有阳性复数的形式：               
 >           Ils sont tout surpris.
 >           他们很惊讶。
 >               
@@ -317,10 +317,12 @@ Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigan
 >           Elles sont tout heureuses. 她很惊讶。
 >   - 阴阳同形的形容词，表达阴性含义时，tout也要配合：
 >         Elle est sortie de l'hôpital toute pâle. 她脸色惨白地离开了医院。
-fatigant,e adj. 累人的，使人疲倦的，注意区分 fatigant,e 和 fatigué,e 的区别：fatigué 是“疲劳的，疲乏的”，而 fatigant 是“使别人疲劳的”。
-pour les enfant 在此处作插入语，补充说明前面的“fatigant”是对于孩子们来说的。
-donner des explications à qqn. 向某人解释，此处的leur为间宾代词，指代les grandes personnes。
-例句六
+> - fatigant,e adj. 累人的，使人疲倦的
+>   > **注意**：区分 fatigant,e 和 fatigué,e 的区别：fatigué 是“疲劳的，疲乏的”，而 fatigant 是“使别人疲劳的”。
+> - pour les enfant 在此处作插入语，补充说明前面的“fatigant”是对于孩子们来说的。
+> - donner des explications à qqn. 向某人解释，此处的leur为间宾代词，指代les grandes personnes。
+
+### 例句六
 J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux.
 解读：在生活中，「我」与很多严肃的人有过很多的接触，但这并没有改变「我」我对他们的看法。
 
