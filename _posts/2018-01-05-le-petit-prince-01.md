@@ -48,98 +48,95 @@ photos:
 
 > Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s'appelait "Histoires Vécues". Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.
 
-```
     当我还只有六岁的时候，在一本描写原始森林，名叫《真实的故事》的书中， 看到了一幅精彩的插画，画的是一条蟒蛇正在吞食一只大野兽，下面就是那幅画的摹本：
-```
 
 > ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 
-On disait dans le livre: "Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion".
+> On disait dans le livre: "Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion".
 
     这本书中写道："这些蟒蛇把它们的猎获物不加咀嚼地吞下，一会儿后就不能再动弹了，它们就在长长的六个月的睡眠中消化这些食物。"
 
-J'ai alors beaucoup réfléchi sur les aventures de la jungle et, à mon tour, j'ai réussi, avec un crayon de couleur, à tracer mon premier dessin. Mon dessin numéro 1. Il était comme ça:
+> J'ai alors beaucoup réfléchi sur les aventures de la jungle et, à mon tour, j'ai réussi, avec un crayon de couleur, à tracer mon premier dessin. Mon dessin numéro 1. Il était comme ça:
 
     当时，我对丛林中的奇遇想得很多，于是，我也用彩色铅笔画出了我的第一幅图画。我的第一号作品，它是这样的：
 
 > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 
-J'ai montré mon chef d'oeuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur.
+> J'ai montré mon chef d'oeuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur.
 
     我把这幅杰作拿给大人看，我问他们我的画是不是让他们害怕。
 
-
-Elles m'ont répondu: "Pourquoi un chapeau ferait-il peur?"
+> Elles m'ont répondu: "Pourquoi un chapeau ferait-il peur?"
 
     他们回答我说："一顶帽子有什么可怕的？"
 
-Mon dessin ne représentait pas un chapeau. Il représentait un serpent boa qui digérait un éléphant.
+> Mon dessin ne représentait pas un chapeau. Il représentait un serpent boa qui digérait un éléphant.
 
     我画的不是帽子，是一条巨蟒在消化着一头大象。
 
-J'ai alors dessiné l'intérieur du serpent boa, afin que les grandes personnes puissent comprendre. Elles ont toujours besoin d'explications.
+> J'ai alors dessiné l'intérieur du serpent boa, afin que les grandes personnes puissent comprendre. Elles ont toujours besoin d'explications.
 
     于是我又把巨蟒肚子里的情况画了出来，以便让大人们能够看懂，大人们总是需要解释。
 
-Mon dessin numéro 2 était comme ça:
+> Mon dessin numéro 2 était comme ça:
 
     我的第二号作品是这样的：
 
 > ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
 
-Les grandes personnes m'ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m'intéresser plutôt à la géographie, à l'histoire, au calcul et à la grammaire.
+> Les grandes personnes m'ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m'intéresser plutôt à la géographie, à l'histoire, au calcul et à la grammaire.
 
     大人们劝我把这些画着开着肚皮的，或闭上肚皮的蟒蛇的图画放在一边，还是把兴趣放在地理、历史、算术、语法上。
 
-C'est ainsi que j'ai abandonné, à l'âge de six ans, une magnifique carrière de peintre.
+> C'est ainsi que j'ai abandonné, à l'âge de six ans, une magnifique carrière de peintre.
 
     就这样，在六岁的那年，我就放弃了当画家这一美好的职业。
 
-J'avais été découragé par l'insuccès de mon dessin numéro 1 et de mon dessin numéro 2.
+> J'avais été découragé par l'insuccès de mon dessin numéro 1 et de mon dessin numéro 2.
 
     我的第一号、第二号作品的不成功，使我泄了气。
 
-Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigant, pour les enfants, de toujours et toujours leur donner des explications.
+> Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigant, pour les enfants, de toujours et toujours leur donner des explications.
 
     这些大人们，靠他们自己什么也弄不懂，还得老是不断地给他们作解释，这真叫孩子们腻味。
 
-J'ai donc dû choisir un autre métier et j'ai appris à piloter des avions. J'ai volé un peu partout dans le monde.
+> J'ai donc dû choisir un autre métier et j'ai appris à piloter des avions. J'ai volé un peu partout dans le monde.
 
     后来，我只好选择了另外一个职业，我学会了开飞机，世界各地差不多都飞到过。
 
-Et la géographie, c'est exact, m'a beaucoup servi. Je savais reconnaître, du premier coup d'oeil, la Chine de l'Arizona. C'est très utile, si l'on est égaré pendant la nuit.
+> Et la géographie, c'est exact, m'a beaucoup servi. Je savais reconnaître, du premier coup d'oeil, la Chine de l'Arizona. C'est très utile, si l'on est égaré pendant la nuit.
 
     的确，地理学帮了我很大的忙。我一眼就能分辨出中国和亚里桑那。要是夜里迷失了航向，这是很有用的。
 
-J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux.
+> J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux.
 
     这样，在我的生活中，我跟很多严肃的人有过很多的接触。
 
-J'ai beaucoup vécu chez les grandes personnes.
+> J'ai beaucoup vécu chez les grandes personnes.
 
     我在大人们中间生活过很长时间。
 
-Je les ai vues de très près. Ca n'a pas trop amélioré mon opinion.
+> Je les ai vues de très près. Ca n'a pas trop amélioré mon opinion.
 
     我仔细地观察过他们，但这并没有使我对他们的看法有多大的改变。
 
-Quand j'en rencontrais une qui me paraissait un peu lucide, je faisait l'expérience sur elle de mon dessin no.1 que j'ai toujours conservé.
+> Quand j'en rencontrais une qui me paraissait un peu lucide, je faisait l'expérience sur elle de mon dessin no.1 que j'ai toujours conservé.
 
     当我遇到一个头脑看来稍微清楚的大人时，我就拿出一直保存着的我那第一号作品来测试测试他。
 
-Je voulais savoir si elle était vraiment compréhensive.
+> Je voulais savoir si elle était vraiment compréhensive.
 
     我想知道他是否真的有理解能力。
 
-Mais toujours elle me répondait: "C'est un chapeau."
+> Mais toujours elle me répondait: "C'est un chapeau."
 
     可是，得到的回答总是："这是顶帽子。"
 
-Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni d'étoiles.
+> Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni d'étoiles.
 
     我就不和他谈巨蟒呀，原始森林呀，或者星星之类的事。
 
-Je me mettais à sa portée. Je lui parlais de bridge, de golf, de politique et de cravates. Et la grande personne était bien contente de connaître un homme aussi raisonnable.
+> Je me mettais à sa portée. Je lui parlais de bridge, de golf, de politique et de cravates. Et la grande personne était bien contente de connaître un homme aussi raisonnable.
 
     我只得迁就他们的水平，和他们谈些桥牌呀，高尔夫球呀，政治呀，领带呀这些。于是大人们就十分高兴能认识我这样一个通情达理的人。
 
@@ -181,7 +178,8 @@ Toutes les grandes personnes ont d'abord été des enfants, mais peu d'entre ell
 **Lorsque** j'avais six ans j'ai vu, **une fois**, une **magnifique** image, dans un livre sur la **Forêt Vierge** qui s'appelait « Histoires Vécues ».
 
 > Note:
-> - 解读：咱们小时候的艺术类启蒙，基本都是画册或者绘本吧！一张精彩的插图，便打开了「我」的画家梦。
+> 
+> **解读**：咱们小时候的艺术类启蒙，基本都是画册或者绘本吧！一张精彩的插图，便打开了「我」的画家梦。
 >   > ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 > - lorsque 当...时，近义词为quand, au moment où，如：
 > 
@@ -213,7 +211,8 @@ Toutes les grandes personnes ont d'abord été des enfants, mais peu d'entre ell
 J'ai **alors** beaucoup **réfléchi sur** les aventures de la jungle et, **à mon tour**, j'ai réussi, avec un **crayon de couleur**, à **tracer** mon premier dessin.
 
 > Note:
-> - 解读：「我」对丛林中的奇遇有着许多的想法，于是，用彩色铅笔画出了「我」的第一幅图画。
+> 
+> **解读**：「我」对丛林中的奇遇有着许多的想法，于是，用彩色铅笔画出了「我」的第一幅图画。
 >   > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 > - alors adv. 当时；那么；于是
 >       
@@ -246,7 +245,8 @@ J'ai **alors** beaucoup **réfléchi sur** les aventures de la jungle et, **à m
 J'ai montré mon **chef d'oeuvre** aux grandes personnes et je leur ai demandé **si** mon dessin **leur faisait peur**.
 
 > Note:
-> - 解读：随后，「我」将自己的杰作展现给大人们看，并且问他们这幅画是否让他们感到害怕。
+> 
+> **解读**：随后，「我」将自己的杰作展现给大人们看，并且问他们这幅画是否让他们感到害怕。
 >   > ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
 > - un chef-d'œuvre 杰作，代表作（注意：f 不发音）
 > - si 法语中 si 的用法类似英语的 if
@@ -275,7 +275,8 @@ J'ai montré mon **chef d'oeuvre** aux grandes personnes et je leur ai demandé 
 Les grandes personnes m'ont **conseillé de laisser de côté les dessins** de **serpents boas** ouverts ou fermés, et de **m'intéresser** plutôt **à** la géographie, à l'histoire, au calcul et à la grammaire.
 
 > Note:
-> - 解读：大人们劝6岁的「我」还是把精力多放在地理、历史、算术、语法上。“画画有啥用？”
+> 
+> **解读**：大人们劝6岁的「我」还是把精力多放在地理、历史、算术、语法上。“画画有啥用？”
 > - conseiller qqch. à qqn. / conseiller à qqn. de inf. 建议某人（做）某事
 >   
 >       Je vous conseille un bouquet de roses rouges. 
@@ -299,23 +300,27 @@ Les grandes personnes m'ont **conseillé de laisser de côté les dessins** de *
 Les grandes personnes ne comprennent jamais rien **toutes seules**, et c'est **fatigant**, **pour les enfants**, de toujours et toujours leur donner des explications.
 
 > Note: 
-> 解读：面对无法正确读懂画作的大人们，「我」表达了自己内心的想法：“大人们如果只靠自己，便永远什么也弄不懂，总是需要孩子们不断地给他们作解释，这真叫孩子们腻味。”
+> 
+> **解读**：面对无法正确读懂画作的大人们，「我」表达了自己内心的想法：“大人们如果只靠自己，便永远什么也弄不懂，总是需要孩子们不断地给他们作解释，这真叫孩子们腻味。”
 > - toutes seules 一个人
->   - tout在此处作副词，强调程度，意思是“完全地；非常地”。
->   - Tout 作副词时，仅有在修饰辅音或虚音h开头的阴性形容词时需要配合，如：
+>   > tout在此处作副词，强调程度，意思是“完全地；非常地”。
+>   > 
+>   > Tout 作副词时，仅有在修饰辅音或虚音h开头的阴性形容词时需要配合，如：
 >           
 >           Elle est toute contente. 
 >           她很高兴。
 >           Elles sont toutes surprises. 
 >           她们很惊讶。
+>           
 >       > **注意**：tout作副词时，没有阳性复数的形式：               
+>           
 >           Ils sont tout surpris.
 >           他们很惊讶。
 >               
->   - 如果修饰的形容词为元音或哑音h开头，即使是阴性形容词，tout也不需要配合：
+>   > 如果修饰的形容词为元音或哑音h开头，即使是阴性形容词，tout也不需要配合：
 >           Elle est tout étonnée. 她很惊讶。
 >           Elles sont tout heureuses. 她很惊讶。
->   - 阴阳同形的形容词，表达阴性含义时，tout也要配合：
+>   > 阴阳同形的形容词，表达阴性含义时，tout也要配合：
 >         Elle est sortie de l'hôpital toute pâle. 她脸色惨白地离开了医院。
 > - fatigant,e adj. 累人的，使人疲倦的
 >   > **注意**：区分 fatigant,e 和 fatigué,e 的区别：fatigué 是“疲劳的，疲乏的”，而 fatigant 是“使别人疲劳的”。
@@ -323,19 +328,38 @@ Les grandes personnes ne comprennent jamais rien **toutes seules**, et c'est **f
 > - donner des explications à qqn. 向某人解释，此处的leur为间宾代词，指代les grandes personnes。
 
 ### 例句六
-J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux.
-解读：在生活中，「我」与很多严肃的人有过很多的接触，但这并没有改变「我」我对他们的看法。
 
-ainsi adv. 这样，如此
-Il a eu tort d'agir ainsi. 他这样做是错的。
-Il parlait ainsi gravement et paternellement. 他那样严肃地说着话，如父亲般。
-au cours de 在...的过程中
-Au cours de la cérémonie nuptiale,les mariés échangent les anneaux. 在婚礼上，新郎新娘交换戒指。
-des tas de “tas”的原意为“堆”，如：un tas de sable 一堆沙子。词组“un / des tas de”可以引申为“很多，非常多的”，如：
-Il a rencontré un tas de difficultés, mais il ne se décourage pas. 他遇到了很多困难，但他没有泄气。
-例句七
+J'ai **ainsi** eu, **au cours de** ma vie, **des tas de** contacts avec **des tas de** gens sérieux.
+
+> Note: 
+> 
+> **解读**：在生活中，「我」与很多严肃的人有过很多的接触，但这并没有改变「我」我对他们的看法。
+> - ainsi adv. 这样，如此
+> 
+>       Il a eu tort d'agir ainsi. 他这样做是错的。
+>       Il parlait ainsi gravement et paternellement. 他那样严肃地说着话，如父亲般。
+>       
+> - au cours de 在...的过程中
+> 
+>       Au cours de la cérémonie nuptiale,les mariés échangent les anneaux. 
+>       在婚礼上，新郎新娘交换戒指。
+> - des tas de “tas”的原意为“堆”，如：
+>  
+>       un tas de sable 一堆沙子。
+>       
+>   > 词组“un / des tas de”可以引申为“很多，非常多的”，如：
+>   
+>       Il a rencontré un tas de difficultés, mais il ne se décourage pas. 
+>       他遇到了很多困难，但他没有泄气。
+
+
+### 例句七
+
 Je me mettais à sa portée. Je lui parlais de bridge, de golf, de politique et de cravates.
-解读：对于那些“没有足够理解能力”的大人们，「我」只得迁就他们的水平，与他们谈论桥牌、高尔夫球、政治、领带等话题。
+
+> Note:
+> 
+> **解读**：对于那些“没有足够理解能力”的大人们，「我」只得迁就他们的水平，与他们谈论桥牌、高尔夫球、政治、领带等话题。
 
 se mettre 置身于；变得，成为
 se mettre à table 坐下吃饭，入席
