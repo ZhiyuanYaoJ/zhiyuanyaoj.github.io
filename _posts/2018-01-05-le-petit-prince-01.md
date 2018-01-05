@@ -275,16 +275,22 @@ Les grandes personnes m'ont **conseillé de laisser de côté les dessins** de *
 > Note:
 > - 解读：大人们劝6岁的「我」还是把精力多放在地理、历史、算术、语法上。“画画有啥用？”
 > - conseiller qqch. à qqn. / conseiller à qqn. de inf. 建议某人（做）某事
->   > Je vous conseille un bouquet de roses rouges. 
->   > 我建议您买一束红玫瑰。
->   > Je vous conseille de ne plus fumer. 
->   > 我劝你不要再抽烟了。
+>   ```
+>   Je vous conseille un bouquet de roses rouges. 
+>   我建议您买一束红玫瑰。
+>   
+>   Je vous conseille de ne plus fumer. 
+>   我劝你不要再抽烟了。
+>   ```
 > - laisser qqch. de côté 把...放在一边
->   > Laissez-le de côté, vous vous en occuperez plus tard.
->   > 把这件事放在一边，晚点再来处理。
+>   
+>       Laissez-le de côté, vous vous en occuperez plus tard.
+>       把这件事放在一边，晚点再来处理。
+>       
 > - un serpent boa 蟒蛇
 > - s'intéresser à qqch. 对...感兴趣
-> - Il s'intéresse beaucoup à l'astronomie. 他对天文学很感兴趣。
+>       
+>       Il s'intéresse beaucoup à l'astronomie. 他对天文学很感兴趣。
 
 ### 例句五
 
