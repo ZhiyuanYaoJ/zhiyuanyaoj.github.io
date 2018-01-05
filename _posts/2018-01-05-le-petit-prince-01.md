@@ -46,11 +46,10 @@ photos:
 
 ## 原文及翻译
 
-Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s'appelait "Histoires Vécues". Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.
+> Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s'appelait "Histoires Vécues". Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.
 ```
     当我还只有六岁的时候，在一本描写原始森林，名叫《真实的故事》的书中， 看到了一幅精彩的插画，画的是一条蟒蛇正在吞食一只大野兽，下面就是那幅画的摹本：
 ```
-
 > ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 
 On disait dans le livre: "Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion".
@@ -277,12 +276,12 @@ Les grandes personnes m'ont **conseillé de laisser de côté les dessins** de *
 > - 解读：大人们劝6岁的「我」还是把精力多放在地理、历史、算术、语法上。“画画有啥用？”
 > - conseiller qqch. à qqn. / conseiller à qqn. de inf. 建议某人（做）某事
 >   
->   Je vous conseille un bouquet de roses rouges. 
->   我建议您买一束红玫瑰。
+>       Je vous conseille un bouquet de roses rouges. 
+>       我建议您买一束红玫瑰。
 >   
->   Je vous conseille de ne plus fumer. 
->   我劝你不要再抽烟了。
->   ```
+>       Je vous conseille de ne plus fumer. 
+>       我劝你不要再抽烟了。
+>   
 > - laisser qqch. de côté 把...放在一边
 >   
 >       Laissez-le de côté, vous vous en occuperez plus tard.
@@ -302,14 +301,17 @@ Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigan
 > - toutes seules 一个人
 >   - tout在此处作副词，强调程度，意思是“完全地；非常地”。
 >   - Tout 作副词时，仅有在修饰辅音或虚音h开头的阴性形容词时需要配合，如：
->       > Elle est toute contente. 
->       > 她很高兴。
->       > Elles sont toutes surprises. 
->       > 她们很惊讶。
+>           
+>           Elle est toute contente. 
+>           她很高兴。
+>           Elles sont toutes surprises. 
+>           她们很惊讶。
 >       
 >       > **注意**：tout作副词时，没有阳性复数的形式：
->       > Ils sont tout surpris.
->       > 他们很惊讶。
+>               
+>           Ils sont tout surpris.
+>           他们很惊讶。
+>               
 >   - 如果修饰的形容词为元音或哑音h开头，即使是阴性形容词，tout也不需要配合：
 >           Elle est tout étonnée. 她很惊讶。
 >           Elles sont tout heureuses. 她很惊讶。
