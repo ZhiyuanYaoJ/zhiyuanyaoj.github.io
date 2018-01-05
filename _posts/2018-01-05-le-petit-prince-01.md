@@ -46,85 +46,100 @@ photos:
 
 ## 原文及翻译
 
-```
 Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s'appelait "Histoires Vécues". Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.
+
     当我还只有六岁的时候，在一本描写原始森林，名叫《真实的故事》的书中， 看到了一幅精彩的插画，画的是一条蟒蛇正在吞食一只大野兽，下面就是那幅画的摹本：
-```
 
 > ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 
-```
 On disait dans le livre: "Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion".
+
     这本书中写道："这些蟒蛇把它们的猎获物不加咀嚼地吞下，一会儿后就不能再动弹了，它们就在长长的六个月的睡眠中消化这些食物。"
 
 J'ai alors beaucoup réfléchi sur les aventures de la jungle et, à mon tour, j'ai réussi, avec un crayon de couleur, à tracer mon premier dessin. Mon dessin numéro 1. Il était comme ça:
+
     当时，我对丛林中的奇遇想得很多，于是，我也用彩色铅笔画出了我的第一幅图画。我的第一号作品，它是这样的：
-```
 
 > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 
-```
 J'ai montré mon chef d'oeuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur.
+
     我把这幅杰作拿给大人看，我问他们我的画是不是让他们害怕。
 
+
 Elles m'ont répondu: "Pourquoi un chapeau ferait-il peur?"
+
     他们回答我说："一顶帽子有什么可怕的？"
 
 Mon dessin ne représentait pas un chapeau. Il représentait un serpent boa qui digérait un éléphant.
+
     我画的不是帽子，是一条巨蟒在消化着一头大象。
 
 J'ai alors dessiné l'intérieur du serpent boa, afin que les grandes personnes puissent comprendre. Elles ont toujours besoin d'explications.
+
     于是我又把巨蟒肚子里的情况画了出来，以便让大人们能够看懂，大人们总是需要解释。
 
 Mon dessin numéro 2 était comme ça:
+
     我的第二号作品是这样的：
-```
 
 > ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
 
-```
 Les grandes personnes m'ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m'intéresser plutôt à la géographie, à l'histoire, au calcul et à la grammaire.
+
     大人们劝我把这些画着开着肚皮的，或闭上肚皮的蟒蛇的图画放在一边，还是把兴趣放在地理、历史、算术、语法上。
 
 C'est ainsi que j'ai abandonné, à l'âge de six ans, une magnifique carrière de peintre.
+
     就这样，在六岁的那年，我就放弃了当画家这一美好的职业。
 
 J'avais été découragé par l'insuccès de mon dessin numéro 1 et de mon dessin numéro 2.
+
     我的第一号、第二号作品的不成功，使我泄了气。
 
 Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigant, pour les enfants, de toujours et toujours leur donner des explications.
+
     这些大人们，靠他们自己什么也弄不懂，还得老是不断地给他们作解释，这真叫孩子们腻味。
 
 J'ai donc dû choisir un autre métier et j'ai appris à piloter des avions. J'ai volé un peu partout dans le monde.
+
     后来，我只好选择了另外一个职业，我学会了开飞机，世界各地差不多都飞到过。
 
 Et la géographie, c'est exact, m'a beaucoup servi. Je savais reconnaître, du premier coup d'oeil, la Chine de l'Arizona. C'est très utile, si l'on est égaré pendant la nuit.
+
     的确，地理学帮了我很大的忙。我一眼就能分辨出中国和亚里桑那。要是夜里迷失了航向，这是很有用的。
 
 J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux.
+
     这样，在我的生活中，我跟很多严肃的人有过很多的接触。
 
 J'ai beaucoup vécu chez les grandes personnes.
+
     我在大人们中间生活过很长时间。
 
 Je les ai vues de très près. Ca n'a pas trop amélioré mon opinion.
+
     我仔细地观察过他们，但这并没有使我对他们的看法有多大的改变。
 
 Quand j'en rencontrais une qui me paraissait un peu lucide, je faisait l'expérience sur elle de mon dessin no.1 que j'ai toujours conservé.
+
     当我遇到一个头脑看来稍微清楚的大人时，我就拿出一直保存着的我那第一号作品来测试测试他。
 
 Je voulais savoir si elle était vraiment compréhensive.
+
     我想知道他是否真的有理解能力。
 
 Mais toujours elle me répondait: "C'est un chapeau."
+
     可是，得到的回答总是："这是顶帽子。"
 
 Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni d'étoiles.
+
     我就不和他谈巨蟒呀，原始森林呀，或者星星之类的事。
 
 Je me mettais à sa portée. Je lui parlais de bridge, de golf, de politique et de cravates. Et la grande personne était bien contente de connaître un homme aussi raisonnable.
+
     我只得迁就他们的水平，和他们谈些桥牌呀，高尔夫球呀，政治呀，领带呀这些。于是大人们就十分高兴能认识我这样一个通情达理的人。
-```
 
 # 学习笔记
 
@@ -292,15 +307,13 @@ Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigan
 >           Elle est tout étonnée. 她很惊讶。
 >           Elles sont tout heureuses. 她很惊讶。
 >   - 阴阳同形的形容词，表达阴性含义时，tout也要配合：
-Elle est sortie de l'hôpital toute pâle. 她脸色惨白地离开了医院。
+>         Elle est sortie de l'hôpital toute pâle. 她脸色惨白地离开了医院。
 fatigant,e adj. 累人的，使人疲倦的，注意区分 fatigant,e 和 fatigué,e 的区别：fatigué 是“疲劳的，疲乏的”，而 fatigant 是“使别人疲劳的”。
 pour les enfant 在此处作插入语，补充说明前面的“fatigant”是对于孩子们来说的。
 donner des explications à qqn. 向某人解释，此处的leur为间宾代词，指代les grandes personnes。
 例句六
 J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux.
 解读：在生活中，「我」与很多严肃的人有过很多的接触，但这并没有改变「我」我对他们的看法。
-
-身为飞行员的「我」
 
 ainsi adv. 这样，如此
 Il a eu tort d'agir ainsi. 他这样做是错的。
@@ -323,11 +336,14 @@ Ce sport est à la portée de tout le monde. 这项体育运动人人都可以�
 bridge n.m. 这个词来自英语，在法语中使用指“桥牌”，法语中指“桥”要用“un pont”。
 une cravate 领带。另外，法语的“西服”用“un costume”，这两个词经常一起使用。
 
-『 文化拓展 』
+# 文化拓展
 
 《小王子》中简洁的水彩插图是由作者一人完成的。圣埃克苏佩里青年时期学过建筑，不过因为做事分心，爱遐想，所以成绩平平。有时候他会把图画和文章的初稿送给同事和朋友，甚至在他驾驶的P-38闪电式战斗机的驾驶舱中都发现了几张卷成纸团的草稿。
+
 圣埃克苏佩里一生中从未停止过涂鸦。他不时会在类似给情人的信，笔记本，手绢，桌布上画画。他时常会画一些小人追蝴蝶的画，按圣埃克苏佩里自己的说法，这些小人追逐的不是蝴蝶，而是“实体化的理想”。
 
 圣埃克苏佩里对小王子的记述最早可追溯到1935年。1935年5月14日他作为巴黎晚报记者来到莫斯科，在发回的第二份稿件中，他记述了在法国开往苏联的火车上的经历。某天晚上，他悄悄地从一等厢跑到三等厢，看到了一对波兰夫妻和他们的孩子。他在稿件中不仅写了一位小小的王子，还在思辩的文字中融入了淡淡的柔情：
-「我面对着一对熟睡的夫妻坐下来，一个钻在两人中间的小孩子正在睡觉。他进入了梦乡，暗淡的灯光洒在他的脸上。这张脸是多么的可爱啊！简直就像是两个老农之间长出的金黄色的水果...我对自己说，这是一张音乐家的脸。是的，他就是少年莫扎特。无数美好的前景在这个小小生命的面前展开，就算是神话传说中的小王子也无法和他有同等的光荣了。一定会有人来保护他，扶持他，培养他...这个孩子有着无限的可能。这就好像，花园中出现了一种新品种的玫瑰，而所有的园丁在为之惊叹。他们会把这朵珍贵的玫瑰单独移出，照料它，培育它。但是，现实社会中没有什么园丁。这位天才的小莫扎特注定会与其他人一样被社会机器打造成一个模样...他的命运早已确定了。」
+
+>「我面对着一对熟睡的夫妻坐下来，一个钻在两人中间的小孩子正在睡觉。他进入了梦乡，暗淡的灯光洒在他的脸上。这张脸是多么的可爱啊！简直就像是两个老农之间长出的金黄色的水果...我对自己说，这是一张音乐家的脸。是的，他就是少年莫扎特。无数美好的前景在这个小小生命的面前展开，就算是神话传说中的小王子也无法和他有同等的光荣了。一定会有人来保护他，扶持他，培养他...这个孩子有着无限的可能。这就好像，花园中出现了一种新品种的玫瑰，而所有的园丁在为之惊叹。他们会把这朵珍贵的玫瑰单独移出，照料它，培育它。但是，现实社会中没有什么园丁。这位天才的小莫扎特注定会与其他人一样被社会机器打造成一个模样...他的命运早已确定了。」
+
 最终，小王子成了现在我们所熟知的样子：早熟的小孩子，有着一头蜷曲的金发。他的故事温暖了成千上万的读者。
