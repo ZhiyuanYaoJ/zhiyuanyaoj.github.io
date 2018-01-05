@@ -51,7 +51,7 @@ Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre s
     当我还只有六岁的时候，在一本描写原始森林，名叫《真实的故事》的书中， 看到了一幅精彩的插画，画的是一条蟒蛇正在吞食一只大野兽，下面就是那幅画的摹本：
 ```
 
-![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
+> ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 
 ```
 On disait dans le livre: "Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion".
@@ -61,7 +61,7 @@ J'ai alors beaucoup réfléchi sur les aventures de la jungle et, à mon tour, j
     当时，我对丛林中的奇遇想得很多，于是，我也用彩色铅笔画出了我的第一幅图画。我的第一号作品，它是这样的：
 ```
 
-![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
+> ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 
 ```
 J'ai montré mon chef d'oeuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur.
@@ -80,7 +80,7 @@ Mon dessin numéro 2 était comme ça:
     我的第二号作品是这样的：
 ```
 
-![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
+> ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
 
 ```
 Les grandes personnes m'ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m'intéresser plutôt à la géographie, à l'histoire, au calcul et à la grammaire.
@@ -199,23 +199,30 @@ J'ai **alors** beaucoup **réfléchi sur** les aventures de la jungle et, **à m
 > - 解读：「我」对丛林中的奇遇有着许多的想法，于是，用彩色铅笔画出了「我」的第一幅图画。
 >   > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 > - alors adv. 当时；那么；于是
->   > J'étais alors à Pékin. 
->   > 我那时在北京。
->   > Alors, repose-toi bien! 
->   > 那你好好休息吧!
->   > Il n'y a pas de bus, alors je suis venu à pied. 
->   > 没有公共汽车，于是我就走着来了。
+>       
+>       J'étais alors à Pékin. 
+>       我那时在北京。
+>       Alors, repose-toi bien! 
+>       那你好好休息吧!
+>       Il n'y a pas de bus, alors je suis venu à pied. 
+>       没有公共汽车，于是我就走着来了。
+>       
 > - réfléchir sur qqch. 思考某事
->   > réfléchir sur une question 思考一个问题
->   > réfléchir sur soi-même 考虑自己的行为、举动
+>       
+>       réfléchir sur une question 思考一个问题
+>       réfléchir sur soi-même 考虑自己的行为、举动
+>       
 > - à son tour 轮到某人
->   > C'est à son tour de faire la vaisselle ! 
->   > 该轮到他来洗碗了。
+>       
+>       C'est à son tour de faire la vaisselle ! 
+>       该轮到他来洗碗了。
+>       
 > - crayon de couleur 彩色铅笔
 > - tracer v.t. 标画，划，描绘
->   > tracer une linge droite 引一条直线
->   > tracer un plan 绘地图
->   > tracer un tableau florissant 描绘一片繁荣的景象
+>       
+>       tracer une linge droite 引一条直线
+>       tracer un plan 绘地图
+>       tracer un tableau florissant 描绘一片繁荣的景象
 
 ### 例句三
 
@@ -227,18 +234,24 @@ J'ai montré mon **chef d'oeuvre** aux grandes personnes et je leur ai demandé 
 > - un chef-d'œuvre 杰作，代表作（注意：f 不发音）
 > - si 法语中 si 的用法类似英语的 if
 >   - si 在这句句子中引导补语从句，译为“是否”，又如：
->       > Assurez-vous si la porte est bien fermée. 
->       > 请查看一下门是否关好了。
->       > Je ne sais pas si je dois dire "oui" ou "non". 
->       > 我不知道我该说“是”还是“否”。
+>       
+>           Assurez-vous si la porte est bien fermée. 
+>           请查看一下门是否关好了。
+>           
+>           Je ne sais pas si je dois dire "oui" ou "non". 
+>           我不知道我该说“是”还是“否”。
+>           
 >   - si 也有“如果”的意思，如：
->       > Si tu veux la paix, prépare la guerre. 
->       > 如果你想要和平，就先做好战争的准备吧。
->       > Si vous ne me croyez pas, je fournirai des preuves. 
->       > 如果您不信我，我将提供证据。
+>           
+>           Si tu veux la paix, prépare la guerre. 
+>           如果你想要和平，就先做好战争的准备吧。
+>           
+>           Si vous ne me croyez pas, je fournirai des preuves. 
+>           如果您不信我，我将提供证据。
+>           
 > - faire peur à qqn. 使某人害怕
->   > Le monsieur fait peur à la dame en faisant de grands gestes. 
->   > 那位先生用大幅度的动作来吓唬那位女士。
+>       Le monsieur fait peur à la dame en faisant de grands gestes. 
+>       那位先生用大幅度的动作来吓唬那位女士。
 
 ### 例句四
 
