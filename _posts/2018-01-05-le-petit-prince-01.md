@@ -7,7 +7,7 @@ categories:
 tags:
 - Français
 photos:
-- https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-petit-prince.JPEG
+- https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-petit-prince.jpg
 ---
 
 # 关于《小王子》
@@ -276,7 +276,7 @@ Les grandes personnes m'ont **conseillé de laisser de côté les dessins** de *
 > Note:
 > - 解读：大人们劝6岁的「我」还是把精力多放在地理、历史、算术、语法上。“画画有啥用？”
 > - conseiller qqch. à qqn. / conseiller à qqn. de inf. 建议某人（做）某事
->   ```
+>   
 >   Je vous conseille un bouquet de roses rouges. 
 >   我建议您买一束红玫瑰。
 >   
