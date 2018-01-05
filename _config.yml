@@ -380,8 +380,8 @@ google_analytics: UA-110987408-1
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: disqus_mZFcjsI7ij
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
