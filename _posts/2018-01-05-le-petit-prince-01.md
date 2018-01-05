@@ -47,8 +47,9 @@ photos:
 ## 原文及翻译
 
 Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s'appelait "Histoires Vécues". Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.
-
+```
     当我还只有六岁的时候，在一本描写原始森林，名叫《真实的故事》的书中， 看到了一幅精彩的插画，画的是一条蟒蛇正在吞食一只大野兽，下面就是那幅画的摹本：
+```
 
 > ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 
@@ -145,8 +146,8 @@ Je me mettais à sa portée. Je lui parlais de bridge, de golf, de politique et 
 
 ## 每日一句
 
-```
 Toutes les grandes personnes ont d'abord été des enfants, mais peu d'entre elles s'en souviennent.
+```
 所有的人都曾经是个孩子，可惜只有很少的一些人记得这一点。
 ```
 
