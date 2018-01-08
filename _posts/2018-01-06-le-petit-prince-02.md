@@ -26,7 +26,7 @@ photos:
 
     我的发动机里有个东西损坏了。当时由于我既没有带机械师也没有带旅客，我就试图独自完成这个困难的维修工作。
 
-![Quelque chose s'était cassé dans mon moteur](https://ericyaoj.github.io/assets/images/french/le-petit-prince/cassé.jpg)
+![Quelque chose s'était cassé dans mon moteur](https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-casse.jpg)
 
 > C'était pour moi une question de vie ou de mort.
 
@@ -331,7 +331,7 @@ J'ai ainsi vécu seul, sans personne **avec qui parler** véritablement, **jusqu
 > 
 > **解读**：就这样，「我」一直孤独地生活着，没有一个人真正能够说话的人。直到六年前，「我」的飞机在撒哈拉沙漠上发生了故障。
 > 
->   > ![Quelque chose s'était cassé dans mon moteur](https://ericyaoj.github.io/assets/images/french/le-petit-prince/cassé.jpg)
+>   > ![Quelque chose s'était cassé dans mon moteur](https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-casse.jpg)
 > 
 > - parler avec qqn. 和某人说话
 >   > 此处 sans personne avec qui parler véritablement 意思是“没有一个真正能够与我说话的人”，相当于 sans personne avec qui je puisse parler véritablement。
