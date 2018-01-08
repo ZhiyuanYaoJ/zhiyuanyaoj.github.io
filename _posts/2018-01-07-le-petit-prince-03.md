@@ -7,7 +7,7 @@ categories:
 tags:
 - Français
 photos:
-- https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-petit-prince-et-moi.jpg
+- https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-voir-mouton.jpg
 ---
 
 # 第三章
@@ -168,197 +168,216 @@ La vie, c'est comme une bicyclette : il faut avancer pour ne pas perdre l'équil
 
 ### 例句一
 
-Le petit prince, qui me posait beaucoup de questions, ne semblait jamais entendre les miennes.
+Le petit prince, qui me **posait** **beaucoup** **de questions**, **ne** **semblait** **jamais** entendre **les miennes**.
 
 > Note:
 > 
 > **解读**：小王子向「我」提出了很多问题，可是，对「我」提出的问题，他好象压根没有听见似的。
 > 
-> - parler avec qqn. 和某人说话
->   > 此处 sans personne avec qui parler véritablement 意思是“没有一个真正能够与我说话的人”，相当于 sans personne avec qui je puisse parler véritablement。
->   
-> - jusqu'à 直到，可以指时间也可以指空间
+> - poser des questions 提问
+>   > 此处 qui me posait beaucoup de questions 是关系从句，先行词 le petit prince 在从句中作主语，所以用关系代词 qui。
+>  
+> - beaucoup de 很多（注意：表示数量的词+de+n., 如 un peu de, énormément de, un tas de 等，不要写成des, de la, du...）
+> - ne...jamais... 从不（注意：ne...rien...本身表示否定，不要再出现 pas 这个词）
+> - sembler + adj. / inf. 好像， 似乎
 > 
->       Cette route continue jusqu'à Pékin. 
->       这条公路一直通到北京。
+>       Ces cerises semblent mûres. 
+>       这些樱桃已经熟了。
 >       
->       Ce magasin reste ouvert jusqu'à 19 heures. 
->       这家商店一直营业到19时。
-> 
-> - il y a + 时间段 （多久）以前
-> 
->       Il vient de partir il y a cinq minutes. 
->       他五分钟之前刚离开。
+>       Elle semble très travailleuse. 
+>       她看来很勤劳。
 >       
->       Nous nous sommes rencontrés ici il y a deux ans. 
->       两年前，我们在这里相遇。
+>       Quand le train roule, le paysage semble se déplacer. 
+>       火车开动的时候， 景致好像在移动。
+> 
+> - les miennes 主有代词（les pronoms possessifs）用于代替“主有形容词+名词”，以避免重复。
+> 
+> | 主有代词 | 单数 | 单数 | 复数 | 复数 |
+> | --- | --- | --- | --- | --- |
+> | 我的 | le mien | la mienne | les miens | les miennes |
+> | 你的 | le tien | la tienne | les tiens | les tiennes |
+> | 他（她，它）的 | le sien | la sienne | les siens | les siennes |
+> | 我们的 | le nôtre | la nôtre | les nôtres | les nôtres |
+> | 你们（您）的 | le vôtre | la vôtre | les vôtres | les vôtres |
+> | 他们（她们，它们）的 | le leur | la leur | les leurs | les leurs |
+> 
+>   > **注意**：主有代词的性数与所代替的名词配合，但与所有者的性数无关，如：
+>   > 
+>   >       la voiture de Pierre --> la sienne
+>   >       la voiture de Julie --> la sienne 
+>   >       les sœurs de Pierre --> les leurs
+>   >       les sœurs de Julie --> les leurs
+>   >       la sœur de Pierre et Julie --> la leur
+>   >       
+>   > 主有代词前如果有介词à, de 要缩合，如：
+>   >
+>   >       Leurs idées sont différents des nôtres. 
+>   >       他们的观点和我们的不同。
+>   >       
+>   >       Je m'occupe de mes affaires, je ne m'intéresse pas aux leurs. 
+>   >       我管我的事，我对他们的事不感兴趣。
+>   >       
+>   >       Il ne pense qu'à ses intérêts, mais nous ne pensons pas seulement aux nôtres. 
+>   >       他只考虑他自己的利益，但是我们不是只考虑我们自己的利益。
 
 ### 例句二
 
-Quelque chose **s'**était **cassé** dans mon moteur. Et comme je **n'**avais avec moi **ni** mécanicien, **ni** passagers, je **me préparai** à essayer de réussir, tout seul, une réparation difficile.
+**Ce sont** des mots prononcés **par hasard** **qui**, **peu à peu**, m'ont tout **révélé**.
 
 > Note:
 > 
-> **解读**：由于飞机发动机故障，「我」被困在了撒哈拉沙漠中，被迫一个人进行困难的维修工作，因而结识了本书的主人公——小王子。
+> **解读**：我」只有通过他无意中吐露的一些话来逐渐了解他的来历。
 > 
-> - se casser 自己撞坏，被撞坏
+> - C'est...qui... 
+>   > 强调句，强调主语，被强调部分放在 C'est 和 qui 之间，如：
+>   >
+>   >       C'est moi qui ai pris un café. 
+>   >       是我喝了咖啡。
+>   >       
+>   >       C'est toi qui es le plus grand de la classe. 
+>   >       班里最高的是他。
+>   >       
+>   > **注意**：
+>   > 1. 如果被强调部分是人称代词，要用重读人称代词
+>   > 2. 变位要与主语保持一致，不能写成C'est moi qui est...
+> 
+> - 如果被强调部分是除主语以外的其他成分，用 C'est...que... 的句型，如：
+> 
+>       C'est un nouveau sac qu'elle a voulu. 
+>       她想要的是一个新包。
+>       
+>       C'est à Paris que nous nous sommes rencontrés. 
+>       我们是在巴黎相遇的。
+>       
+>       C'est depuis ce jour-là qu'il ne fume plus. 
+>       他是从那天开始不再吸烟的。
+>       
+> - 如果被强调的部分是复数，用 c'est 或 ce sont 都可以，如：
 >
-> - ne...ni...ni... 不...也不...
-> 
->       Il fait ni chaud ni froid. 
->       天气不冷也不热。
+>       C'est nous / Ce sont nous qui avons fait cette erreur. 
+>       是我们犯了这个错误。
 >       
->       Ni le tennis ni le ski ne m'interéssent. 
->       网球和滑雪都引不起我的兴趣。
+>       C'est / Ce sont les gâteaux qu'elle aime. 
+>       她喜欢的是那些点心。
 >       
-> - se préparer à inf. 准备做某事
+> - par hasard loc.adv. 偶然地，碰巧（注意：hasard是虚音h）
 > 
->       Je me prépare à sortir. 
->       我准备出门。
+>       Ils se sont rencontrés par hasard. 
+>       他们偶然相遇了。
 >       
-> - essayer de inf. 试图做某事 
+>       Je suis tombée sur lui par hasard. 
+>       我碰巧遇到了他。
+>       
+> - peu à peu 一点儿一点儿地，逐渐地
 > 
->       Le pompier essaie de sauver le chauffeur du feu. 
->       消防员试图把驾驶员从火中救出。
+>       Il s'est guéri peu à peu. 
+>       他渐渐地恢复了健康。
+>       
+> - révéler v.t. 泄露，揭露，显露出
+> 
+>       révéler des secrets 泄密
+>       
+>       Ce roman révèle un grand talent. 
+>       这部小说显露出（作者的）巨大才能。
 
 ### 例句三
 
-J'avais **été** **découragé** dans ma carrière de peintre **par** les grandes personnes, **à l'age de** six ans, et je **n'**avais **rien** appris à dessiner, **sauf** les boas fermés et les boas ouverts.
+J'**entrevis** **aussitôt** **une lueur**, dans le mystère de sa présence, et j'interrogeai **brusquement** : Tu viens donc d'une autre planète ?
 
 > Note:
 > 
-> **解读**：六岁时，大人们使「我」对「我」的画家生涯失去了勇气，除了画过开着肚皮和闭着肚皮的蟒蛇，后来再也没有学过画画。
->   > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
->   > 
->   > ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
+> **解读**：通过小王子的一句话，「我」对于他是从哪里来的这个秘密隐约发现到了一点线索。于是，「我」问道："你是从另一个星球上来的吗？"
 >   
-> - décourager qqn. 使某人气馁，文中用了被动态 
+> - entrevoir v.t. 隐约看见；模糊地预感到
 > 
-> - être découragé,e par，意思是“大人们使我打消了学画画的念头”。另外，此处使用了愈过去时，表示“泄气”这个动作发生在“没有学会画画”之前。
-> 
-> - à l'age de 在...岁时
-> 
->       Il est décédé à l'age de 90 ans.
->       他于90岁时逝世。
+>       entrevoir des arbres à travers le brouillard 
+>       透过雾层隐约看到一些树木
 >       
-> - ne...rien... 什么都不（注意：ne...rien...本身表示否定，不要再出现 pas 这个词）
+>       entrevoir de grandes difficultés 
+>       模糊地感到有很大的困难
 > 
->       Il ne sait rien. 
->       他什么都不知道。
->       
->       Je n'ai rien dit. 
->       我什么都没说。
->       
-> - sauf prép. 除...以外
+> -aussitôt adv. 立刻，马上
 > 
->       Je travaille tous les jours, sauf le dimanche.
->       除了星期天，我每天都工作。
+>       Je l'ai appelé et il est venu aussitôt. 
+>       我一叫他，他立刻就来了。
+>       
+>       Aussitôt après ton départ, il s'est mis à pleuvoir. 
+>       你一走，就下起雨来了。
+>       
+> - une lueur 微光
+> 
+>       avoir une lueur d'espoir 有一线希望
+>       
+> - brusquement adv. 突然，近义词为 brutalement, soudain, tout à coup
 
 ### 例句四
 
-**Aussi** absurde **que** cela me semblât **à mille milles de** **tous les endroits habités** et **en danger de** mort, je **sortis** de ma poche **une feuille de** papier et un stylographe.
+Il hochait la tête doucement tout en regardant mon avion : C'est vrai que, là-dessus, tu ne peux pas venir de bien loin…
 
 > Note:
 > 
-> **解读**：在这旷无人烟的沙漠上，面临死亡的危险的情况下，尽管小王子的出现以及他的举动使「我」感到十分荒诞，但「我」还是掏出了一张纸和一支钢笔。
+> **解读**：小王子一边看着我的飞机，一边微微地点点头，说道：“可不是么，乘坐这玩意儿，你不可能是从很远的地方来的...”
 > 
->   > ![Les dessins de trois mouton](https://ericyaoj.github.io/assets/images/french/le-petit-prince/trois-mouton.jpeg)
->   
-> - Aussi / Si + adj. + que + subj. 放在句首，表示让步，“尽管，虽然”，如：
+> - hocher la tête
+>   > 即可以表示“点头”，也可以表示“摇头”，要看具体语境进行翻译（注意：hocher是虚音h）
 > 
->       Aussi léger qu'il soit, je ne pourrai pas le porter.
->       尽管它很轻，我也提不起它。
->       
->       Aucun geste de bonté, aussi petit qu'il soit, n'est inutile. 
->       任何一件善举，无论是多么小的事，都不是无用的。
->       
-> - à mille milles de tous les endroits habités
->   > 在远离人烟千里之外的地方，与前文中出现过的“à mille milles de toute terre habitée”表达的意思相同。
+> - tout en regardant mon avion 
+>   > 副动词，由en+现在分词构成。这里做时间状语，表示与主语动词同时进行的动作，施动者为主句的主语，可译为“一边...一边...”。这里的 tout 是副词，表示强调，如：
 >   > 
->   > 此处出现了两个mille，但意义不同。前一个是量词“一千”，而后一个是一种长度单位，可理解为“英里”或“海里”，这也是为什么前一个mille没加s，而后一个加了s的原因。
->   
-> - à + 距离 + de + 地点 离某地多远
-> 
->       à 15 kilomètres de Paris 离巴黎15千米远
->       
->       Il habite à 5 mètres de chez moi 
->       他住在离我家5米远的地方。
->       
-> - tout, toute, tous, toutes adj. 所有的，全部的，整个的。
->   > 昨天我们说了 tout 作副词时的用法，而这里的 tout 用作形容词，tous les endroits habités 意思是“所有有人居住的地方”。
->   > 
->   > tout 作形容词有四种词形 tout, toute, tous, toutes，性数都要与后面加的名词保持一致，如：
+>   >       Il marche dans la rue tout en chantant. 
+>   >       他唱着歌走在路上。
 >   >       
->   >       tout le monde 所有人
->   >       toute la journée 一整天
->   >       tous les étudiants 所有的学生 
->   >       toutes les filles 所有女生
->   > 
->   > **注意**：tous 作形容词时，发音为 /tu/，而作代词时发音为 /tus/。
->  
-> - en danger de 处于...的危险之中
+>   >       Il lis tout en mangeant. 
+>   >       他一边吃饭一边看书。
 > 
->       Un danseur de corde qui ne balance pas bien son corps est en danger de tomber. 
->       走钢丝的演员若不能很好地保持身体平衡，就面临着坠落的危险。
+> - là-dessus 在这上面；在这点上, 在这方面 
+> 
+>       Écrivez là-dessus. 
+>       请写在这上面。
 >       
-> - sortir v.t. 拿出，取出
->   > **注意**：sortir 这个动词即可以作及物动词也可以作不及物动词，作及物动词时解释为“拿出，取出”，用 avoir 作助动词；而作不及物动词时解释为“出去，外出”，用 être 作助动词，如：
->   > 
->   >       Les élèves ont sorti leurs cahiers. 
->   >       学生们拿出他们的作业本。
->   >       
->   >       Il est sorti au clair de lune. 
->   >       他趁着月色清亮，他出门了。
->
-> - une feuille de papier 一张纸
+>       Je suis d'accord là-dessus. 
+>       在这点上, 我同意。
 
 ### 例句五
 
-Alors, faute de patience, comme j'avais hâte de commencer le démontage de mon moteur, je griffonnai ce dessin-ci.
+Puis, sortant mon mouton de sa poche, il se plongea dans la contemplation de son trésor.
 
 > Note: 
 > 
-> **解读**：画了三次都被小王子拒绝后，「我」终于不耐烦了，因为急于要检修发动机，于是就草草画了这张画。
+> **解读**：小王子从口袋里掏出了「我」画的小羊，像看着珍宝一样看入了神。
 > 
-> - faute de qqch. 由于缺少某物
+>   > ![小王子看「我」画的小羊](https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-voir-mouton.jpg)
 > 
->       Il n'a pu partir en voyage, faute d'argent. 
->       由于缺钱，他没能去旅游。
+> - sortant mon mouton de sa poche 现在分词作同位语，补充说明句子主语的情况，如：
+> 
+>       Sortant de la banque, j'ai rencontré notre professeur. 
+>       当我走出银行时，遇见了我们的老师。
 >       
-> - comme conj. 因为
->   > comme引导的原因状语从句必须要放在主句前，引出的原因一般都是显而易见的、众所周知的，强调原因与结果之间的联系：
->   > 
->   >       Comme elle est faible, elle ne pouvait pas lever la valise. 
->   >       因为她很弱小，她无法举起那个箱子。
->   >       
->   >       Comme il neige, je vais rester chez moi. 
->   >       因为外面下雪了，我准备待在家里。
-> 
-> - avoir hâte de inf. 急着做某事
-> 
->       Il a hâte de sorir. 
->       他急着要出门
+>       Le Soleil monte, éclairant la terre. 
+>       太阳升起来了，照亮了大地。
 >       
->       J'ai tellement hâte de te voir. 
->       我迫不及待想见到你。
->       
-> - griffonner 潦草地写；草率地画，乱画
+> - se plonger 沉浸于，全神贯注于
 > 
->       griffonner son nom 潦草地写名字
->       griffonner une caricature 草草地画一幅漫画
+>       se plonger dans l'étude 专心研究
+>       se plonger dans un livre 埋头看一本书
+> 
+> - une contemplation 凝视，注视；沉思，冥想
 
 # 文化拓展
 
-> 在童话故事里，始终表达着一个永恒的主题，即儿童一定比成人强大。他们敢于追寻如天方夜谭般的幻想、可以做到成人无法企及的事情、还能够发现成人难以体悟的生命之真。在童话里，儿童被赋予了人类独一无二的灵感，能够敏锐的捕捉尚未显示充分征兆的宇宙和人生的奥秘，从而显示出生命的神奇之处。
-> 
-> 在《小王子》中，作者将儿童敏锐的直觉加以放大，通过小王子对世界的不断认知以达到探寻生命“本真”意义的目的。“作者给予小王子成人的智慧和儿童的纯真，以儿童的身份和视角，出入成人世界，来讲述儿童成长过程中被忘却的曾经遗失的美好”，以达到“诉求现代人的失落的精神家园”的目的。
-> 
-> 在故事的开头，飞行员坦率地告诉读者自己是个爱幻想的人，不习惯那些太讲究实际的大人，反而喜欢和孩子们相处，因为孩子自然纯真、心无杂念。飞行员因飞机故障迫降在撒哈拉大沙漠，在那里遇见了小王子。那段与小王子相遇又分别的经历，既让他悲伤，也使他重新振作。六年后，他写下了这段故事。
-> 
-> 在本书中，飞行员象征着不想长大或者一直保有童心的成人。有时，这类人的想法不被成人社会理解和接受，显得孤单。但这类人是成人社会里最接近儿童的群体，是距离童真和真善美最近的大人。
+## 艺术手法
 
-> 《小王子》所述的飞行员坠机于撒哈拉大沙漠的情节取材于作者的亲身经历。作者1939年的回忆录《风沙星辰》（法语：Terre des hommes）中详细地叙述了这段遭遇。
-> 
-> 1935年12月30日2:45，圣·埃克苏佩里与副驾驶兼导航员安德烈·普雷沃在飞行了19小时44分钟后，因飞机故障不幸坠于撒哈拉大沙漠。他们当时正试图打破巴黎至西贡的飞行速度记录，赢得150,000法郎的奖金。飞机型号是 Caudron Simoun，据信坠机地点位于尼罗河三角洲的奈特伦洼地（la vallée de Wadi Natrun）附近。
-> 
-> 两人都在坠机中奇迹生还，但紧接着就面临着沙漠酷暑，严重脱水的挑战。当时他们只有一张简陋的地图，几串葡萄，一瓶咖啡，一个橙子，一点酒和一天量的水。不久后两人就看到了海市蜃楼，紧接着感到越来逼真的幻觉。第二、三天的时候，竟脱水到一滴汗都流不出的地步。最终，第四天，一个骑着骆驼的贝都因人发现了他们，并用当地治疗脱水的办法拯救了他们的生命。这段濒临死亡的经历体现在《人的大地》和《小王子》中。
+通过讲述「外星来客」在地球的遭遇来表述哲学和社会观点的手法，并不是《小王子》原创的。早在1752年，法国文学家伏尔泰便在其短篇小说《微型巨人》（法语：Micromégas）中使用了该艺术手法。
+
+《微型巨人》中，来自土星（Saturne）和天狼星（Sirius）的两个外星种族，出于好奇来到了地球，让原本以为其他星球无人居住的人类感受到不同种族间的巨大差异，也使地球中心主义的哲学家理解到自己的渺小。圣·埃克苏佩里极可能阅读过这部经典法语科幻作品。
+
+![天狼星A（恒星）和天狼星B（白矮星）](http://fs-gateway.frhelper.com/store_main/useruploads/e3ea7baa-9c30-4097-84ef-95f37942b62f.png)
+
+## 伏尔泰
+
+伏尔泰，本名弗朗索瓦-马利·阿鲁埃，伏尔泰是他的笔名，法国启蒙思想家、文学家、哲学家、著名学者、作家，主张开明的君主政治，强调自由和平等。代表作《哲学通信》《形而上学论》《路易十四时代》《老实人》等。
+
+18世纪法国启蒙运动是人类历史上一个光辉灿烂的时代。在当时众多的思想家中，伏尔泰是公认的领袖和导师。他博学多识，才华横溢，著述宏富，在戏剧、诗歌、小说、政论、历史和哲学诸多领域均有卓越贡献。他一生反对专制主义和封建特权，追求自由平等和资产阶级君主立宪制，并在最终导致法国大革命的舆论变化中发挥了重要的作用，被誉为“法兰西思想之王”、“法兰西最优秀的诗人”、“欧洲的良心”。
+伏尔泰的影响不只限于法国，他的思想代表了整个启蒙运动的思想，启迪了民众的心智，影响了整整一代人。 伏尔泰是法国启蒙运动的泰斗和灵魂，被启蒙思想家们公认为导师。他漫长的一生几乎跨越了整个启蒙时代，他崇高的威望、广泛的社会影响和大无畏的斗争精神，推动着法国启蒙运动的发展并使其影响扩展到整个欧洲。
+![伏尔泰画像](https://static_main.frdic.com/jingting/xwz/en/69bdc24c-1443-488b-bc46-08fcc6b944ad.png)
+
