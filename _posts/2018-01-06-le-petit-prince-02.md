@@ -474,7 +474,7 @@ J'avais **été** **découragé** dans ma carrière de peintre **par** les grand
 
 ### 例句五
 
-Alors, faute de patience, comme j'avais hâte de commencer le démontage de mon moteur, je griffonnai ce dessin-ci.
+Alors, **faute de patience**, comme j'**avais hâte** de commencer le démontage de mon moteur, je **griffonnai** ce dessin-ci.
 
 > Note: 
 > 
