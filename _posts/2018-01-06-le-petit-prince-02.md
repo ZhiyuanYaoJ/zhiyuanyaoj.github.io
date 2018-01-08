@@ -433,7 +433,6 @@ J'avais **été** **découragé** dans ma carrière de peintre **par** les grand
 >       任何一件善举，无论是多么小的事，都不是无用的。
 >       
 > - à mille milles de tous les endroits habités
-> 
 >   > 在远离人烟千里之外的地方，与前文中出现过的“à mille milles de toute terre habitée”表达的意思相同。
 >   > 
 >   > 此处出现了两个mille，但意义不同。前一个是量词“一千”，而后一个是一种长度单位，可理解为“英里”或“海里”，这也是为什么前一个mille没加s，而后一个加了s的原因。
@@ -446,7 +445,6 @@ J'avais **été** **découragé** dans ma carrière de peintre **par** les grand
 >       他住在离我家5米远的地方。
 >       
 > - tout, toute, tous, toutes adj. 所有的，全部的，整个的。
-> 
 >   > 昨天我们说了 tout 作副词时的用法，而这里的 tout 用作形容词，tous les endroits habités 意思是“所有有人居住的地方”。
 >   > 
 >   > tout 作形容词有四种词形 tout, toute, tous, toutes，性数都要与后面加的名词保持一致，如：
@@ -464,7 +462,6 @@ J'avais **été** **découragé** dans ma carrière de peintre **par** les grand
 >       走钢丝的演员若不能很好地保持身体平衡，就面临着坠落的危险。
 >       
 > - sortir v.t. 拿出，取出
-> 
 >   > **注意**：sortir 这个动词即可以作及物动词也可以作不及物动词，作及物动词时解释为“拿出，取出”，用 avoir 作助动词；而作不及物动词时解释为“出去，外出”，用 être 作助动词，如：
 >   > 
 >   >       Les élèves ont sorti leurs cahiers. 
