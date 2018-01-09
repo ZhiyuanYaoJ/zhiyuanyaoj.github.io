@@ -27,51 +27,41 @@ photos:
     因此，当他第一次瞅见我的飞机时（我就不画出我的飞机了，因为这种图画对我来说太复杂），他问我道：
 
 > -Qu'est ce que c'est que cette chose-là?
-
-    "这是个啥玩意？"
-
+> 
 > -Ce n'est pas une chose. Ça vole. C'est un avion. C'est mon avion.
 
+    "这是个啥玩意？"
     "这不是'玩意儿'。它能飞。这是飞机。是我的飞机。"
 
-> Et j'étais fier de lui apprendre que je volais. Alors il s'écria:
-
-    我当时很骄傲地告诉他我能飞。于是他惊奇地说道：
-
-> -Comment! tu es tombé du ciel!
-
-    "怎么？你是从天上掉下来的？"
-
+> Et j'étais fier de lui apprendre que je volais. Alors il s'écria: -Comment! tu es tombé du ciel!
+> 
 > -Oui, fis-je modestement.
-
-    "是的"。我谦逊地答道。
-
+> 
 > -Ah! ça c'est drôle. . .
 
+    我当时很骄傲地告诉他我能飞。于是他惊奇地说道："怎么？你是从天上掉下来的？"
+    "是的"。我谦逊地答道。
     "啊？这真滑稽。"
 
-> Et le petit prince eut un très joli éclat de rire qui m'irrita beaucoup. Je désire que l'on prenne mes malheurs au sérieux. Puis il ajouta:
-
-    此时小王子发出一阵清脆的笑声。这使我很不高兴。我要求别人严肃地对待我的不幸。然后，他又说道：
-
+> Et le petit prince eut un très joli éclat de rire qui m'irrita beaucoup. Je désire que l'on prenne mes malheurs au sérieux. Puis il ajouta: 
+> 
 > -Alors, toi aussi tu viens du ciel! De quelle planète es-tu?
 
+    此时小王子发出一阵清脆的笑声。这使我很不高兴。我要求别人严肃地对待我的不幸。然后，他又说道：
     "那么，你也是从天上来的了！你是哪个星球上的？"
 
 > J'entrevis aussitôt une lueur, dans le mystère de sa présence, et j'interrogeai brusquement:
-
-    即刻，对于他是从哪里来的这个秘密我隐约发现到了一点线索；于是，我就突然问道：
-
+> 
 > -Tu viens donc d'une autre planète?
 
+    即刻，对于他是从哪里来的这个秘密我隐约发现到了一点线索；于是，我就突然问道：
     "你是从另一个星球上来的吗？"
 
 > Mais il ne me répondit pas. Il hochait la tête doucement tout en regardant mon avion:
-
-    可是他不回答我的问题。他一边看着我的飞机，一边微微地点点头，接着说道：
-
+> 
 > -C'est vrai que, là-dessus, tu ne peux pas venir de bien loin. . .
 
+    可是他不回答我的问题。他一边看着我的飞机，一边微微地点点头，接着说道：
     "可不是么，乘坐这玩意儿，你不可能是从很远的地方来的…"
 
 > Et il s'enfonça dans une rêverie qui dura longtemps. Puis, sortant mon mouton de sa poche, il se plongea dans la contemplation de son trésor.
@@ -79,63 +69,49 @@ photos:
     说到这里，他就长时间地陷入沉思之中。然后，从口袋里掏出了我画的小羊，看着他的珍宝入了神。
 
 > Vous imaginez combien j'avais pu être intrigué par cette demi-confidence sur "les autres planètes". Je m'efforçai donc d'en savoir plus long:
-
-    你们可以想见这种关于"别的星球"的若明若暗的话语使我心里多么好奇。因此我竭力地想知道其中更多的奥秘。
-
+> 
 > -D'où viens-tu mon petit bonhomme? Où est-ce "chez toi"? Où veux-tu emporter mon mouton?
 
+    你们可以想见这种关于"别的星球"的若明若暗的话语使我心里多么好奇。因此我竭力地想知道其中更多的奥秘。
     "你是从哪里来的，我的小家伙？你的家在什么地方？你要把我的小羊带到哪里去？"
 
 > Il me répondit après un silence méditatif:
-
-    他沉思了一会，然后回答我说：
-
+> 
 > -Ce qui est bien, avec la caisse que tu m'as donnée, c'est que, la nuit, ça lui servira de maison.
-
-    "好在有你给我的那只箱子，夜晚可以给小羊当房子用。"
-
 > -Bien sûr. Et si tu es gentil, je te donnerai aussi une corde pour l'attacher pendant le jour. Et un piquet.
 
+    他沉思了一会，然后回答我说：
+    "好在有你给我的那只箱子，夜晚可以给小羊当房子用。"
     "那当然。如果你听话的话，我再给你画一根绳子，白天可以栓住它。再加上一根扦杆。"
 
 > La proposition parut choquer le petit prince:
-
-    我的建议看来有点使小王子反感。
-
 > -L'attacher? Quelle drôle d'idée!
-
-    "栓住它，多么奇怪的主意。"
-
 > -Mais si tu ne l'attaches pas, il ira n'importe où, et il se perdra. . .
 
+    我的建议看来有点使小王子反感。
+    "栓住它，多么奇怪的主意。"
     "如果你不栓住它，它就到处跑，那么它会跑丢的。"
 
 > Et mon ami eut un nouvel éclat de rire:
-
-    我的这位朋友又笑出了声：
-
+> 
 > -Mais où veux-tu qu'il aille!
-
-    "你想要它跑到哪里去呀？"
-
+> 
 > -N'importe où. Droit devant lui. . .
 
+    我的这位朋友又笑出了声：
+    "你想要它跑到哪里去呀？"
     "不管什么地方。它一直往前跑…"
 
 > Alors le petit prince remarqua gravement:
-
-    这时，小王子郑重其事地说：
-
 > -Ça ne fait rien, c'est tellement petit, chez moi!
 
+    这时，小王子郑重其事地说：
     "这没有什么关系，我那里很小很小。"
 
 > Et, avec un peu de mélancolie, peut-être, il ajouta:
-
-    接着，他略带伤感地又补充了一句：
-
 > -Droit devant soi on ne peut pas aller bien loin. . .
 
+    接着，他略带伤感地又补充了一句：
     "一直朝前走，也不会走出多远…"
 
 # 学习笔记
@@ -226,7 +202,7 @@ Le petit prince, qui me **posait** **beaucoup** **de questions**, **ne** **sembl
 
 > Note:
 > 
-> **解读**：我」只有通过他无意中吐露的一些话来逐渐了解他的来历。
+> **解读**：「我」只有通过他无意中吐露的一些话来逐渐了解他的来历。
 > 
 > - C'est...qui... 
 >   > 强调句，强调主语，被强调部分放在 C'est 和 qui 之间，如：
