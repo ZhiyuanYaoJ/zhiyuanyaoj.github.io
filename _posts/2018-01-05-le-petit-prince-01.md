@@ -62,24 +62,15 @@ photos:
 
 > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 
-> J'ai montré mon chef d'oeuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur.
+> J'ai montré mon chef d'oeuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur. Elles m'ont répondu: "Pourquoi un chapeau ferait-il peur?"
 
     我把这幅杰作拿给大人看，我问他们我的画是不是让他们害怕。
-
-> Elles m'ont répondu: "Pourquoi un chapeau ferait-il peur?"
-
     他们回答我说："一顶帽子有什么可怕的？"
 
-> Mon dessin ne représentait pas un chapeau. Il représentait un serpent boa qui digérait un éléphant.
+> Mon dessin ne représentait pas un chapeau. Il représentait un serpent boa qui digérait un éléphant. J'ai alors dessiné l'intérieur du serpent boa, afin que les grandes personnes puissent comprendre. Elles ont toujours besoin d'explications. Mon dessin numéro 2 était comme ça:
 
     我画的不是帽子，是一条巨蟒在消化着一头大象。
-
-> J'ai alors dessiné l'intérieur du serpent boa, afin que les grandes personnes puissent comprendre. Elles ont toujours besoin d'explications.
-
     于是我又把巨蟒肚子里的情况画了出来，以便让大人们能够看懂，大人们总是需要解释。
-
-> Mon dessin numéro 2 était comme ça:
-
     我的第二号作品是这样的：
 
 > ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
@@ -88,52 +79,31 @@ photos:
 
     大人们劝我把这些画着开着肚皮的，或闭上肚皮的蟒蛇的图画放在一边，还是把兴趣放在地理、历史、算术、语法上。
 
-> C'est ainsi que j'ai abandonné, à l'âge de six ans, une magnifique carrière de peintre.
+> C'est ainsi que j'ai abandonné, à l'âge de six ans, une magnifique carrière de peintre. J'avais été découragé par l'insuccès de mon dessin numéro 1 et de mon dessin numéro 2. Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigant, pour les enfants, de toujours et toujours leur donner des explications.
 
     就这样，在六岁的那年，我就放弃了当画家这一美好的职业。
-
-> J'avais été découragé par l'insuccès de mon dessin numéro 1 et de mon dessin numéro 2.
-
     我的第一号、第二号作品的不成功，使我泄了气。
-
-> Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigant, pour les enfants, de toujours et toujours leur donner des explications.
-
     这些大人们，靠他们自己什么也弄不懂，还得老是不断地给他们作解释，这真叫孩子们腻味。
 
-> J'ai donc dû choisir un autre métier et j'ai appris à piloter des avions. J'ai volé un peu partout dans le monde.
+> J'ai donc dû choisir un autre métier et j'ai appris à piloter des avions. J'ai volé un peu partout dans le monde. Et la géographie, c'est exact, m'a beaucoup servi. Je savais reconnaître, du premier coup d'oeil, la Chine de l'Arizona. C'est très utile, si l'on est égaré pendant la nuit.
 
     后来，我只好选择了另外一个职业，我学会了开飞机，世界各地差不多都飞到过。
-
-> Et la géographie, c'est exact, m'a beaucoup servi. Je savais reconnaître, du premier coup d'oeil, la Chine de l'Arizona. C'est très utile, si l'on est égaré pendant la nuit.
-
     的确，地理学帮了我很大的忙。我一眼就能分辨出中国和亚里桑那。要是夜里迷失了航向，这是很有用的。
 
-> J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux.
+> J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux. J'ai beaucoup vécu chez les grandes personnes.
 
     这样，在我的生活中，我跟很多严肃的人有过很多的接触。
-
-> J'ai beaucoup vécu chez les grandes personnes.
-
     我在大人们中间生活过很长时间。
 
-> Je les ai vues de très près. Ca n'a pas trop amélioré mon opinion.
+> Je les ai vues de très près. Ca n'a pas trop amélioré mon opinion. Quand j'en rencontrais une qui me paraissait un peu lucide, je faisait l'expérience sur elle de mon dessin no.1 que j'ai toujours conservé. Je voulais savoir si elle était vraiment compréhensive.
 
     我仔细地观察过他们，但这并没有使我对他们的看法有多大的改变。
-
-> Quand j'en rencontrais une qui me paraissait un peu lucide, je faisait l'expérience sur elle de mon dessin no.1 que j'ai toujours conservé.
-
     当我遇到一个头脑看来稍微清楚的大人时，我就拿出一直保存着的我那第一号作品来测试测试他。
-
-> Je voulais savoir si elle était vraiment compréhensive.
-
     我想知道他是否真的有理解能力。
 
-> Mais toujours elle me répondait: "C'est un chapeau."
+> Mais toujours elle me répondait: "C'est un chapeau." Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni d'étoiles.
 
     可是，得到的回答总是："这是顶帽子。"
-
-> Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni d'étoiles.
-
     我就不和他谈巨蟒呀，原始森林呀，或者星星之类的事。
 
 > Je me mettais à sa portée. Je lui parlais de bridge, de golf, de politique et de cravates. Et la grande personne était bien contente de connaître un homme aussi raisonnable.
