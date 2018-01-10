@@ -28,82 +28,52 @@ photos:
 
 ![Quelque chose s'était cassé dans mon moteur](https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-casse.jpg)
 
-> C'était pour moi une question de vie ou de mort.
+> C'était pour moi une question de vie ou de mort. J'avais à peine de l'eau à boire pour huit jours. Le premier soir je me suis donc endormi sur le sable à mille milles de toute terre habitée. J'étais bien plus isolé qu'un naufragé sur un radeau au milieu de l'océan.
 
     这对我来说是个生与死的问题。
-
-> J'avais à peine de l'eau à boire pour huit jours.
-
     我随身带的水只够饮用一星期。
-
-> Le premier soir je me suis donc endormi sur le sable à mille milles de toute terre habitée.
-
     第一天晚上我就睡在这远离人间烟火的大沙漠上。
-
-> J'étais bien plus isolé qu'un naufragé sur un radeau au milieu de l'océan.
-
     我比大海中伏在小木排上的遇难者还要孤独得多。
  
-> Alors vous imaginez ma surprise, au lever du jour, quand une drôle de petite voix m'a réveillé.
+> Alors vous imaginez ma surprise, au lever du jour, quand une drôle de petite voix m'a réveillé. Elle disait: 
+> 
+> -S'il vous plaît. . . dessine-moi un mouton!
+> 
+> -Hein!
+> 
+> -Dessine-moi un mouton. . .
 
     而在第二天拂晓，当一个奇怪的小声音叫醒我的时候，你们可以想见我当时是多么吃惊。
-
-> Elle disait:
-
     这小小的声音说道：
-
-> - S'il vous plaît. . . dessine-moi un mouton!
-
     "请你给我画一只羊，好吗？"
-
-> - Hein!
-
     "啊！"
-
-> - Dessine-moi un mouton. . .
-
     "给我画一只羊…"
 
-> J'ai sauté sur mes pieds comme si j'avais été frappé par la foudre.
+> J'ai sauté sur mes pieds comme si j'avais été frappé par la foudre. J'ai bien frotté mes yeux. J'ai bien regardé.
 
     我像是受到惊雷轰击一般，一下子就站立起来。
-
-> J'ai bien frotté mes yeux.
-
     我使劲地揉了揉眼睛。
-
-> J'ai bien regardé.
-
     仔细地看了看。
 
-> Et j'ai vu un petit bonhomme tout à fait extraordinaire qui me considérait gravement.
+> Et j'ai vu un petit bonhomme tout à fait extraordinaire qui me considérait gravement. Voilà le meilleur portrait que, plus tard, j'ai réussi à faire de lui.
 
     我看见一个十分奇怪的小家伙严肃地朝我凝眸望着。
-
-> Voilà le meilleur portrait que, plus tard, j'ai réussi à faire de lui.
-
     这是后来我给他画出来的最好的一副画像。
 
 ![Le dessin du petit prince](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-du-petit-prince.jpeg)
 
-> Mais mon dessin, bien sûr, est beaucoup moins ravissant que le modèle.
+> Mais mon dessin, bien sûr, est beaucoup moins ravissant que le modèle. Ce n'est pas de ma faute.
 
     可是，我的画当然要比他本人的模样逊色得多。
-
-> Ce n'est pas de ma faute.
-
     这不是我的过错。
 
 > J'avais été découragé dans ma carrière de peintre par les grandes personnes, à l'âge de six ans, et je n'avais rien appris à dessiner, sauf les boas fermés et les boas ouverts.
 
     六岁时，大人们使我对我的画家生涯失去了勇气，除了画过开着肚皮和闭着肚皮的蟒蛇，后来再没有学过画。
 
-> Je regardai donc cette apparition avec des yeux tout ronds d'étonnement.
+> Je regardai donc cette apparition avec des yeux tout ronds d'étonnement. N'oubliez pas que je me trouvais à mille milles de toute région habitée.
 
     我惊奇地睁大着眼睛看着这突然出现的小家伙。
-
-> N'oubliez pas que je me trouvais à mille milles de toute région habitée.
-
     你们不要忘记，我当时处在远离人烟千里之外的地方。
 
 > Or mon petit bonhomme ne me semblait ni égaré, ni mort de fatigue, ni mort de faim, ni mort de soif, ni mort de peur.
@@ -115,39 +85,32 @@ photos:
     他丝毫不像是一个迷失在旷无人烟的大沙漠中的孩子。
 
 > Quand je réussis enfin à parler, je lui dis:
+> 
+> -Mais qu'est-ce que tu fais là?
 
     当我在惊讶之中终于又能说出话来的时候，对他说道：
-
-> - Mais qu'est-ce que tu fais là?
-
     "唉，你在这儿干什么？"
 
 > Et il me répéta alors, tout doucement, comme une chose très sérieuse:
+> 
+> -S'il vous plaît. . . dessine-moi un mouton. . .
 
     可是他却不慌不忙地好像有一件重要的事一般，对我重复地说道：
-
-> - S'il vous plaît. . . dessine-moi un mouton. . .
-
     "请…给我画一只羊…"
 
-> Quand le mystère est trop impressionnant, on n'ose pas désobéir.
+> Quand le mystère est trop impressionnant, on n'ose pas désobéir. Aussi absurde que cela me semblât à mille milles de tous les endroits habités et en danger de mort, je sortis de ma poche une feuille de papier et un stylographe.
 
-    当一种神秘的东西把你镇住的时候，你是不敢不听从它的支配的，
-
-> Aussi absurde que cela me semblât à mille milles de tous les endroits habités et en danger de mort, je sortis de ma poche une feuille de papier et un stylographe.
-
-    在这旷无人烟的沙漠上，面临死亡的危险的情况下，尽管这样的举动使我感到十分荒诞，我还是掏出了一张纸和一支钢笔。
+    在这旷无人烟的沙漠上，面临死亡的危险的情况下，尽管这样的举动使我感到十分荒诞，我还是掏出了一张纸和一支钢笔。当一种神秘的东西把你镇住的时候，你是不敢不听从它的支配的，
 
 > Mais je me rappelai alors que j'avais surtout étudié la géographie, l'histoire, le calcul et la grammaire et je dis au petit bonhomme (avec un peu de mauvaise humeur) que je ne savais pas dessiner.
 
     这时我却又记起，我只学过地理、历史、算术和语法，就有点不大高兴地对小家伙说我不会画画。
 
 > Il me répondit:
+> 
+> -Ça ne fait rien. Dessine-moi un mouton.
 
     他回答我说：
-
-> - Ça ne fait rien. Dessine-moi un mouton.
-
     "没有关系，给我画一只羊吧！"
 
 > Comme je n'avais jamais dessiné un mouton je refis, pour lui, l'un des deux seuls dessins dont j'étais capable. Celui du boa fermé.
@@ -157,134 +120,81 @@ photos:
 > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 
 > Et je fus stupéfait d'entendre le petit bonhomme me répondre:
+> 
+> -Non! Non!
+> 
+> -Je ne veux pas d'un éléphant dans un boa.
+> 
+> -Un boa c'est très dangereux, et un éléphant c'est très encombrant.
+> 
+> -Chez moi c'est tout petit.
+> 
+> -J'ai besoin d'un mouton. Dessine-moi un mouton.
 
     而当我听到小王子的回应后，十分得惊讶，他说：
-
-> - Non! Non!
-
     "不，不！
-
-> - Je ne veux pas d'un éléphant dans un boa.
-
     我不要肚子里有一头大象的蟒蛇。"
-
-> - Un boa c'est très dangereux, et un éléphant c'est très encombrant.
-
     "巨蟒这东西太危险，大象又太占地方。
-
-> - Chez moi c'est tout petit.
-
     "我住的地方非常小。"
-
-> J'ai besoin d'un mouton. Dessine-moi un mouton.
-
     "我需要一只羊。给我画一只羊吧。"
 
-> Alors j'ai dessiné.
+> Alors j'ai dessiné. Il regarda attentivement, puis:
+> 
+> -Non! Celui-là est déjà très malade. Fais-en un autre.
 
     我就给他画了。
-
-> Il regarda attentivement, puis:
-
     他专心地看着，随后又说：
+    "我不要，这只羊已经病得很重了。给我重新画一只。"
 
-> - Non!
-
-    "我不要，
-
-> - Celui-là est déjà très malade.
-
-    这只羊已经病得很重了。
-
-> - Fais-en un autre.
-
-    给我重新画一只。"
-
-> Je dessinai:
+> Je dessinai. Mon ami sourit gentiment, avec indulgence:
+> 
+> -Tu vois bien... ce n'est pas un mouton, c'est un bélier. Il a des cornes. . .
 
     我又画了起来。
-
-> Mon ami sourit gentiment, avec indulgence:
-
     我的这位朋友天真可爱地笑了，并且客气地拒绝道：
+    "你看，你画的不是小羊，是头公羊，还有犄角呢。"
 
-> - Tu vois bien. . .
-
-    "你看，
-
-> - ce n'est pas un mouton, c'est un bélier.
-
-    你画的不是小羊，是头公羊，
-
-> - Il a des cornes. . .
-
-    还有犄角呢。"
-
-> Je refis donc encore mon dessin:
+> Je refis donc encore mon dessin. Mais il fut refusé, comme les précédents: 
+> 
+> -Celui-là est trop vieux. Je veux un mouton qui vive longtemps.
 
     于是我又重新画了一张。
-
-> Mais il fut refusé, comme les précédents:
-
     这副画同前几副一样又被拒绝了。
-
-> -Celui-là est trop vieux.
-
-    "这一只太老了。
-
-> Je veux un mouton qui vive longtemps.
-
-    我想要一只能活得长的羊。"
+    "这一只太老了。我想要一只能活得长的羊。"
 
 ![Les dessins de trois mouton](https://ericyaoj.github.io/assets/images/french/le-petit-prince/trois-mouton.jpeg)
 
-> Alors, faute de patience, comme j'avais hâte de commencer le démontage de mon moteur, je griffonnai ce dessin-ci.
+> Alors, faute de patience, comme j'avais hâte de commencer le démontage de mon moteur, je griffonnai ce dessin-ci. Et je lançai:
+> 
+> -Ça c'est la caisse. Le mouton que tu veux est dedans.
 
-    我不耐烦了。因为我急于要检修发动机，于是就草草画了这张画，
-
-> Et je lançai:
-
-    并且匆匆地对他说道：
-
-> - Ça c'est la caisse. Le mouton que tu veux est dedans.
-
+    我不耐烦了。因为我急于要检修发动机，于是就草草画了这张画，并且匆匆地对他说道：
     "这是一只箱子，你要的羊就在里面。"
 
 ![La casse](https://ericyaoj.github.io/assets/images/french/le-petit-prince/casse.jpeg)
 
 > Mais je fus bien surpris de voir s'illuminer le visage de mon jeune juge:
+> 
+> -C'est tout à fait comme ça que je le voulais! Crois-tu qu'il faille beaucoup d'herbe à ce mouton?
+> 
+> -Pourquoi?
+> 
+> -Parce que chez moi c'est tout petit...
+> 
+> -Ça suffira sûrement. Je t'ai donné un tout petit mouton.
 
     这时我十分惊奇地看到我的这位小评判员喜笑颜开。他说：
-
-> - C'est tout à fait comme ça que je le voulais!
-
-    "这正是我想要的！
-> - Crois-tu qu'il faille beaucoup d'herbe à ce mouton?
-
-    你说这只羊需要很多草吗？"
-
-> - Pourquoi?
-
+    "这正是我想要的！你说这只羊需要很多草吗？"
     "为什么问这个呢？"
-
-> - Parce que chez moi c'est tout petit. . .
-
     "因为我那里地方非常小…"
-
-> - Ça suffira sûrement. Je t'ai donné un tout petit mouton.
-
     "地方肯定够，我给你画的是一只很小的小羊。"
 
 > Il pencha la tête vers le dessin:
+> 
+> -Pas si petit que ça. . . Tiens! Il s'est endormi...
 
     他把脑袋靠近这张画。
-
-> - Pas si petit que ça. . . Tiens!
-
     "并不像你说的那么小…瞧！
-
-> Il s'est endormi. . .
-
     它睡着了…"
 
 > Et c'est ainsi que je fis la connaissance du petit prince.
