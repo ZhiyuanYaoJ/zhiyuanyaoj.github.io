@@ -3,10 +3,10 @@ title: Deep Learning Resources
 date: 2017-09-25 14:00:00
 description: Resources gathering for learning deep learning, including papers in relative fields, references to APIs, etc.
 categories:
-- Deeplearning
+- DeepLearning
 - RNN
 tags:
-- Deeplearning
+- DeepLearning
 - RNN
 photos:
 ---
