@@ -1,7 +1,7 @@
 ---
-title: Effective C++ - Item 2 - Prefer `consts`, `enums`, and `inlines` to `#defines`
+title: Effective C++ - Item 2 - Prefer consts, enums, and inlines to #defines
 date: 2018-01-15 12:31:00
-description: Notes taken when reading Effective C++ (3rd Edition), Chapter 1 - Item 2 - Prefer `consts`, `enums`, and `inlines` to `#defines`
+description: Notes taken when reading Effective C++ (3rd Edition), Chapter 1 - Item 2 - Prefer consts, enums, and inlines to #defines
 categories:
 - C++
 tags:
