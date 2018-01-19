@@ -1,7 +1,7 @@
 ---
 title: 《小王子》读书笔记 - 第十三章
 date: 2018-01-15 21:30
-description: 今天份的《小王子》读书笔记，第十五章！
+description: 今天份的《小王子》读书笔记，第十三章！
 categories:
 - Français
 tags:
@@ -10,13 +10,160 @@ photos:
 - 
 ---
 
-# 第十二章
+# 第十三章
 
 ## 概述
 
 小王子旅途中的第五颗星球非常小，上面只有一盏街灯和一位点灯人，小王子和点灯人之间会有怎样的对话呢。
 
 ## 原文及翻译
+
+> La sixième planète était une planète dix fois plus vaste. Elle était habitée par un vieux Monsieur qui écrivait d'énormes livres.
+> 
+> -Tiens! voilà un explorateur ! s'écria-t-il, quand il aperçut le petit prince.
+> 
+> Le petit prince s'assit sur la table et souffla un peu. Il avait déjà tant voyagé!
+
+    第六颗行星则要大十倍。上面住着一位老先生，他在写作大部头的书。
+    "瞧！来了一位探险家。"老先生看到小王子时，叫了起来。
+    小王子在桌旁坐下，有点气喘吁吁。他跑了多少路啊！
+
+> -D'où viens-tu ? lui dit le vieux Monsieur.
+> 
+> -Quel est ce gros livre ? dit le petit prince. Que faites-vous ici?
+> 
+> -Je suis géographe, dit le vieux Monsieur.
+> 
+> -Qu'est-ce qu'un géographe ?
+> 
+> -C'est un savant qui connaît où se trouvent les mers, les fleuves, les villes, les montagnes et les déserts.
+> 
+> -Ça c'est bien intéressant, dit le petit prince. Ça c'est enfin un véritable métier !
+
+
+    "你从哪里来的呀？"老先生问小王子。
+    "这一大本是什么书？你在这里干什么？"小王子问道。
+    "我是地理学家。"老先生答道。
+    "什么是地理学家？"
+    "地理学家，就是一种学者，他知道哪里有海洋，哪里有江河、城市、山脉、沙漠。"
+    "这倒挺有意思。"小王子说。
+    "这才是一种真正的行当。"
+
+> Et il jeta un coup d'œil autour de lui sur la planète du géographe. Il n'avait jamais vu encore une planète aussi majestueuse.
+> 
+> -Elle est bien belle, votre planète. Est-ce qu'il y a des océans?
+> 
+> -Je ne puis pas le savoir, dit le géographe.
+> 
+> -Ah! (Le petit prince était déçu. ) Et des montagnes ?
+> 
+> -Je ne puis pas le savoir, dit le géographe.
+> 
+> -Et des villes et des fleuves et des déserts ?
+> 
+> -Je ne puis pas le savoir non plus, dit le géographe.
+> 
+> -Mais vous êtes géographe !
+> 
+> -C'est exact, dit le géographe, mais je ne suis pas explorateur. Je manque absolument d'explorateurs. Ce n'est pas le géographe qui va faire le compte des villes, des fleuves, des montagnes, des mers, des océans et des déserts. Le géographe est trop important pour flâner. Il ne quitte pas son bureau. Mais il y reçoit les explorateurs. Il les interroge, et il prend en note leurs souvenirs. Et si les souvenirs de l'un d'entre eux lui paraissent intéressants, le géographe fait faire une enquête sur la moralité de l'explorateur. 
+
+    他朝四周围看了看这位地理学家的星球。他还从来没有见过一颗如此壮观的行星。
+    "您的星球真美呀。上面有海洋吗？"
+    "这我没法知道。"地理学家说。
+    "啊！"小王子大失所望。"那么，山脉呢？"
+    "这，我没法知道。"地理学家说。
+    "那么，有城市、河流、沙漠吗？"
+    "这，我也没法知道。"地理学家说。
+    "可您还是地理学家呢！"
+    "一点不错，"地理学家说，"但是我不是探察家。我缺的正是探察家。地理学家是不去计算城市、河流、山脉、海洋、沙漠的。地理学家很重要，不能到处跑。他不能离开他的办公室。但他可以在办公室里接见探察家。他询问探察家，把他们的回忆记录下来。如果他认为其中有个探察家的回忆是有意思的，那么地理学家就对这个探察家的品德做一番调查。"
+
+> -Pourquoi ça ?
+> 
+> -Parce qu'un explorateur qui mentirait entraînerait des catastrophes dans les livres de géographie. Et aussi un explorateur qui boirait trop.
+> 
+> -Pourquoi ça ? fit le petit prince.
+> 
+> -Parce que les ivrognes voient double. Alors le géographe noterait deux montagnes, là où il n'y en a qu'une seule.
+> 
+> -Je connais quelqu'un, dit le petit prince, qui serait mauvais explorateur.
+> 
+> -C'est possible. Donc, quand la moralité de l'explorateur paraît bonne, on fait une enquête sur sa découverte.
+> 
+> -On va voir ?
+> 
+> -Non. C'est trop compliqué. Mais on exige de l'explorateur qu'il fournisse des preuves. S'il s'agit par exemple de la découverte d'une grosse montagne, on exige qu'il en rapporte de grosses pierres.
+
+    "这是为什么呢？"
+    "因为一个说假话的探察家会给地理书带来灾难性的后果。同样，一个太爱喝酒的探察家也是如此。"
+    "这又是为什么？"小王子说。
+    "因为喝醉了酒的人把一个看成两个，那么，地理学家就会把只有一座山的地方写成两座山。"
+    "我认识一个人，他要是搞探察的话，就很可能是个不好的探察员。"小王子说。
+    "这是可能的。因此，如果探察家的品德不错，就对他的发现进行调查。"
+    "去看一看吗？"
+    "不。那太复杂了。但是要求探察家提出证据来。例如，假使他发现了一座大山，就要求他带来一些大石头。"
+
+Le géographe soudain s'émut.
+地理学家忽然忙乱起来。
+- Mais toi, tu viens de loin ! Tu es explorateur ! Tu vas me décrire ta planète !
+"正好，你是从老远来的么！你是个探察家！你来给我介绍一下你的星球吧！"
+Et le géographe, ayant ouvert son registre, tailla son crayon.
+于是，已经打开登记簿的地理学家，削起他的铅笔来。
+On note d'abord au crayon les récits des explorateurs.
+他首先是用铅笔记下探察家的叙述。
+On attend, pour noter à l'encre, que l'explorateur ait fourni des preuves.
+等到探察家提出了证据以后再用墨水笔记下来。
+- Alors? interrogea le géographe.
+"怎么样？"地理学家询问道。
+- Oh! chez moi, dit le petit prince, ce n'est pas très intéressant, c'est tout petit.
+"啊！我那里，"小王子说道，"没有多大意思，那儿很小。
+J'ai trois volcans. Deux volcans en activité, et un volcan éteint. Mais on ne sait jamais.
+我有三座火山，两座是活的，一座是熄灭了的。但是也很难说。"
+- On ne sait jamais, dit le géographe.
+"很难说。"地理学家说道。
+- J'ai aussi une fleur.
+"我还有一朵花。"
+- Nous ne notons pas les fleurs, dit le géographe.
+"我们是不记载花卉的。"地理学家说。
+- Pourquoi ça ! c'est le plus joli !
+"这是为什么？花是最美丽的东西。"
+- Parce que les fleurs sont éphémères.
+"因为花卉是短暂的。"
+- Qu'est ce que signifie: "éphémère" ?
+"什么叫短暂？"
+- Les géographies, dit le géographe, sont les livres les plus sérieux de tous les livres.
+"地理学书籍是所有书中最严肃的书。"地理学家说道。
+Elles ne se démodent jamais.
+"这类书是从不会过时的。
+Il est très rare qu'une montagne change de place. Il est très rare qu'un océan se vide de son eau.
+很少会发生一座山变换了位置，很少会出现一个海洋干涸的现象。
+Nous écrivons des choses éternelles.
+我们要写永恒的东西。"
+- Mais les volcans éteints peuvent se réveiller, interrompit le petit prince. Qu'est-ce que signifie "éphémère" ?
+"但是熄灭的火山也可能会再复苏的。"小王子打断了地理学家。"什么叫短暂？"
+- Que les volcans soient éteints ou soient éveillés, ça revient au même pour nous autres, dit le géographe.
+"火山是熄灭了的也好，苏醒的也好，这对我们地理学家来说都是一回事。"地理学家说。
+Ce qui compte pour nous, c'est la montagne. Elle ne change pas.
+"对我们来说，重要的是山。山是不会变换位置的。"
+- Mais qu'est-ce que signifie "éphémère" ? répéta le petit prince qui, de sa vie, n'avait renoncé à une question, une fois qu'il l'avait posée.
+"但是，'短暂'是什么意思？"小王子再三地问道。他一旦提出一个问题是从不放过的。
+- Ça signifie "qui est menacé de disparition prochaine".
+"意思就是：有很快就会消失的危险。"
+- Ma fleur est menacée de disparition prochaine ?
+"我的花是很快就会消失的吗？"
+- Bien sûr.
+"那当然。"
+Ma fleur est éphémère, se dit le petit prince, et elle n'a que quatre épines pour se défendre contre le monde !
+小王子自言自语地说："我的花是短暂的，而且她只有四根刺来防御外侮！
+Et je l'ai laissée toute seule chez moi !
+可我还把她独自留在家里！"
+Ce fut là son premier mouvement de regret. Mais il reprit courage:
+这是他第一次产生了后悔，但他又重新振作起来：
+- Que me conseillez-vous d'aller visiter ? demanda-t-il.
+"您是否能建议我去看些什么？"小王子问道。
+- La planète Terre, lui répondit le géographe. Elle a une bonne réputation. . .
+"地球这颗行星，"地理学家回答他说，"它的名望很高…"
+Et le petit prince s'en fut, songeant à sa fleur.
+于是小王子就走了，他一边走一边想着他的花。
 
 > La cinquième planète était très curieuse. C'était la plus petite de toutes. Il y avait là juste assez de place pour loger un réverbère et un allumeur de réverbères.
 
