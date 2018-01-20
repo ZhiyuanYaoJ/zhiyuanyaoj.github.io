@@ -102,35 +102,42 @@ photos:
     "去看一看吗？"
     "不。那太复杂了。但是要求探察家提出证据来。例如，假使他发现了一座大山，就要求他带来一些大石头。"
 
-Le géographe soudain s'émut.
-地理学家忽然忙乱起来。
-- Mais toi, tu viens de loin ! Tu es explorateur ! Tu vas me décrire ta planète !
-"正好，你是从老远来的么！你是个探察家！你来给我介绍一下你的星球吧！"
-Et le géographe, ayant ouvert son registre, tailla son crayon.
-于是，已经打开登记簿的地理学家，削起他的铅笔来。
-On note d'abord au crayon les récits des explorateurs.
-他首先是用铅笔记下探察家的叙述。
-On attend, pour noter à l'encre, que l'explorateur ait fourni des preuves.
-等到探察家提出了证据以后再用墨水笔记下来。
-- Alors? interrogea le géographe.
-"怎么样？"地理学家询问道。
-- Oh! chez moi, dit le petit prince, ce n'est pas très intéressant, c'est tout petit.
-"啊！我那里，"小王子说道，"没有多大意思，那儿很小。
-J'ai trois volcans. Deux volcans en activité, et un volcan éteint. Mais on ne sait jamais.
-我有三座火山，两座是活的，一座是熄灭了的。但是也很难说。"
-- On ne sait jamais, dit le géographe.
-"很难说。"地理学家说道。
-- J'ai aussi une fleur.
-"我还有一朵花。"
-- Nous ne notons pas les fleurs, dit le géographe.
-"我们是不记载花卉的。"地理学家说。
-- Pourquoi ça ! c'est le plus joli !
-"这是为什么？花是最美丽的东西。"
-- Parce que les fleurs sont éphémères.
-"因为花卉是短暂的。"
-- Qu'est ce que signifie: "éphémère" ?
+> Le géographe soudain s'émut.
+> 
+> -Mais toi, tu viens de loin ! Tu es explorateur ! Tu vas me décrire ta planète! 
+> 
+> Et le géographe, ayant ouvert son registre, tailla son crayon. On note d'abord au crayon les récits des explorateurs. On attend, pour noter à l'encre, que l'explorateur ait fourni des preuves.
+
+    地理学家忽然忙乱起来。
+    "正好，你是从老远来的么！你是个探察家！你来给我介绍一下你的星球吧！"
+    于是，已经打开登记簿的地理学家，削起他的铅笔来。他首先是用铅笔记下探察家的叙述。等到探察家提出了证据以后再用墨水笔记下来。
+
+> -Alors? interrogea le géographe.
+> 
+> -Oh! chez moi, dit le petit prince, ce n'est pas très intéressant, c'est tout petit. J'ai trois volcans. Deux volcans en activité, et un volcan éteint. Mais on ne sait jamais.
+> 
+> -On ne sait jamais, dit le géographe.
+> 
+> -J'ai aussi une fleur.
+> 
+> -Nous ne notons pas les fleurs, dit le géographe.
+> 
+> -Pourquoi ça ! c'est le plus joli!
+> 
+> -Parce que les fleurs sont éphémères.
+
+    "怎么样？"地理学家询问道。
+    "啊！我那里，"小王子说道，"没有多大意思，那儿很小。我有三座火山，两座是活的，一座是熄灭了的。但是也很难说。"
+    "很难说。"地理学家说道。
+    "我还有一朵花。"
+    "我们是不记载花卉的。"地理学家说。
+    "这是为什么？花是最美丽的东西。"
+    "因为花卉是短暂的。"
+
+-Qu'est ce que signifie: "éphémère" ?
+-Les géographies, dit le géographe, sont les livres les plus sérieux de tous les livres.
+
 "什么叫短暂？"
-- Les géographies, dit le géographe, sont les livres les plus sérieux de tous les livres.
 "地理学书籍是所有书中最严肃的书。"地理学家说道。
 Elles ne se démodent jamais.
 "这类书是从不会过时的。
