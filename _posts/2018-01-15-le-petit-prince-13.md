@@ -14,7 +14,7 @@ photos:
 
 ## 概述
 
-小王子旅途中的第五颗星球非常小，上面只有一盏街灯和一位点灯人，小王子和点灯人之间会有怎样的对话呢。
+告别了点灯人，继续前行的小王子来到了他旅途中的第六颗星球，在这颗星球上，他遇到了一位白发苍苍的地理学家.....
 
 ## 原文及翻译
 
@@ -27,6 +27,8 @@ photos:
     第六颗行星则要大十倍。上面住着一位老先生，他在写作大部头的书。
     "瞧！来了一位探险家。"老先生看到小王子时，叫了起来。
     小王子在桌旁坐下，有点气喘吁吁。他跑了多少路啊！
+
+![原作中对“地理学家”的插图](https://ericyaoj.github.io/assets/images/french/le-petit-prince/geographe.jpg)
 
 > -D'où viens-tu ? lui dit le vieux Monsieur.
 > 
@@ -76,6 +78,8 @@ photos:
     "这，我也没法知道。"地理学家说。
     "可您还是地理学家呢！"
     "一点不错，"地理学家说，"但是我不是探察家。我缺的正是探察家。地理学家是不去计算城市、河流、山脉、海洋、沙漠的。地理学家很重要，不能到处跑。他不能离开他的办公室。但他可以在办公室里接见探察家。他询问探察家，把他们的回忆记录下来。如果他认为其中有个探察家的回忆是有意思的，那么地理学家就对这个探察家的品德做一番调查。"
+
+![地理学家和小王子](https://ericyaoj.github.io/assets/images/french/le-petit-prince/geographe-et-prince.jpg)
 
 > -Pourquoi ça ?
 > 
@@ -134,464 +138,244 @@ photos:
     "这是为什么？花是最美丽的东西。"
     "因为花卉是短暂的。"
 
--Qu'est ce que signifie: "éphémère" ?
--Les géographies, dit le géographe, sont les livres les plus sérieux de tous les livres.
-
-"什么叫短暂？"
-"地理学书籍是所有书中最严肃的书。"地理学家说道。
-Elles ne se démodent jamais.
-"这类书是从不会过时的。
-Il est très rare qu'une montagne change de place. Il est très rare qu'un océan se vide de son eau.
-很少会发生一座山变换了位置，很少会出现一个海洋干涸的现象。
-Nous écrivons des choses éternelles.
-我们要写永恒的东西。"
-- Mais les volcans éteints peuvent se réveiller, interrompit le petit prince. Qu'est-ce que signifie "éphémère" ?
-"但是熄灭的火山也可能会再复苏的。"小王子打断了地理学家。"什么叫短暂？"
-- Que les volcans soient éteints ou soient éveillés, ça revient au même pour nous autres, dit le géographe.
-"火山是熄灭了的也好，苏醒的也好，这对我们地理学家来说都是一回事。"地理学家说。
-Ce qui compte pour nous, c'est la montagne. Elle ne change pas.
-"对我们来说，重要的是山。山是不会变换位置的。"
-- Mais qu'est-ce que signifie "éphémère" ? répéta le petit prince qui, de sa vie, n'avait renoncé à une question, une fois qu'il l'avait posée.
-"但是，'短暂'是什么意思？"小王子再三地问道。他一旦提出一个问题是从不放过的。
-- Ça signifie "qui est menacé de disparition prochaine".
-"意思就是：有很快就会消失的危险。"
-- Ma fleur est menacée de disparition prochaine ?
-"我的花是很快就会消失的吗？"
-- Bien sûr.
-"那当然。"
-Ma fleur est éphémère, se dit le petit prince, et elle n'a que quatre épines pour se défendre contre le monde !
-小王子自言自语地说："我的花是短暂的，而且她只有四根刺来防御外侮！
-Et je l'ai laissée toute seule chez moi !
-可我还把她独自留在家里！"
-Ce fut là son premier mouvement de regret. Mais il reprit courage:
-这是他第一次产生了后悔，但他又重新振作起来：
-- Que me conseillez-vous d'aller visiter ? demanda-t-il.
-"您是否能建议我去看些什么？"小王子问道。
-- La planète Terre, lui répondit le géographe. Elle a une bonne réputation. . .
-"地球这颗行星，"地理学家回答他说，"它的名望很高…"
-Et le petit prince s'en fut, songeant à sa fleur.
-于是小王子就走了，他一边走一边想着他的花。
-
-> La cinquième planète était très curieuse. C'était la plus petite de toutes. Il y avait là juste assez de place pour loger un réverbère et un allumeur de réverbères.
-
-    第五颗行星非常奇怪。是这些星星中最小的一颗。
-    行星上刚好能容得下一盏路灯和一个点路灯的人。
-
-> Le petit prince ne parvenait pas à s'expliquer à quoi pouvaient servir, quelque part dans le ciel, sur une planète sans maison, ni population, un réverbère et un allumeur de réverbères.
-
-    小王子怎么也解释不通：这个坐落在天空某一角落，既没有房屋又没有居民的行星上，要一盏路灯和一个点灯的人做什么用。
-
-![原作中对“点灯人”的插图](https://ericyaoj.github.io/assets/images/french/le-petit-prince/allumeur.jpg)
-
-> Cependant il se dit en lui-même: 
+> -Qu'est ce que signifie: "éphémère" ?
 > 
-> - Peut-être bien que cet homme est absurde. Cependant il est moins absurde que le roi, que le vaniteux, que le businessman et que le buveur. Au moins son travail a-t-il un sens. Quand il allume son réverbère, c'est comme s'il faisait naître une étoile de plus, ou une fleur. Quand il éteint son réverbère ça endort la fleur ou l'étoile. C'est une occupation très jolie. C'est véritablement utile puisque c'est joli.
+> -Les géographies, dit le géographe, sont les livres les plus sérieux de tous les livres. Elles ne se démodent jamais. Il est très rare qu'une montagne change de place. Il est très rare qu'un océan se vide de son eau. Nous écrivons des choses éternelles.
 
-    但他自己猜想："可能这个人思想不正常。但他比起国王，比起那个爱虚荣的人，那个实业家和酒鬼，却要好些。至少他的工作还有点意义。当他点着了他的路灯时，就像他增添了一颗星星，或是一朵花。当他熄灭了路灯时，就像让星星或花朵睡着了似的。这差事真美妙，就是真正有用的了。"
+    "什么叫短暂？"
+    "地理学书籍是所有书中最严肃的书。"地理学家说道。"这类书是从不会过时的。很少会发生一座山变换了位置，很少会出现一个海洋干涸的现象。我们要写永恒的东西。"
 
-> Lorsqu'il aborda la planète il salua respectueusement l'allumeur:
+> -Mais les volcans éteints peuvent se réveiller, interrompit le petit prince. Qu'est-ce que signifie "éphémère" ?
 > 
-> -Bonjour. Pourquoi viens-tu d'éteindre ton réverbère ?
+> -Que les volcans soient éteints ou soient éveillés, ça revient au même pour nous autres, dit le géographe. 
 > 
-> -C'est la consigne, répondit l'allumeur. Bonjour.
+> Ce qui compte pour nous, c'est la montagne. Elle ne change pas.
+
+    "但是熄灭的火山也可能会再复苏的。"小王子打断了地理学家。"什么叫短暂？"
+    "火山是熄灭了的也好，苏醒的也好，这对我们地理学家来说都是一回事。"地理学家说。
+    "对我们来说，重要的是山。山是不会变换位置的。"
+
+> -Mais qu'est-ce que signifie "éphémère" ? répéta le petit prince qui, de sa vie, n'avait renoncé à une question, une fois qu'il l'avait posée.
 > 
-> -Qu'est-ce que la consigne ?
+> -Ça signifie "qui est menacé de disparition prochaine".
 > 
-> -C'est d'éteindre mon réverbère. Bonsoir.
+> -Ma fleur est menacée de disparition prochaine ?
 > 
-> Et il le ralluma.
+> -Bien sûr.
 
-    小王子一到了这个行星上，就很尊敬地向点路灯的人打招呼：
-    "早上好。——你刚才为什么把路灯灭了呢？"
-    "早上好。——这是命令。"点灯的回答道。
-    "命令是什么？"
-    "就是熄掉我的路灯。——晚上好。"
-    于是他又点燃了路灯。
+    "但是，'短暂'是什么意思？"小王子再三地问道。他一旦提出一个问题是从不放过的。
+    "意思就是：有很快就会消失的危险。"
+    "我的花是很快就会消失的吗？"
+    "那当然。"
 
-> -Mais pourquoi viens-tu de le rallumer ?
+> Ma fleur est éphémère, se dit le petit prince, et elle n'a que quatre épines pour se défendre contre le monde ! Et je l'ai laissée toute seule chez moi !
 > 
-> -C'est la consigne, répondit l'allumeur.
+> Ce fut là son premier mouvement de regret. Mais il reprit courage:
 > 
-> -Je ne comprends pas, dit le petit prince.
->  
-> -Il n'y a rien à comprendre, dit l'allumeur. La consigne c'est la consigne. Bonjour.
+> -Que me conseillez-vous d'aller visiter ? demanda-t-il.
 > 
-> Et il éteignit son réverbère.
-
-    "那么为什么你又把它点着了呢？"
-    "这是命令。"点灯的人回答道。
-    "我不明白。"小王子说。
-    "没什么要明白的。命令就是命令。"点灯的回答说。"早上好。"
-    于是他又熄灭了路灯。
-
-> Puis il s'épongea le front avec un mouchoir à carreaux rouges.
+> -La planète Terre, lui répondit le géographe. Elle a une bonne réputation. . .
 > 
-> -Je fais là un métier terrible. C'était raisonnable autrefois. J'éteignais le matin et j'allumais le soir. J'avais le reste du jour pour me reposer, et le reste de la nuit pour dormir...
+> Et le petit prince s'en fut, songeant à sa fleur.
 
-    然后他拿一块有红方格子的手绢擦着额头。
-    "我干的是一种可怕的职业。以前还说得过去，早上熄灯，晚上点灯。剩下时间，白天我就休息，夜晚我就睡觉…"
-
-> -Et, depuis cette époque, la consigne a changé ?
-> 
-> -La consigne n'a pas changé, dit l'allumeur. C'est bien là le drame ! La planète d'année en année a tourné de plus en plus vite, et la consigne n'a pas changé !
-
-    "那么，后来命令改变了，是吗？"
-    点灯的人说："命令没有改，惨就惨在这里了！这颗行星一年比一年转得更快，而命令却没有改。"
-
-> -Alors? dit le petit prince.
-> 
-> -Alors maintenant qu'elle fait un tour par minute, je n'ai plus une seconde de repos. J'allume et j'éteins une fois par minute !
-
-    "结果呢？"小王子问。
-    "结果现在每分钟转一圈，我连一秒钟的休息时间都没有了。每分钟我就要点一次灯，熄一次灯！"
-
-> -Ça c'est drôle ! Les jours chez toi durent une minute !
-> 
-> -Ce n'est pas drôle du tout, dit l'allumeur. Ça fait déjà un mois que nous parlons ensemble.
-> 
-> -Un mois ?
-> 
-> -Oui. Trente minutes. Trente jours ! Bonsoir.
-> 
-> Et il ralluma son réverbère.
-
-    "真有趣，你这里每天只有一分钟长？"
-    "一点趣味也没有，"点灯的说，"我们俩在一块说话就已经有一个月的时间了。"
-    "一个月？"
-    "对。三十分钟。三十天！——晚上好。"
-    于是他又点着了了他的路灯。
-
-> Le petit prince le regarda et il aima cet allumeur qui était tellement fidèle à la consigne. Il se souvint des couchers de soleil que lui-même allait autrefois chercher, en tirant sa chaise.
-
-    小王子瞅着他，他喜欢这个点灯人如此忠守命令。这时，他想起了他自己从前挪动椅子寻找日落的事。
-
-> Il voulut aider son ami:
-> 
-> -Tu sais. . . je connais un moyen de te reposer quand tu voudras. . .
-> 
-> -Je veux toujours, dit l'allumeur.
-> 
-> Car on peut être, à la fois, fidèle et paresseux.
-
-    他很想帮助他的这位朋友。"告诉你，我知道一种能使你休息的办法，你要什么时候休息都可以。"
-    "我老是想休息。"点灯人说。
-    因为，一个人可以同时是忠实的，又是懒惰的。
-
-> Le petit prince poursuivit:
-> 
-> -Ta planète est tellement petite que tu en fais le tour en trois enjambées. Tu n'as qu'à marcher assez lentement pour rester toujours au soleil. Quand tu voudras te reposer tu marcheras... et le jour durera aussi longtemps que tu voudras.
-> 
-> -Ça ne m'avance pas à grand'chose, dit l'allumeur. Ce que j'aime dans la vie, c'est dormir.
-
-    小王子接着说："你的这颗行星这样小，你三步就可以绕它一圈。你只要慢慢地走，就可以一直在太阳的照耀下。你想休息的时候，你就这样走…那么，你要白天又多长它就有多长。"
-    "这办法帮不了我多大忙，生活中我喜欢的就是睡觉。"点灯人说。
-
-> -Ce n'est pas de chance, dit le petit prince.
-> 
-> -Ce n'est pas de chance, dit l'allumeur. Bonjour.
-> 
-> Et il éteignit son réverbère.
-
-    "真不走运。"小王子说。
-    "真不走运。"点灯人说。"早上好。"
-    于是他又熄灭了路灯。
-
-> Celui-là, se dit le petit prince, tandis qu'il poursuivait plus loin son voyage, celui-là serait méprisé par tous les autres, par le roi, par le vaniteux, par le buveur, par le businessman.
-
-    小王子在他继续往前旅行的途中，自言自语地说道："这个人一定会被其他那些人，国王呀，爱虚荣的呀，酒鬼呀，实业家呀，所瞧不起。
-
-> Cependant c'est le seul qui ne me paraisse pas ridicule. C'est, peut-être, parce qu'il s'occupe d'autre chose que de soi-même.
-
-    可是唯有他不使我感到荒唐可笑。这可能是因为他所关心的是别的事，而不是他自己。"
-
-> Il eut un soupir de regret et se dit encore:
-> 
-> -Celui-là est le seul dont j'eusse pu faire mon ami. Mais sa planète est vraiment trop petite. Il n'y a pas de place pour deux...
-
-    他惋惜地叹了口气，并且又对自己说道：
-    "本来这是我唯一可以和他交成朋友的人。可是他的星球确实太小了，住不下两个人…"
-
-> Ce que le petit prince n'osait pas s'avouer, c'est qu'il regrettait cette planète bénie à cause, surtout, des mille quatre cent quarante couchers de soleil par vingt-quatre heures !
-
-    小王子没有勇气承认的是：他留恋这颗令人赞美的星星，特别是因为在那里每二十四小时就有一千四百四十次日落！
+    小王子自言自语地说："我的花是短暂的，而且她只有四根刺来防御外侮！可我还把她独自留在家里！" 这是他第一次产生了后悔，但他又重新振作起来："您是否能建议我去看些什么？" 小王子问道。"地球这颗行星，" 地理学家回答他说，"它的名望很高…" 于是小王子就走了，他一边走一边想着他的花。
 
 # 学习笔记
 
 ## 每日一句
 
-Changer le monde commence par se changer soi-même.
+Ce qui est le plus pitoyable pour l'homme, c'est de ne pas avoir la connaissance et de ne pas pouvoir se contraindre.
 
 ```
-改变世界要从改变自己开始。
+人最可悲的是没有知识和不能自我约束。
 ```
 
 ## 短语总结
 
 ```
-- parvenir à | 抵达，到达；达到
+- faire le compte de | 计数；计算
 
-- quelque part | 在某地, 在某处
+- trop...pour | 太...以至于不能
 
-- d'année en année | 年复一年地
+- exiger de qqn. que + subj. | 向某人要求...
 
-- de plus en plus | 越来越
+- il s'agit de | 有关于，关系到，涉及
 
-- maintenant que | 既然现在
-
-- se souvenir de | 想起，记得
-
-- faire le tour de qqch. | 环绕某物或某地一圈
-
-- n'avoir qu'à + inf. | 只需做某事
-
-- aussi longtemps que | 只要，和...一样长时间地
-
-- tandis que | 当...的时候；而，然而
+- revenir au même | 是相同的，是一回事
 ```
 
 ## 句子赏析
 
 ### 例句一
 
-Le petit prince ne **parvenait** pas **à** s'expliquer **à** quoi pouvaient **servir**, **quelque part** dans le ciel, sur une planète sans maison, ni population, un réverbère et un allumeur de réverbères.
+"**Tiens**! voilà un **explorateur** !" **s'écria**-t-il, quand il **aperçut** le petit prince.
 
 > Note:
 > 
-> **解读**：小王子怎么也解释不通：这个坐落在天空某一角落，既没有房屋又没有居民的行星上，要一盏路灯和一个点灯的人做什么用。
+> **解读**：小王子所拜访的第六颗星球上住着一位地理学家，当他看到小王子到来的时候，叫了起来：“瞧！来了一位探险家。”
 > 
-> - parvenir à 抵达，到达；达到
+> - Tiens! interj. 喂，瞧，嘿，噢！ 
+>   > tiens 在这里作语气词，用来对方吸引注意力，也可以用于表达惊讶或是讽刺之情，如：
+>   > 
+>   >       Tiens ! Te Voilà ! 噢！你（终于）来了！
+>   >       Tiens ! Qu'est-ce que tu fais là ? 嘿，你在那做什么呢？
+>   >       Tiens, n'oublie pas ta clé ! 喂, 别忘了你的钥匙！
 > 
->       parvenir au haut d'une montagne 抵达山顶
->       parvenir à ses fins 达到目的
->       Ils désireraient parvenir à un accord lors de la prochaine rencontre. 
->       他们希望下次见面时能够达成一致意见。
+> - s'écrier v.pr. 喊叫，大声说
 > 
-> - servir à 用于，用作
->   > à quoi 这里引导补语从句，从句的主语是最后的 "un réverbère et un allumeur de réverbères"，中间的 "quelque part dans le ciel, sur une planète sans maison, ni population" 全部都是状语成分。
-> 
-> - quelque part loc.adv. 在某地, 在某处 
-> 
->       Je crois bien que sur ma planète il y a quelque part un vieux rat.
+>       Elle s'écrie qu'elle ne désespérera jamais. 
+>       她大声说，她永远不会灰心。
 >       
->       Je l'ai déjà vu quelque part. 
->       我在什么地方见过他。
+>       "Une explosion... c'est terrible !" s'écrie une vieille dame. 
+>       “爆炸...太恐怖了！”一位老太太喊道。
 >       
->       Je crois que quelque part dans le monde, quelqu'un m'attend. 
->       我相信在世界上某个角落，总有人在等我。
+> - explorateur,trice 探险家，勘探者
+> - apercevoir v.t. 瞥见，瞧见
+> 
+>       apercevoir une montagne dans le lointain 远远望见一座山
+>       On l'aperçoit du balcon. 我们从阳台上看到了他。
 
 ### 例句二
 
-**La consigne** n'a pas changé, dit l'allumeur. C'est bien là **le drame** ! La planète **d'année en année** a tourné **de plus en plus** vite, et la consigne n'a pas changé !
+- Est-ce qu'il y a des océans ?
+- Je ne **puis** pas le savoir, dit le **géographe**.
+- Ah! (Le petit prince était **déçu**. ) Et des montagnes ?
+- Je ne puis pas le savoir, dit le géographe.
+- Et des villes et des fleuves et des déserts ?
+- Je ne puis pas le savoir **non plus**, dit le géographe.
 
 > Note:
 > 
-> **解读**：点灯的人告诉小王子，他的行星一年比一年转得更快，而点灯的命令却丝毫没有改变。
+> **解读**：地理学家告诉小王子：“地理学家是一种学者，他知道哪里有海洋，哪里有河流、城市、山脉、沙漠。”然而当小王子反问他，他的星球上有没有海洋，有没有山脉，有没有城市、河流、沙漠时，地理学家却一问三不知。
 > 
-> - une consigne 命令，指令
+> - puis 
+>   > 动词 pouvoir 的直陈式现在时变位，多用于疑问句中，表示客气的语气，如：
+>   > 
+>   >       Puis-je vous être utile ? 我能帮你点什么吗？
+>   >       Puis-je entrer ? 我能进来吗？
 > 
->       consignes de sécurité 安全须知
->       
->       Il faut lire les consignes avant de faire l'exercice. 
->       做练习前要阅读题目要求。
+> - géographe n. 地理学家，地理学者
+>   > 再补充几个相关的词汇：
+>   > 
+>   >       géographique adj. 地理学的，地理的
+>   >       la géographie n.f. 地理学
 > 
-> - un drame 戏剧；悲剧，悲惨事件
-> - d'année en année loc.adv. 年复一年地，类似的也有 de jour en jour 这个表达，意思是“一天天地，日复一日地”，如：
+> - déçu,e adj. 失望的
+>   > 是动词 décevoir 的过去分词，这里作形容词使用。
 > 
->       Sa mémoire se dégrade d'année en année. 
->       他的记忆力逐年衰退。
->       
->       Les progrès se poursuivent d'année en année. 
->       工作每年都会取得进展。
->       
->       Sa santé s'altère de jour en jour. 
->       他的健康状况在一天天的恶化。
-> 
-> - de plus en plus loc.adv. 越来越
-> 
->       Il s'enrichit de plus en plus. 
->       他越来越有钱了。
->       
->       Je me rends compte que l'anglais est de plus en plus important. 
->       我意识到英语越来越重要了。
->       
->       De plus en plus de gens communiquent par Wechat. 
->       越来越多的人通过微信来交流。
+> - non plus 否定句中的“也”，再强调一次，否定句中千万不要用 aussi 哦！
 
 ### 例句三
 
-Alors **maintenant qu'**elle fait un tour **par** minute, je **n'**ai **plus** une seconde de repos. J'allume et j'éteins une fois par minute !
+**Ce n'est pas** le géographe **qui** va **faire le compte** des villes, des fleuves, des montagnes, des mers, des océans et des déserts. Le géographe est **trop** important **pour** **flâner**. Il ne quitte pas son bureau.
 
 > Note:
 > 
-> **解读**：点灯人说：“现在这颗行星每一分钟转一圈，于是他连一秒钟的休息时间都没有了，每分钟我他要点一次灯，熄一次灯。”点灯人坚守命令的精神值得我们尊敬。但是作为读者，我们不禁思考，在这颗只容得下一个人的星球上，到底是谁给点灯人下达了这样一个命令，使得他年复一年地坚持着点灯这项职业，并且从未想过要改变。
+> **解读**：地理学家对小王子说：“地理学家是不去计算城市、河流、山脉、海洋、沙漠的，地理学家很重要，不能到处跑，不能离开办公室。”
 > 
-> - maintenant que conj. 既然现在
+> - Ce n'est pas...qui 
+>   > 我们说过强调句 C'est...qui 的用法，这里是强调句的否定形式。
 > 
->       Maintenant que le temps s'est remis au beau, nous allons sortir. 
->       既然现在天气转晴了, 我们准备出门了。
+> - faire le compte de 计数；计算
+>  
+>       faire le compte de ses dépenses 计算开支
+>       faire le compte des suffrages 计算选票数
+> 
+> - trop...pour 太...以至于不能
+> 
+>       Il est trop petit pour aller à l'école. 他太小了，不能去上学。
+>       C'est trop beau pour être vrai. 这太美了, 不可能是真的。
 >       
->       Maintenant que je suis en vacances, je ne réponds pas au téléphone de mon patron. 
->       既然我现在在度假，我就不接我老板的电话了。
+> - flâner v.i. 闲逛，偷懒，游手好闲
 > 
-> - par prép. 每（表示分配的概念）
-> 
->       Il a deux heures de cours par jour. 
->       他每天有两小时的课。
->       
->       Je fais du sport une fois par semaine. 
->       我每周进行一次体育锻炼。
->       
-> - ne...plus 不再
->   > 与 ne...pas 的区别是：ne...pas 仅仅表示否定，而 ne...plus 强调之前和之后的对立情况，如：
->   > 
->   >       Je ne reparlerai plus jamais à cet homme. 
->   >       我不会再和这个人讲话。
->   >       
->   >       Je ne fume plus. 
->   >       我不再吸烟了。（说明我以前是吸烟的，但是现在戒了。）
->   >       
->   >       Le moteur du bateau ne fonctionne plus. 
->   >       船的发动机停止运转了。（说明发动机原本是会转的）
+>       flâner sur les boulevards 在林荫道上闲逛
+>       flâner dans les rues 逛马路
 
 ### 例句四
 
-Il **se souvint** des couchers de soleil que lui-même allait **autrefois** chercher, **en tirant sa chaise**.
+On **exige de** l'explorateur **qu'**il fournisse des preuves. S'il s'agit par exemple de la découverte d'une grosse montagne, on exige qu'il en rapporte de grosses pierres.
 
 > Note:
 > 
-> **解读**：小王子此时想起了自己从前挪动椅子寻找日落的事。
+> **解读**：地理学家继续说：“如果探察家的品德不错，就对他的发现进行调查，要求探察家提出证据来。例如，假使他发现了一座大山，就要求他带来一些大石头。”
 > 
-> - se souvenir de 想起，记得
->  
->       Il se souvient de ses camarades d'école. 
->       他还记得他的小学同学们。
->       
->       Est-ce que tu te souviens la première fois que tu as vu la mer ? 
->       你还记得当你第一次看到大海的样子吗？
->       
-> - autrefois adv. 过去，从前
+> - exiger de qqn. que + subj. 向某人要求...
+>   > 当主句谓语是表示命令、请求、禁止、愿望等带有主观意愿色彩的动词时，从句中要使用虚拟式，如：
+>   >       Je demande que vous m'écoutiez. 
+>   >       我要求你们听我说。
+>   >       
+>   >       Je souhaite que vous guérissiez bientôt. 
+>   >       我希望你早日病愈。
+>   >       
+>   >       Le professeur n'interdit pas que nous assistions à des concerts. 
+>   >       老师不禁止我们听音乐会。
 > 
->       Il a été autrefois un excellent boxeur. 
->       他曾经是是一位杰出的拳击手。
+> - fournir v.t. 供应，提供
+> 
+>       fournir du secours 提供援助
+>       fournir des armes à une armée 向军队提供武器
 >       
->       Autrefois, ils venaient souvent chez moi. 
->       以前他们经常来我家。
+> - il s'agit de 有关于，关系到，涉及，这里的 il 是无人称代词，如：
+> 
+>       De quoi s'agit-il ? 怎么回事？
 >       
-> - en tirant sa chaise 副动词，这里用作方式状语，“通过挪动椅子的方式寻找日落”。
+>       Son attitude change quand il s'agit de son fils. 
+>       当问题一涉及到他的儿子时, 他的态度就变了。
 
 ### 例句五
 
-- Ta planète est tellement petite que tu **en fais le tour** en trois **enjambées**. Tu **n'as qu'à** marcher assez lentement pour rester toujours au soleil. Quand tu voudras te reposer tu marcheras... et le jour durera **aussi longtemps que** tu voudras.
-- Ça ne m'avance pas **à grand'chose**, dit l'allumeur. Ce que j'aime dans la vie, c'est dormir.
+**Que** les volcans soient éteints ou soient éveillés, ça **revient au même** pour **nous autres**, dit le géographe.
 
 > Note:
 > 
-> **解读**：小王子告诉点灯人：“你的这颗行星这样小，你三步就可以绕它一圈。你只要慢慢地走，就可以一直在太阳的照耀下。你想休息的时候，你就这样走...那么，你要白天又多长它就有多长。”而点灯人却回答：“这办法帮不了我多大忙，生活中我喜欢的就是睡觉。”小王子给点灯人提供了一个能够减轻他负担的办法，而点灯人却并没有去尝试，甚至都没有仔细地思考一下，便一口回绝了他，继续着他那年复一年地点灯工作。
+> **解读**：地理学家说：“火山是熄灭了的也好，苏醒的也好，这对我们地理学家来说都是一回事。”
 > 
-> - faire le tour de qqch. 环绕某物或某地一圈
->   > 句中 en fais le tour 中的 en 指代的是 de la planète，即 faire le tour de la planète 绕行星一圈。
+> - que + subj. 不管，无论，表示让步（通常放在主句前）
 > 
-> - une enjambée 一大步
-> 
->       Il avançait à grandes enjambées. 
->       他大步前进。
+>       Que tu sois d'accord ou pas, je le ferai. 
+>       不论你是否同意，我都会这么做的。
 >       
-> - n'avoir qu'à + inf. 只需做某事
-> 
->       Vous n'avez qu'à suivre les flèches. 
->       您只需跟着箭头走。
+>       Qu'il fasse du vent ou de la pluie, je t'attendrai ici. 
+>       无论刮风还是下雨，我都会在这里等你。
 >       
->       Vous n'avez qu'à les contacter directement. 
->       你只需要立刻联系他们。
->       
-> - aussi longtemps que conj. 只要，和...一样长时间地
+> - revenir au même 是相同的，是一回事
 > 
->       Restez aussi longtemps que vous voudrez. 
->       您愿意待多久就待多久。
+>       Au bout du compte, cependant, les deux approches reviennent au même sur le fond. 
+>       归根结底，这两种做法之间并无任何实质性差别。
 >       
->       Je travaillerai aussi longtemps que je serai en bonne santé. 
->       只要我身体健康，我就要一直工作。
->       
-> - pas grand'chose pron.indéf. 只用于否定形式，意思是“不多的东西，没什么东西”也写作 pas grand-chose，口语中经常会说 Ce n'est pas grand-chose. 意思是“没什么大不了的，小事一桩。”
->   > 注意：虽然 chose 这个词本身是阴性的，但此处 grand 不作阴性配合，并且发音也按照阳性的 grand 来发音 /grɑ̃ʃoz/。
-
-### 例句六
-
-Celui-là, se dit le petit prince, tandis qu'il poursuivait plus loin son voyage, celui-là serait méprisé par tous les autres, par le roi, par le vaniteux, par le buveur, par le businessman. Cependant c'est le seul qui ne me paraisse pas ridicule. C'est, peut-être, parce qu'il s'occupe d'autre chose que de soi-même.
-
-> Note:
+>       La chaleur était telle qu'il m'était pénible aussi de rester immobile. Rester ici ou partir, cela revenait au même. 
+>       天那么热，即使一动不动地待着也是够难受的。待在那里，还是走开，其结果是一样的。
 > 
-> **解读**：小王子在他继续往前旅行的途中，自言自语地说道："这个人一定会被其他那些人，国王呀，爱虚荣的呀，酒鬼呀，实业家呀，所瞧不起。可是唯有他不使我感到荒唐可笑。这可能是因为他所关心的是别的事，而不是他自己。"
-> 
-> - tandis que conj. 
->   > - 当...的时候 = pendant que
+> - nous autres 这里指地理学家这一类人。
+>   > autre 加在人称代词"nous", "vous" 和 "eux" 后面，用于强调前面代词所指的人与其他人的不同之处，如：
 >   > 
->   >       Je suis arrivé tandis qu'il déjeunait. 
->   >       当我到达的时候他正在吃午饭。
+>   >       Vous autres, les garçons, vous pourrez partir avant le reste du groupe. 
+>   >       你们，男生们可以先行离开。
 >   >       
->   >       Il lisait son journal tandis que j'écoutais de la musique. 
->   >       他看报的时候，我在听音乐。
->   >      
->   > - 而，然而（表示对立关系）= alors que
->   > 
->   >       Elle aime l'opéra tandis que lui préfère le jazz. 
->   >       她喜欢歌剧，而他却喜欢爵士乐。
+>   >       Nous autres, femmes, nous avons le privilège de porter les enfants de ce monde. 
+>   >       怀胎是我们女性的特权。
 >   >       
->   >       Il préfère le café, tandis que moi, je préfère le thé. 
->   >       他喜欢喝咖啡，而我喜欢喝茶。
-> 
-> - poursuivre v.t.
->   > - 追逐，追赶
->   > 
->   >       poursuivre les ennemis 追赶敌人
->   >       Le lévrier poursuit le lièvre. 猎犬追逐野兔。
->   >       
->   > - 追求
->   > 
->   >       poursuivre qqn. 追求某人
->   >       poursuivre la gloire 追求荣誉
->   >       poursuivre un rêve 追逐梦想
->   > 
->   > - 继续
->   > 
->   >       poursuivre son chemin 继续赶路
->   >       poursuivre un travail 继续一件工作
-> 
-> - mépriser v.t. 轻视，藐视，这里用的是被动态 être méprisé,e par。
-> 
-> - C'est le seul qui + subj. 如果关系从句的先行词带有形容词的最高级或者 seul, premier, dernier, unique 等表示绝对概念的词时，关系从句中要用虚拟式，如：
-> 
->       C'est l'unique poste que vous puissiez remplir. 
->       这是您唯一能够胜任的岗位。
->       
->       C'est le garçon le plus actif que je connaisse. 
->       他是我认识的最活泼的男孩。
-> 
-> - peut-être adv. 可能
-> 
->       Vous avez peut-être tort. 
->       你可能错了。
->       
->       Je suis peut-être un peu comme les grandes personnes. 
->       我和大人们可能有点相似。
->       
->   > 注意：peut-être 中间要有连字符。如果没有连字符的话，则是动词 pouvoir 的变位+动词原形 être，如：
->   > 
->   >       Cet article ne peut être ni rendu ni échangé. 
->   >       此商品不可退换。
+>   > 另外在魁北克语中，即使没有强调的意思，也经常会使用 nous autres 和 vous autres 来代替 nous 和 vous。
 
 # 文化拓展
 
-## 小王子和点灯人
+今天的故事里，小王子遇到了一位地理学家（géographe）。他看上去好像很有学问，他知道哪里有海洋、河流、城市、山和沙漠。但他不了解自己所在的星球，并拒绝自己去勘探，因为那是勘探工作者的事。他劝告小王子去访问地球，因为地球遐尔闻名。本章的文化拓展，我们就来聊一聊地理学，并为大家介绍下西方的『地理学之父』：埃拉托色尼。
 
-在本章中，小王子到了一颗非常小的行星上，那上面刚好容下一盏路灯和一个点灯人。在一颗没有一个居民的星球上要灯和点灯人有什么用呢？
+## 地理学
 
-后来小王子寻思出了他这样做的意义：“当他点亮路灯时，就好似又诞生了一颗星星，或是一株花儿。当他熄灭路灯时，就是让花儿或星星沉睡梦中。这真是美好之举。既然美好，就一定有益。”可惜的是，这样的意义点灯人自己却不知道。
+『地理』一词最早见于中国《易经》：仰以观于天文，俯以察于地理，是故知幽明之故，与『天文』对应，所有常有『上知天文，下知地理』的说法。地理的法语单词是 la géographie，源自希腊文 geô（大地）和 graphia（描述），即描述地球的科学。最早使用“géographie”一词的人是埃拉托色尼（Ératosthène），他用该词来表示研究地球的学问。
 
-小王子问他为何要熄灭和点亮路灯时，他的回答只有一个：“这是命令。”并且在小王子提出疑问时他说：“没什么要弄明白的，命令就是命令。”点灯人只懂得一味忠实遵守命令，从不考虑命令本身是否正确、合理。他很累，因为“他用红格手帕拭了拭前额”。他也烦，因为他说：“我一直都想（休息）。”但现在星球转得快了，一分钟转一圈，于是自己就再也没有休息的时间了。条件变了，命令却没变，而他又只懂得遵守命令。唉，可怜的点灯人。
+随着人类社会的发展，地理知识的积累，逐步形成一门研究自然界和人与自然界关系的科学，分为自然地理和人文地理。简单地说，地理学就是研究人与地理环境关系的学科，研究的目的是为了更好的开发和保护地球表面的自然资源，协调自然与人类的关系。
 
-小王子想要帮他，于是告诉他：“你的星球这么小，跨三步就能转一圈。你只需慢慢走，就可以总在阳光下。当你想休息时，你就走路……白天就能照你的意愿持续……”，这里小王子在启发他，其实动动脑筋，换一种思路，改变一下行为，就可以使自己“总在阳光下”，就可以让周围的东西“照自己的意愿”，就可以得到休息。
+## 埃拉托色尼
 
-但点灯人却说：“这对我没多大的用，生活中的我喜欢的是睡觉”。于是小王子说他“运气不好”，他也说自己“运气不好”。不想做的必须做；能够做的不去做；想要做的不能做。只知道服从命令，永远抱着自己喜欢的梦，做着并不喜欢的工作。日复一日，在庸碌中煎熬。
+2000多年前，有人用简单的测量工具计算出地球的周长。这个人就是埃拉托色尼(约公元前275-前194)。埃拉托色尼博学多才，他不仅通晓天文，而且熟知地理；又是诗人、历史学家、语言学家、哲学家，曾担任过亚历山大博物馆的馆长。
 
-谁的身上又没有点灯人的影子呢？ 做着重复的工作，虽然不一定喜欢，不停地抱怨，但还在做着，没有想过为什么，也不去想为什么。小王子说点灯人是唯一可以做朋友的人。他能几十年如一日的墨守成规，即使做的工作没有太大意义，也并不被人理解，仍然坚持当一天和尚撞一天钟，活的循规蹈矩，从另一个角度来说，倒也算得上充实。
+细心的埃拉托色尼发现：离亚历山大城约800公里的塞恩城(今埃及阿斯旺附近)，夏日正午的阳光可以一直照到井底，因而这时候所有地面上的直立物都应该没有影子。但是，亚历山大城地面上的直立物却有一段很短的影子。他认为：直立物的影子是由亚历山大城的阳光与直立物形成的夹角所造成。从地球是圆球和阳光直线传播这两个前提出发，从假想的地心向塞恩城和亚历山大城引两条直线，其中的夹角应等于亚历山大城的阳光与直立物形成的夹角。按照相似三角形的比例关系，已知两地之间的距离，便能测出地球的圆周长。
+
+埃拉托色尼测出夹角约为7度，是地球圆周角(360度)的五十分之一，由此推算地球的周长大约为4万公里，这与实际地球周长(40076公里)相差无几。他还算出太阳与地球间距离为1.47亿公里，和实际距离1.49亿公里也惊人地相近。这充分证实了埃拉托色尼的学说和智慧。
+
+![太阳从地平线升起](http://fs-gateway.frhelper.com/store_main/useruploads/e9ca357a-9fde-476f-be50-22be69c07e1b.png)
+
+
+埃拉托色尼是首先使用"地理学"名称的人，从此代替传统的"地方志"，并完成了三卷专著。书中描述了地球的形状、大小和海陆分布。埃拉托色尼还用经纬网绘制地图，最早把物理学的原理与数学方法相结合，创立了数理地理学。
