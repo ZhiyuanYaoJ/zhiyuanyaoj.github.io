@@ -363,7 +363,7 @@ Il **se souvint** des couchers de soleil que lui-même allait **autrefois** cher
 
 ### 例句六
 
-Celui-là, se dit le petit prince, tandis qu'il poursuivait plus loin son voyage, celui-là serait méprisé par tous les autres, par le roi, par le vaniteux, par le buveur, par le businessman. Cependant c'est le seul qui ne me paraisse pas ridicule. C'est, peut-être, parce qu'il s'occupe d'autre chose que de soi-même.
+Celui-là, se dit le petit prince, **tandis qu'**il **poursuivait** plus loin son voyage, celui-là serait **méprisé** par tous les autres, par le roi, par le vaniteux, par le buveur, par le businessman. Cependant **c'est le seul qui** ne me paraisse pas ridicule. C'est, **peut-être**, parce qu'il s'occupe d'autre chose que de soi-même.
 
 > Note:
 > 
