@@ -422,7 +422,7 @@ Tu sais, ma **chute** sur la Terre... c'**en** sera demain l'anniversaire...
 
 ### 例句六
 
-Alors ce n'est pas par hasard que, le matin où je t'ai connu, il y a huit jours, tu te promenais comme ça, tout seul, à mille milles de toutes régions habitées !
+Alors ce n'est pas par hasard que, **le matin où je t'ai connu**, **il y a huit jours**, tu **te promenais** comme ça, tout seul, à mille milles de toutes régions habitées !
 
 > Note:
 > 
