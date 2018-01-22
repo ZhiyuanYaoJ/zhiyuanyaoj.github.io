@@ -377,5 +377,4 @@ On **exige de** l'explorateur **qu'**il fournisse des preuves. S'il s'agit par e
 
 ![太阳从地平线升起](http://fs-gateway.frhelper.com/store_main/useruploads/e9ca357a-9fde-476f-be50-22be69c07e1b.png)
 
-
 埃拉托色尼是首先使用"地理学"名称的人，从此代替传统的"地方志"，并完成了三卷专著。书中描述了地球的形状、大小和海陆分布。埃拉托色尼还用经纬网绘制地图，最早把物理学的原理与数学方法相结合，创立了数理地理学。
