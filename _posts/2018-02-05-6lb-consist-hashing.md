@@ -1,7 +1,7 @@
 ---
 title: 6LB - Consistent Hashing 
 date: 2018-02-05
-description: Introduction and basic analysis of consistent hashing algorithm used in 6LB.
+description: Introduction and basic analysis of consistent hashing algorithm used in 6LB. [Stay tuned, more to come in this post :)]
 categories:
 - Algorithm
 tags:
