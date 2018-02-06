@@ -22,7 +22,16 @@ To be clear, _6LB_ uses 2 choices of application instances. However, the algorit
 
 # Algorithm
 
+Before presenting the algorithm, notations used through the algorithm are summarized below in the table.
+
+| Notation | Description |
+| --- | --- |
+| _M_ | Number of buckets |
+| _N_ | Number of Servers |
+
 ![Consistent Hashing Algorithm](https://www.zhiyuanyao.com/assets/images/X/cisco-intern/6lb-hash-alg.png)
+
+
 
 # Example
 
