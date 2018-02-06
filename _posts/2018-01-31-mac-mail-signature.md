@@ -49,7 +49,7 @@ drwxr-xr-x@  5 andre  staff   160B Jan 31 21:53 .
 这样我们就能看到类似 `*.mailsignature` 的文件了。这个文件就是我们刚刚建立的签名格式文件了。
 
 > 注意：
-> - 如果使用 **iCloud** 的话，文件的位置可能是 `~/Library/Mobile\ Documents/com~apple~mail/Data/V4/Signatures/`，不过具体的文件夹位置大家可以根据自己情况大概定位一下。比如，我的经验是在我的 Mac 上一直到 `~Library/Mail/` 都没问题，但是我的签名在此后的 `V2` 文件夹里。
+> - 如果使用 **iCloud** 的话，文件的位置可能是 `~/Library/Mobile\ Documents/com~apple~mail/Data/V4/Signatures/`，不过具体的文件夹位置大家可以根据自己情况大概定位一下。比如，我的经验是在我的 Mac 上一直到 `~Library/Mail/` 都没问题，但是我的签名在此后的 `V5` 文件夹里。
 
 ### 对文件进行编辑
 
@@ -76,8 +76,8 @@ drwxr-xr-x@  5 andre  staff   160B Jan 31 21:53 .
 <table id="sig" width='320' cellspacing='0' cellpadding='0' border-spacing='0' style="width:320px;margin:0;padding:0;">
     <tr>
         <td valign='top' width="85" style="width:100px;margin:0;padding:0;vertical-align:top;">
-            <a href='https://www.zhiyuanyao.com' title="Zhiyuan YAO" style="border:none;text-decoration:none;">
-        <img moz-do-not-send="true" src="https://www.zhiyuanyao.com/assets/images/x_logo_vert.png" alt="Zhiyuan YAO" width='78' height='100' style="border:none;width:78px;height:100px;display:block;">
+            <a href='http://www.polytechnique.edu' title="L'X" style="border:none;text-decoration:none;">
+        <img moz-do-not-send="true" src="https://www.zhiyuanyao.com/assets/images/x_logo_vert.png" alt="L'X" width='78' height='100' style="border:none;width:78px;height:100px;display:block;">
       </a>
         </td>
 
