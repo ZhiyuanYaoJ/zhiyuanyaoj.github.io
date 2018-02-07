@@ -10,6 +10,12 @@ photos:
 - 
 ---
 
+<style>
+table th:first-of-type {
+    width: 100px;
+}
+</style>
+
 # Intro
 
 _Stay tuned, more to come in this post :)_
