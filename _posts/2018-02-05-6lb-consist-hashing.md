@@ -28,8 +28,9 @@ Before presenting the algorithm, notations used through the algorithm are summar
 | --- | --- |
 | _M_ | Number of buckets |
 | _N_ | Number of Servers |
-| _i_ | Application instance \\(i \in \left{ 0, \dots, N-1 \right} \\) |
-
+| _i_ | Application instance, range \[0, N-1\] |
+| p[i] | Pseudo-random permutation of {0, 1, ..., M-1} for application instance _i_ |
+| 
 
 ![Consistent Hashing Algorithm](https://www.zhiyuanyao.com/assets/images/X/cisco-intern/6lb-hash-alg.png)
 
