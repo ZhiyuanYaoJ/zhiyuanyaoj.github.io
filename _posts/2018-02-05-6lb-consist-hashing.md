@@ -33,15 +33,37 @@ Before presenting the algorithm, notations used through the algorithm are summar
 | Notation | Description |
 | --- | --- |
 | _M_ | Number of buckets |
-| _N_ | Number of Servers |
-| _C_ | Number of application instances in segment list |
+| _N_ | Number of servers |
+| _C_ | Size for segment routing list |
 | _i_ | Application instance, range \[_0, N-1_\] |
+| _j_ | Bucket, range \[_0, M-1_\]
 | _p\[i\]_ | Pseudo-random permutation of {_0, 1, ..., M-1_} for application instance _i_ |
-| _t_ | Lookup table {_0, ..., M-1_} ➡ {_0, ..., N-1_}$^C$ |
+| _t_ | Lookup table {_0, ..., M-1_} ➡ {_0, ..., N-1_}$^C$, mapping each bucket to a list of _C_ application instances |
+| _t\[j\]_ | An array of _C_ application instances, e.g. for bucket _j_, there will be _C_ application instances in its codomain in table _t_ |
+| _nextIndex_ | This array lists the next index in each application's permutation _p\[i\]_ so as to indicate which bucket should each application instance take next time |
+| _n_ | Counter for total assignments |
+| _c_ | A tmp variable, denoting current bucket of interesting |
+| _choice_ | A tmp variable, denoting the first avvailable position in the SR list |
 
 ![Consistent Hashing Algorithm](https://www.zhiyuanyao.com/assets/images/X/cisco-intern/6lb-hash-alg.png)
 
+In this consistent hashing algorithm, there are two main sections, namely, **initialization** and **main loop**, which are introduced sequencially.
 
+## Initialization
+
+In terms of the demonstrated algorithm, four variables are initialized.
+
+### $nextIndex$
+
+$nextIndex$ is initialized as an array, with length of total number $N$ of application instance. The values inside are all set as $0$ so that for each application instance, its bucket of interest start from the first one in its permutation.
+
+### $C$
+
+As is mentioned above, $C$ represents the size for segment routing list. Here, $C = 2$ means that there will be two application instances in the segment routing list.
+
+### $t$
+
+Now that $C$ is set to $2$, we could now initialize our table $t$.
 
 # Example
 
