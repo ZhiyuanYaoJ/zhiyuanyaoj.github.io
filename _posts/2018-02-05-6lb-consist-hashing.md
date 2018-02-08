@@ -63,11 +63,25 @@ As is mentioned above, $C$ represents the size for segment routing list. Here, $
 
 ### $t$
 
-Now that $C$ is set to $2$, we could now initialize our table $t$.
+Now that $C$ is set to $2$, we could now initialize our table $t$. It is initialized as a _M x C_ matrix, where _M_ represents the number of buckets, and _C_ stands for the size for SR list. All the values are initialized as $-1$, which means that no application instance has been assigned to this position. If none of the values in a row is $-1$, then this corresponding bucket is already full.
+
+### $n$
+
+Also as is mentioned above in the notation talbe, $n$ represents the total number of times that application is assigned to a bucket. Its value is initialized as $0$. And once $n = M \times C$, it indicates that the table $t$ is fully assigned.
+
+## Main Loop
+
+The main purpose for this algorithm is to balance the distribution of application instances into different buckets. There are two outer loops guarantee this to happen, namely, the tier-1 `while` loop and the tier-2 `for` loop. 
+
+The `while` loop is used to traversal all application instances from time to time, meanwhile, it's used in case not all buckets are fully filled with application instances after traversal of all application instances. In the `for` loop, there are several condition-checking and loops, trying to find a vacant position in the buckets for an application instance. 
+
+The logic in behind will be clearly demonstrated with an example below.
 
 # Example
 
-![An Example of CHA](https://www.zhiyuanyao.com/assets/images/X/cisco-intern/6lb-hash-eg.png)
+![An Example of Consistent Hashing Algorithm](https://www.zhiyuanyao.com/assets/images/X/cisco-intern/6lb-hash-eg.png)
+
+
 
 # Ref
 
