@@ -53,6 +53,7 @@ It’s important that the _pointer_ be declared **const**.
 
 > Notes:
 > 1. Because constant definitions are typically put in header files (where many different source files will include them)
+> 
 > 2. Usually in addition to what the pointer points to. 
 >   > E.g. To define a constant `char*`-based string in a header file, you have to write const twice:
 >   > 
@@ -65,6 +66,7 @@ It’s important that the _pointer_ be declared **const**.
 >   > ```c++
 >   >     const std::string authorName("Scott Meyers");
 >   > ```
+> 
 > 3. For a complete discussion of the meanings and uses of `const`, especially in conjunction with pointers, see [Item 3](../Item_3/README.md). 
 
 #### Class-specific constants
@@ -83,6 +85,7 @@ It’s important that the _pointer_ be declared **const**.
 
 > Notes:
 > 1. Above is a _declaration_ for `NumTurns`, not a _definition_. (What is definition? See [Item 1](../Item_1/README.md))
+> 
 > 2. Usually, C++ requires that you provide a definition for anything you use, but class-specific constants that are static and of integral type (e.g., integers, `chars`, `bools`) are an exception. 
 >   > - As long as you don’t take their address, you can declare them and use them without providing a definition.
 >   > - If you do take the address of a class constant, or if your compiler incorrectly insists on a definition even if you don’t take the address, you provide a separate definition like this:
@@ -93,6 +96,7 @@ It’s important that the _pointer_ be declared **const**.
 >   > ```
 >   > 
 >   >   > You put this in an implementation file, not a header file. Because the initial value of class constants is provided where the constant is declared (e.g., `NumTurns` is initialized to `5` when it is declared), no initial value is permitted at the point of definition. 
+> 
 > 3. `#defines` can't be used for
 >   > - Class-specific constant:
 >   > - Any kind of encapsulation, i.e., there is no such thing as a “private” #define.
@@ -100,7 +104,9 @@ It’s important that the _pointer_ be declared **const**.
 >   > > Because `#defines` don’t respect scope. Once a macro is defined, it’s in force for the rest of the compilation (unless it’s `#undefed` somewhere along the line). 
 >   > > 
 >   > > However, of course, const data members can be encapsulated; `NumTurns` is.
+> 
 > 4. Older compilers may not accept the syntax above, because it used to be illegal to provide an initial value for a static class member at its point of declaration. Furthermore, in-class initialization is allowed only for integral types and only for constants. In cases where the above syntax can’t be used, you put the initial value at the point of definition:
+> 
 > ```c++
 >   class CostEstimate {
 >   private:
@@ -147,6 +153,7 @@ Macros like this have so many drawbacks:
 1. Whenever you write this kind of macro, you have to remember to parenthesize all the arguments in the macro body. 
 2. Otherwise you can run into trouble when somebody calls the macro with an expression.
 3. But even if you get that right, look at the weird things that can happen:
+
 > ```c++
 >     int a = 5, b = 0;
 >     CALL_WITH_MAX(++a, b); // a is incremented twice
