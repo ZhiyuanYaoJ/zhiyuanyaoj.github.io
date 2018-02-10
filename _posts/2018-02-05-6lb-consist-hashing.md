@@ -81,8 +81,6 @@ The logic in behind will be clearly demonstrated with an example below.
 
 ![An Example of Consistent Hashing Algorithm](https://www.zhiyuanyao.com/assets/images/X/cisco-intern/6lb-hash-eg.png)
 
-
-
 # Ref
 
 - \[1\] 6LB: Scalable and Application-Aware Load Balancing with Segment Routing (currently unavailable, maybe later :) )
