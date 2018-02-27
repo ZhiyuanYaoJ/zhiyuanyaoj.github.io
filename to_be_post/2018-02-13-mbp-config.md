@@ -15,7 +15,7 @@
 	+ Position on screen > left
 	+ Minimize window into application icon
 - 全键盘控制模式：System Preferences > Keyboard > Shortcuts > All controls
-- 快速锁定屏幕: 
+- 快速锁定屏幕:
 	+ System Preferences > Desktop & Screen Saver > Screen Saver > Hot Corners > 右下角 Put Display to Sleep
 	+ System Preferences > Security & Privacy > General > Require password > Immediately
 - [Dock 个性化定制](http://www.jb51.net/os/MAC/346509.html)
@@ -57,7 +57,7 @@
 		* [OS X Yosemite Dark Transparent](http://www.packal.org/theme/os-x-yosemite-dark-transparent)
 - Ref
 	+ [OS X 效率启动器 Alfred 详解与使用技巧](https://sspai.com/post/27900)
-	+ [Alfred 知乎专栏](https://zhuanlan.zhihu.com/pinapps?topic=Alfred（app）)	
+	+ [Alfred 知乎专栏](https://zhuanlan.zhihu.com/pinapps?topic=Alfred（app）)
 
 ### Fantastical 2
 
@@ -111,7 +111,17 @@
 
 配置过程：https://www.jianshu.com/p/88c6e68645c4?utm_source=tuicool&utm_medium=referral
 
+### Sublime
+
+下载地址：https://www.sublimetext.com/3
+
+配置过程：
+- [LICENSE](https://www.jianshu.com/p/04e1b65dd2c0)
+- [如何优雅地使用Sublime Text3](https://www.jianshu.com/p/3cb5c6f2421c)
+- [Sublime Text 3 配置和使用方法](https://www.zybuluo.com/king/note/47271)
+
+
 ## 装备
 
 - [包](https://www.zhihu.com/question/30610574/answer/48870086)
-- 
+-
