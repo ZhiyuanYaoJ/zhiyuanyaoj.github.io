@@ -1,2 +1,1 @@
-# ericyaoj.github.io
-Personal blog
+# Personal Blog
