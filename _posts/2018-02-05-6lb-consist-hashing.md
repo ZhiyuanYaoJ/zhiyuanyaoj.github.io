@@ -83,5 +83,6 @@ The logic in behind will be clearly demonstrated with an example below.
 
 # Ref
 
-- \[1\] 6LB: Scalable and Application-Aware Load Balancing with Segment Routing (currently unavailable, maybe later :) )
+- \[1\] [6LB: Scalable and Application-Aware Load Balancing with Segment Routing](http://www.thomasclausen.net/wp-content/uploads/2018/02/2018-IEEE-Transactions-on-Networking-6LB-Scalable-and-Application-Aware-Load-Balancing-with-Segment-Routing.pdf)
+- \[3\] [SRLB: The Power of Choices in Load Balancing with Segment Routing](http://www.thomasclausen.net/wp-content/uploads/2017/06/2017-ICDCS-SRLB-The-Power-of-Choices-in-Load-Balancing-with-Segment-Routing.pdf)
 - \[2\] [Maglev: A fast and reliable software network load balancer](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eisenbud.pdf)
