@@ -27,7 +27,7 @@ photos:
 
     小王子怎么也解释不通：这个坐落在天空某一角落，既没有房屋又没有居民的行星上，要一盏路灯和一个点灯的人做什么用。
 
-![原作中对“点灯人”的插图](https://ericyaoj.github.io/assets/images/french/le-petit-prince/allumeur.jpg)
+![原作中对“点灯人”的插图](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/allumeur.jpg)
 
 > Cependant il se dit en lui-même: 
 > 

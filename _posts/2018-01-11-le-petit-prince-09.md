@@ -26,7 +26,7 @@ photos:
 
 第一颗星球上住着一个国王。国王穿着紫袍和白鼬皮大衣，坐在一个很简单却又十分威严的宝座上。
 
-> ![坐在宝座上的国王](https://ericyaoj.github.io/assets/images/french/le-petit-prince/roi.jpeg)
+> ![坐在宝座上的国王](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/roi.jpeg)
 
 > -Ah! Voilà un sujet, s'écria le roi quand il aperçut le petit prince.
 > 
@@ -67,7 +67,7 @@ photos:
     "这倒叫我有点紧张…我打不出哈欠来了…"小王子红着脸说。
     "嗯！嗯！"国王回答道："那么我…命令你忽而打哈欠，忽而…"
 
-> ![发号施令的国王](https://ericyaoj.github.io/assets/images/french/le-petit-prince/ordonner.jpeg)
+> ![发号施令的国王](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/ordonner.jpeg)
 
 > Il bredouillait un peu et paraissait vexé. Car le roi tenait essentiellement à ce que son autorité fût respectée. Il ne tolérait pas la désobéissance. C'était un monarque absolu. Mais, comme il était très bon, il donnait des ordres raisonnables.
 
@@ -78,7 +78,7 @@ photos:
 
     国王说道："如果我叫一位将军变成一只海鸟，而这位将军不服从我的命令，那么这就不是将军的过错。而是我的过错。"
 
-> ![交谈中的小王子和国王](https://ericyaoj.github.io/assets/images/french/le-petit-prince/roi-et-prince.jpeg)
+> ![交谈中的小王子和国王](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/roi-et-prince.jpeg)
 
 > -Puis-je m'asseoir ? s'enquit timidement le petit prince.
 > 
@@ -210,7 +210,7 @@ photos:
 
     但是小王子，准备完毕之后，不想使老君主难过，说道："如果国王陛下想要不折不扣地得到服从，你可以给我下一个合理的命令。比如说，你可以命令我，一分钟之内必须离开。我认为这个条件是成熟的…"
 
-> ![挽留小王子的国王](https://ericyaoj.github.io/assets/images/french/le-petit-prince/roi-arret-prince.jpeg)
+> ![挽留小王子的国王](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/roi-arret-prince.jpeg)
 
 > Le roi n'ayant rien répondu, le petit prince hésita d'abord, puis, avec un soupir, prit le départ.
 

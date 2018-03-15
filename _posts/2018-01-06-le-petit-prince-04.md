@@ -26,7 +26,7 @@ photos:
 
     这倒并没有使我感到太奇怪。我知道除地球、木星、火星、金星这几个有名称的大行星以外，还有成百个别的星球，它们有的小得很，就是用望远镜也很难看见。当一个天文学者发现了其中一个星星，他就给它编上一个号码。例如把它称作"325小行星"。
 
-> ![用望远镜观察小行星的天文学家](https://ericyaoj.github.io/assets/images/french/le-petit-prince/astronome.jpg)
+> ![用望远镜观察小行星的天文学家](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/astronome.jpg)
 
 > J'ai de sérieuses raisons de croire que la planète d'où venait le petit prince est l'astéroïde B 612.
 
@@ -40,13 +40,13 @@ photos:
 
     但由于他所穿衣服的缘故，那时没有人相信他。那些大人们就是这样。
 
-> ![在国际天文学家代表大会上发表论证的土耳其天文学家](https://ericyaoj.github.io/assets/images/french/le-petit-prince/demo-01.jpg)
+> ![在国际天文学家代表大会上发表论证的土耳其天文学家](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/demo-01.jpg)
 
 > Heureusement, pour la réputation de l'astéroïde B 612 un dictateur turc imposa à son peuple, sous peine de mort, de s'habiller à l'Européenne. L'astronome refit sa démonstration en 1920, dans un habit très élégant. Et cette fois-ci tout le monde fut de son avis.
 
     幸好，土耳其的一个独裁者，为了小行星B612的声誉，迫使他的人民都要穿欧式服装，否则就处以死刑。1920年，这位天文学家穿了一身非常漂亮的服装，重新作了一次论证。这一次所有的人都同意他的看法。
 
-> ![穿着欧式服装再次发表论证的土耳其天文学家](https://ericyaoj.github.io/assets/images/french/le-petit-prince/demo-02.jpg)
+> ![穿着欧式服装再次发表论证的土耳其天文学家](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/demo-02.jpg)
 
 > Si je vous ai raconté ces détails sur l'astéroïde B 612 et si je vous ai confié son numéro, c'est à cause des grandes personnes. Les grandes personnes aiment les chiffres.
 
@@ -327,7 +327,7 @@ Alors je **tâtonne** comme ci et comme ça, tant bien que mal.
 
 在第四章中提及的这位土耳其天文学家，在1909年通过望远镜首先发现了一颗叫B-612的小星球，叙述者相信小王子来自这颗星球。当这位土耳其天文学家第一次在国际天文会议上论证他的发现时，因为他身着土耳其传统服装，没人相信他。数年后，他穿着一套雅致的西装又做了一番相同的论证。这次，大家附和了他的意见。土耳其天文学家的两次不同待遇揭露了无知人们的恐外症和狭隘民族主义的危害。
 
-![土耳其传统服饰](https://ericyaoj.github.io/assets/images/french/le-petit-prince/turkey.jpg)
+![土耳其传统服饰](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/turkey.jpg)
 
 ## 小行星
 

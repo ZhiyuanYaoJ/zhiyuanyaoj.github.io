@@ -7,7 +7,7 @@ categories:
 tags:
 - Français
 photos:
-- https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-petit-prince.jpg
+- https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/le-petit-prince.jpg
 ---
 
 # 关于《小王子》
@@ -29,7 +29,7 @@ photos:
 
 圣·埃克苏佩里一生有两大爱好：飞行和写作。他在写作中品味人间的孤独，在飞行中享受四千米高空中的孤独。其中《小王子》是他生前出版的最后一部作品。
 
-![Antoine de-Exupery](https://ericyaoj.github.io/assets/images/french/le-petit-prince/author.jpeg)
+![Antoine de-Exupery](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/author.jpeg)
 
 1926年，圣埃克苏佩里进入拉泰科埃尔航空公司。在此期间，先后出版小说《南方邮件》、《夜航》，这使他在法国文坛声誉鹊起。1939年，圣·埃克苏佩里发表小说《人的大地》，获法兰西学院小说大奖。
 第二次世界大战期间他重新加入法国空军，后辗转去纽约开始流亡生活。在这期间，圣埃克苏佩里写出了《空军飞行员》、《给一个人质的信》、《小王子》（1943）等作品。
@@ -50,7 +50,7 @@ photos:
 
     当我还只有六岁的时候，在一本描写原始森林，名叫《真实的故事》的书中， 看到了一幅精彩的插画，画的是一条蟒蛇正在吞食一只大野兽，下面就是那幅画的摹本：
 
-> ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
+> ![Copie du dessin](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 
 > On disait dans le livre: "Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion".
 
@@ -60,7 +60,7 @@ photos:
 
     当时，我对丛林中的奇遇想得很多，于是，我也用彩色铅笔画出了我的第一幅图画。我的第一号作品，它是这样的：
 
-> ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
+> ![Dessin numéro 1](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 
 > J'ai montré mon chef d'oeuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur. Elles m'ont répondu: "Pourquoi un chapeau ferait-il peur?"
 
@@ -73,7 +73,7 @@ photos:
     于是我又把巨蟒肚子里的情况画了出来，以便让大人们能够看懂，大人们总是需要解释。
     我的第二号作品是这样的：
 
-> ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
+> ![Dessin numéro 2](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
 
 > Les grandes personnes m'ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m'intéresser plutôt à la géographie, à l'histoire, au calcul et à la grammaire.
 
@@ -151,7 +151,7 @@ Toutes les grandes personnes ont d'abord été des enfants, mais peu d'entre ell
 > 
 > **解读**：咱们小时候的艺术类启蒙，基本都是画册或者绘本吧！一张精彩的插图，便打开了「我」的画家梦。
 > 
->   > ![Copie du dessin](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
+>   > ![Copie du dessin](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-0.jpeg)
 > 
 > - lorsque 当...时，近义词为quand, au moment où，如：
 > 
@@ -188,7 +188,7 @@ J'ai **alors** beaucoup **réfléchi sur** les aventures de la jungle et, **à m
 > 
 > **解读**：「我」对丛林中的奇遇有着许多的想法，于是，用彩色铅笔画出了「我」的第一幅图画。
 > 
->   > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
+>   > ![Dessin numéro 1](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 > 
 > - alors adv. 当时；那么；于是
 >       
@@ -223,7 +223,7 @@ J'ai montré mon **chef d'oeuvre** aux grandes personnes et je leur ai demandé 
 > Note:
 > 
 > **解读**：随后，「我」将自己的杰作展现给大人们看，并且问他们这幅画是否让他们感到害怕。
->   > ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
+>   > ![Dessin numéro 2](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
 > - un chef-d'œuvre 杰作，代表作（注意：f 不发音）
 > - si 法语中 si 的用法类似英语的 if
 >   > si 在这句句子中引导补语从句，译为“是否”，又如：

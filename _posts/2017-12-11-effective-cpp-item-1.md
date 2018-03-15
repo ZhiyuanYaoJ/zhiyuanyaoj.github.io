@@ -107,4 +107,4 @@ C++, then, isn’t a unified language with a single set of rules; it’s a feder
 > Rules for effective C++ programming vary, depending on the part of C++ you are using.
 
 ## Navigate
-* [Github - Reading-Notes - Effective C++ - Item 1](https://github.com/EricYaoJ/Reading-Notes/tree/master/Computer%20Science/Effective%20C%2B%2B/Item_1/README.md)
+* [Github - Reading-Notes - Effective C++ - Item 1](https://github.com/ZhiyuanYaoJ/Reading-Notes/tree/master/Computer%20Science/Effective%20C%2B%2B/Item_1/README.md)

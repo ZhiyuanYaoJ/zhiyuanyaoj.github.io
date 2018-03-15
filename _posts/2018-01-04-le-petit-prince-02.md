@@ -7,7 +7,7 @@ categories:
 tags:
 - Français
 photos:
-- https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-petit-prince-et-moi.jpg
+- https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/le-petit-prince-et-moi.jpg
 ---
 
 # 第二章
@@ -26,7 +26,7 @@ photos:
 
     我的发动机里有个东西损坏了。当时由于我既没有带机械师也没有带旅客，我就试图独自完成这个困难的维修工作。
 
-![Quelque chose s'était cassé dans mon moteur](https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-casse.jpg)
+![Quelque chose s'était cassé dans mon moteur](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/le-casse.jpg)
 
 > C'était pour moi une question de vie ou de mort. J'avais à peine de l'eau à boire pour huit jours. Le premier soir je me suis donc endormi sur le sable à mille milles de toute terre habitée. J'étais bien plus isolé qu'un naufragé sur un radeau au milieu de l'océan.
 
@@ -60,7 +60,7 @@ photos:
     我看见一个十分奇怪的小家伙严肃地朝我凝眸望着。
     这是后来我给他画出来的最好的一副画像。
 
-![Le dessin du petit prince](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-du-petit-prince.jpeg)
+![Le dessin du petit prince](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-du-petit-prince.jpeg)
 
 > Mais mon dessin, bien sûr, est beaucoup moins ravissant que le modèle. Ce n'est pas de ma faute.
 
@@ -117,7 +117,7 @@ photos:
 
     因为我从来没有画过羊，我就给他重画我所仅仅会画的两副画中的一幅，那副闭着肚皮的巨蟒。
 
-> ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
+> ![Dessin numéro 1](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 
 > Et je fus stupéfait d'entendre le petit bonhomme me répondre:
 > 
@@ -162,7 +162,7 @@ photos:
     这副画同前几副一样又被拒绝了。
     "这一只太老了。我想要一只能活得长的羊。"
 
-![Les dessins de trois mouton](https://ericyaoj.github.io/assets/images/french/le-petit-prince/trois-mouton.jpeg)
+![Les dessins de trois mouton](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/trois-mouton.jpeg)
 
 > Alors, faute de patience, comme j'avais hâte de commencer le démontage de mon moteur, je griffonnai ce dessin-ci. Et je lançai:
 > 
@@ -171,7 +171,7 @@ photos:
     我不耐烦了。因为我急于要检修发动机，于是就草草画了这张画，并且匆匆地对他说道：
     "这是一只箱子，你要的羊就在里面。"
 
-![La casse](https://ericyaoj.github.io/assets/images/french/le-petit-prince/casse.jpeg)
+![La casse](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/casse.jpeg)
 
 > Mais je fus bien surpris de voir s'illuminer le visage de mon jeune juge:
 > 
@@ -241,7 +241,7 @@ J'ai ainsi vécu seul, sans personne **avec qui parler** véritablement, **jusqu
 > 
 > **解读**：就这样，「我」一直孤独地生活着，没有一个人真正能够说话的人。直到六年前，「我」的飞机在撒哈拉沙漠上发生了故障。
 > 
->   > ![Quelque chose s'était cassé dans mon moteur](https://ericyaoj.github.io/assets/images/french/le-petit-prince/le-casse.jpg)
+>   > ![Quelque chose s'était cassé dans mon moteur](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/le-casse.jpg)
 > 
 > - parler avec qqn. 和某人说话
 >   > 此处 sans personne avec qui parler véritablement 意思是“没有一个真正能够与我说话的人”，相当于 sans personne avec qui je puisse parler véritablement。
@@ -298,9 +298,9 @@ J'avais **été** **découragé** dans ma carrière de peintre **par** les grand
 > 
 > **解读**：六岁时，大人们使「我」对「我」的画家生涯失去了勇气，除了画过开着肚皮和闭着肚皮的蟒蛇，后来再也没有学过画画。
 > 
->   > ![Dessin numéro 1](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
+>   > ![Dessin numéro 1](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-1.jpeg)
 >   > 
->   > ![Dessin numéro 2](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
+>   > ![Dessin numéro 2](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-2.jpeg)
 >   
 > - décourager qqn. 使某人气馁，文中用了被动态 
 > 
@@ -332,7 +332,7 @@ J'avais **été** **découragé** dans ma carrière de peintre **par** les grand
 > 
 > **解读**：在这旷无人烟的沙漠上，面临死亡的危险的情况下，尽管小王子的出现以及他的举动使「我」感到十分荒诞，但「我」还是掏出了一张纸和一支钢笔。
 > 
->   > ![Les dessins de trois mouton](https://ericyaoj.github.io/assets/images/french/le-petit-prince/trois-mouton.jpeg)
+>   > ![Les dessins de trois mouton](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/trois-mouton.jpeg)
 >   
 > - Aussi / Si + adj. + que + subj. 放在句首，表示让步，“尽管，虽然”，如：
 > 

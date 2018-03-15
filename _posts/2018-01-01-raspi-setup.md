@@ -7,7 +7,7 @@ categories:
 tags:
 - RaspberryPi
 photos:
-- https://ericyaoj.github.io/assets/images/raspi/raspberry-pi-cover.png
+- https://zhiyuanyaoj.github.io/assets/images/raspi/raspberry-pi-cover.png
 ---
 
 ## Intro
@@ -29,7 +29,7 @@ Having bought my raspberry pi 3 for almost half a year, I finally installed OS o
 
 ### Procedures
 
-![Download Page](https://ericyaoj.github.io/assets/images/raspi/download-page.png)
+![Download Page](https://zhiyuanyaoj.github.io/assets/images/raspi/download-page.png)
 
 1. Go to [download page](https://www.raspberrypi.org/downloads/) of [raspberrypi.org](https://www.raspberrypi.org/)
 2. Download _NOOBS_ as `zip` file

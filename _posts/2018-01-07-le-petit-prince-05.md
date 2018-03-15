@@ -62,7 +62,7 @@ photos:
     他很有见识地说："猴面包树在长大之前，开始也是小小的。"
     "不错。可是为什么你想叫你的羊去吃小猴面包树呢？"
 
-> ![B612星球上的一群大象](https://ericyaoj.github.io/assets/images/french/le-petit-prince/elephants.jpg)
+> ![B612星球上的一群大象](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/elephants.jpg)
 
 > Il me répondit:"Ben ! Voyons !" comme s'il s'agissait là d'une évidence. Et il me fallut un grand effort d'intelligence pour comprendre à moi seul ce problème.
 
@@ -106,13 +106,13 @@ photos:
     "这是个纪律问题。"小王子后来向我解释道。
     "当你早上梳洗完毕以后，必须仔细地给星球梳洗，必须规定自己按时去拔掉猴面包树苗。这种树苗小的时候与玫瑰苗差不多，一旦可以把它们区别开的时候，就要把它拔掉。这是一件非常乏味的工作，但很容易。"
 
-> ![拔猴面包树苗的小王子](https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-baobab.jpg)
+> ![拔猴面包树苗的小王子](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-baobab.jpg)
 
 > Et un jour il me conseilla de m'appliquer à réussir un beau dessin, pour bien faire entrer ça dans la tête des enfants de chez moi.
 
     有一天，他劝我用心地画一副漂亮的图画，好叫我家乡的孩子们对这件事有一个深刻的印象。
 
-> ![小王子试图让我画一幅画](https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-veux-dessin.jpg)
+> ![小王子试图让我画一幅画](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-veux-dessin.jpg)
 
 > "S'ils voyagent un jour, me disait-il, ça pourra leur servir. Il est quelquefois sans inconvénient de remettre à plus tard son travail. Mais, s'il s'agit des baobabs, c'est toujours une catastrophe. J'ai connu une planète, habitée par un paresseux. Il avait négligé trois arbustes..."
 > 
@@ -128,7 +128,7 @@ photos:
     我从来不大愿意以道学家的口吻来说话。可是猴面包树的危险，大家都不大了解，对迷失在小行星上的人来说，危险性非常之大，因此这一回，我贸然打破了我的这种不喜欢教训人的惯例。
     我说："孩子们，要当心那些猴面包树呀！"
 
-> ![「我」费劲心思画的猴面包树](https://ericyaoj.github.io/assets/images/french/le-petit-prince/dessin-baobab.jpg)
+> ![「我」费劲心思画的猴面包树](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/dessin-baobab.jpg)
 
 > C'est pour avertir mes amis d'un danger qu'ils frôlaient depuis longtemps, comme moi-même, sans le connaître, que j'ai tant travaillé ce dessin-là. La leçon que je donnais en valait la peine.
 
@@ -448,7 +448,7 @@ Je **n'**aime **guère** prendre le ton d'un moraliste. Mais le danger des baoba
 
 在古老传说中，当波巴布树在非洲“安家落户”时，它不听“上帝”的安排，自己选择了热带草原，因而激怒了“上帝”，便把它连根拔了起来，从此波巴布树就倒立在地上，变成了一种奇特的“倒栽树”，它稀疏地分布在非洲的热带草原上，成为那里的特有风景。
 
-![猴面包树](https://ericyaoj.github.io/assets/images/french/le-petit-prince/baobab.jpg)
+![猴面包树](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/baobab.jpg)
 
 ## 纳粹
 

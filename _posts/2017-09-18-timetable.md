@@ -9,7 +9,7 @@ tags:
 - Daily
 - L'X
 photos:
-- https://ericyaoj.github.io/assets/images/Bicorne_hat_Ecole_Polytechnique.jpg
+- https://zhiyuanyaoj.github.io/assets/images/Bicorne_hat_Ecole_Polytechnique.jpg
 ---
 
 Following are the **timtables** for some infrustractures at *L'Ecole Polytechnique*.

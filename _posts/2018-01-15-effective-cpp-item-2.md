@@ -188,4 +188,4 @@ Given the availability of `consts`, `enums`, and `inlines`, your need for the pr
 - For function-like macros, prefer inline functions to #defines.
 
 ## Navigate
-* [Github - Reading-Notes - Effective C++ - Item 2](https://github.com/EricYaoJ/Reading-Notes/tree/master/Computer%20Science/Effective%20C%2B%2B/Item_2/README.md)
+* [Github - Reading-Notes - Effective C++ - Item 2](https://github.com/ZhiyuanYaoJ/Reading-Notes/tree/master/Computer%20Science/Effective%20C%2B%2B/Item_2/README.md)

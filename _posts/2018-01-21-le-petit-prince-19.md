@@ -52,7 +52,7 @@ photos:
     "让我来干吧。这活对你太重了。"
     我慢慢地把水桶提到井栏上。
 
-![我提起了水桶](https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-puis.jpg)
+![我提起了水桶](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-puis.jpg)
 
 > Je l'y installai bien d'aplomb. Dans mes oreilles durait le chant de la poulie et, dans l'eau qui tremblait encore, je voyais trember le soleil.
 > 

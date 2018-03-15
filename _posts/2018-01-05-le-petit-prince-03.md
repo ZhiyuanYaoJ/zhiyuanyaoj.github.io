@@ -7,7 +7,7 @@ categories:
 tags:
 - Français
 photos:
-- https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-voir-mouton.jpg
+- https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-voir-mouton.jpg
 ---
 
 # 第三章
@@ -322,7 +322,7 @@ Puis, sortant mon mouton de sa poche, il se plongea dans la contemplation de son
 > 
 > **解读**：小王子从口袋里掏出了「我」画的小羊，像看着珍宝一样看入了神。
 > 
->   > ![小王子看「我」画的小羊](https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-voir-mouton.jpg)
+>   > ![小王子看「我」画的小羊](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-voir-mouton.jpg)
 > 
 > - sortant mon mouton de sa poche 现在分词作同位语，补充说明句子主语的情况，如：
 > 

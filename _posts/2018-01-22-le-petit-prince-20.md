@@ -7,7 +7,7 @@ categories:
 tags:
 - Français
 photos:
-- https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-et-moi.jpg
+- https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-et-moi.jpg
 ---
 
 # 第二十章
@@ -29,7 +29,7 @@ photos:
     在井旁边有一堵残缺的石墙。第二天晚上我工作回来的时候，我远远地看见了小王子耷拉着双腿坐在墙上。我听见他在说话："你怎么不记得了呢？" 他说，"不是在这里。"
     大概还有另一个声音在回答他，因为他答着腔说道："没错，没错，日子是对的；但地点不是这里…"
 
-![坐在墙上的小王子](https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-mur.jpg)
+![坐在墙上的小王子](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-mur.jpg)
 
 > Je poursuivis ma marche vers le mur. Je ne voyais ni n'entendais toujours personne. Pourtant le petit prince répliqua de nouveau:
 > 
@@ -60,7 +60,7 @@ photos:
 
     就在那里，一条黄蛇直起身子冲着小王子。这种黄蛇半分钟就能结果你的性命。我一面赶紧掏口袋，拔出手枪，一面跑过去。可是一听到我的脚步声，蛇却像一股干涸了的水柱一样，慢慢钻进沙里去。它不慌不忙地在石头的缝隙中钻动着，发出轻轻的金属般的响声。我到达墙边的时候，正好把我的这位小王子接在我的怀抱中。他的脸色雪一样惨白。
 
-![直着身子冲着小王子的蛇](https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-serpent.jpg)
+![直着身子冲着小王子的蛇](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-serpent.jpg)
 
 > -Quelle est cette histoire-là ! Tu parles maintenant avec les serpents !
 > 
@@ -76,7 +76,7 @@ photos:
     我解开了他一直带着的金黄色的围脖。我用水渍湿了他的太阳穴，让他喝了点水。这时，我什么也不敢再问他。他严肃地看着我，用双臂搂着我的脖子。我感到他的心就像一只被枪弹击中而濒于死亡的鸟的心脏一样在跳动着。他对我说："我很高兴，你找到了你的机器所缺少的东西。你不久就可以回家去了…"
     "你怎么知道的？"我正是来告诉他，在没有任何希望的情况下，我成功地完成了修理工作。
 
-![「我」把小王子接在了怀里](https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-dans-bras.jpg)
+![「我」把小王子接在了怀里](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-dans-bras.jpg)
 
 > Il ne répondit rien à ma question, mais il ajouta: 
 > 
@@ -204,7 +204,7 @@ photos:
     "我不离开你。"
     可是他担心起来。
 
-![我和小王子](https://ericyaoj.github.io/assets/images/french/le-petit-prince/prince-et-moi.jpg)
+![我和小王子](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/prince-et-moi.jpg)
 
 > -Je te dis ça. . . c'est à cause du serpent. Il ne faut pas qu'il te morde. . . Les serpents, c'est méchant. Ça peut mordre pour le plaisir. . .
 > 

@@ -354,4 +354,4 @@ MovePoint 函数的原型应该是 void MovePoint( Point *this, int a, int b);�
 当你进入一个房子后，你可以看见桌子、椅子、地板等，但是房子你是看不到全貌了。对于一个类的实例来说，你可以看到它的成员函数、成员变量，但是实例本身呢？this 是一个指针，它时时刻刻指向你这个实例本身。
 
 ## Navigate
-* [Github - Reading-Notes - Effective C++ - Item 2*](https://github.com/EricYaoJ/Reading-Notes/blob/master/Computer%20Science/Effective%20C%2B%2B/Item_2/Item_2_0.md)
+* [Github - Reading-Notes - Effective C++ - Item 2*](https://github.com/ZhiyuanYaoJ/Reading-Notes/blob/master/Computer%20Science/Effective%20C%2B%2B/Item_2/Item_2_0.md)

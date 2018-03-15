@@ -28,7 +28,7 @@ photos:
     "瞧！来了一位探险家。"老先生看到小王子时，叫了起来。
     小王子在桌旁坐下，有点气喘吁吁。他跑了多少路啊！
 
-![原作中对“地理学家”的插图](https://ericyaoj.github.io/assets/images/french/le-petit-prince/geographe.jpg)
+![原作中对“地理学家”的插图](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/geographe.jpg)
 
 > -D'où viens-tu ? lui dit le vieux Monsieur.
 > 
@@ -79,7 +79,7 @@ photos:
     "可您还是地理学家呢！"
     "一点不错，"地理学家说，"但是我不是探察家。我缺的正是探察家。地理学家是不去计算城市、河流、山脉、海洋、沙漠的。地理学家很重要，不能到处跑。他不能离开他的办公室。但他可以在办公室里接见探察家。他询问探察家，把他们的回忆记录下来。如果他认为其中有个探察家的回忆是有意思的，那么地理学家就对这个探察家的品德做一番调查。"
 
-![地理学家和小王子](https://ericyaoj.github.io/assets/images/french/le-petit-prince/geographe-et-prince.jpg)
+![地理学家和小王子](https://zhiyuanyaoj.github.io/assets/images/french/le-petit-prince/geographe-et-prince.jpg)
 
 > -Pourquoi ça ?
 > 

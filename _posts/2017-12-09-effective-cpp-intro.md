@@ -348,4 +348,4 @@ has an Item that describes it in some detail ([Item 54](../Item_54/README.md) fo
 
 
 ## Navigate
-* [Github - Reading-Notes - Effective C++ - Intro](https://github.com/EricYaoJ/Reading-Notes/blob/master/Computer%20Science/Effective%20C%2B%2B/Intro/README.md)
+* [Github - Reading-Notes - Effective C++ - Intro](https://github.com/ZhiyuanYaoJ/Reading-Notes/blob/master/Computer%20Science/Effective%20C%2B%2B/Intro/README.md)
