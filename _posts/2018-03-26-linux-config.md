@@ -131,13 +131,11 @@ $ echo $bash
 ### Installation
 
 1. Auto Installation
-
 ```bash
 $ wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
 ```
 
 2. Manual Installation
-
 ```bash
 $ git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 $ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
@@ -293,13 +291,11 @@ $ wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-
 ```
 
 2. Set repository:
-
 ```bash
 $ echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
 ```
 
 3. Install package:
-
 ```bash 
 $ sudo apt-get update 
 $ sudo apt-get install google-chrome-stable
