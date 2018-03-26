@@ -277,6 +277,14 @@ $ sudo apt-get update
 $ sudo apt-get install fluxgui
 ```
 
+## System Load Indicator
+
+```bash
+$ sudo add-apt-repository ppa:indicator-multiload/stable-daily
+$ sudo apt update
+$ sudo apt install indicator-multiload
+```
+
 ## Chrome
 
 1. Add Key:
