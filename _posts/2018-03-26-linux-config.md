@@ -10,13 +10,11 @@ photos:
 -
 ---
 
-# Ubuntu Configuration
-
-## Intro
+# Intro
 
 In order to play with [fd.io - VPP](https://wiki.fd.io/view/VPP/What_is_VPP%3F), which is the open source version of Cisco's Vector Packet Processing (VPP) technology, I decided to have a long-term Ubuntu system on my MacBook Pro.
 
-## Virtual Machine
+# Virtual Machine
 
 1. Download and install [virtual-box](https://www.virtualbox.org)
 2. Download a recent [Ubuntu Desktop ISO (Version 16.04)](https://www.ubuntu.com/download/desktop)
@@ -29,7 +27,7 @@ In order to play with [fd.io - VPP](https://wiki.fd.io/view/VPP/What_is_VPP%3F),
     - Enhance display capability (_VM Settings_ -> _Display_ -> _Screen_: assign enough **Video Memory** and **Enable 3D Acceleration**, see Reference [[3]](http://www.xuzefeng.com/post/85.html))
 4. Install Ubuntu on the VM by selecting the Ubuntu ISO when start the VM (Choose _Erase disk and install Ubuntu_)
 
-## System
+# System
 
 It is really time-consuming if we want a highly customized Ubuntu system. But it turns out that the whole procedure can be interesting and rewarding (to some extent :) ).
 
@@ -41,7 +39,7 @@ The results are shown below.
 
 ![Tmux](https://zhiyuanyaoj.github.io/assets/images/ubuntu/tmux.png)
 
-### Cleanup & Update
+## Cleanup & Update
 
 ```bash
 # My own preference is to use Chrome instead of Firefox :)
@@ -71,7 +69,7 @@ $ sudo apt update
 $ sudo apt upgrade
 ```
 
-### Make it beautiful
+## Make it beautiful
 
 ```bash
 # Unity Management Tool (GUI)
@@ -90,21 +88,21 @@ $ sudo apt update
 $ sudo apt install albert
 ```
 
-## Software
+# Software
 
-### Git
+## Git
 
 ```bash
 $ sudo apt install git
 ```
 
-### Wget
+## Wget
 
 ```bash
 $ sudo apt install wget
 ```
 
-### Terminator (bash)
+## Terminator (bash)
 
 ```bash
 $ sudo add-apt-repository ppa:gnome-terminator
@@ -114,7 +112,7 @@ $ sudo apt install terminator
 
 > Terminator should be setup as default now. Restart the terminal with shortcut: "Ctrl+Alt+T"
 
-### ZSH
+## ZSH
 
 ```bash
 $ sudo apt install zsh
@@ -128,9 +126,9 @@ $ chsh -s /bin/zsh
 $ echo $bash
 ```
 
-### Oh-My-ZSH
+## Oh-My-ZSH
 
-#### Installation
+### Installation
 
 1. Auto Installation
 
@@ -145,9 +143,9 @@ $ git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 $ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ```
 
-#### Theme Setup
+### Theme Setup
 
-##### Install powerline font
+#### Install powerline font
 
 ```bash
 $ cd
@@ -157,19 +155,19 @@ $ mv PowerlineSymbols.otf ~/.fonts/
 $ mkdir -p .config/fontconfig/conf.d #if directory doesn't exists
 ```
 
-##### Clean fonts cache
+#### Clean fonts cache
 
 ```bash
 $ fc-cache -vf ~/.fonts
 ```
 
-##### Move config file
+#### Move config file
 
 ```bash
 $ mv 10-powerlin-symbols.conf ~/.config/fontconfig/conf.d
 ```
 
-##### Change theme colors to solarize
+#### Change theme colors to solarize
 
 `dconf` is required if you don't already have it.
 
@@ -199,11 +197,11 @@ To activate dark solarize theme in Terminator just right click on the terminal,
 
 Restart Terminator and you're done!
 
-##### Configuration
+#### Configuration
 
 My configuration files looks like this:
 
-```
+```bash
 ...
 ZSH_THEME="agnoster"
 ...
@@ -255,7 +253,7 @@ autoload -U compinit && compinit -u
 
 > Reload `ZSH` and it's good to go with `$ j + $PATH`
 
-### Vim
+## Vim
 
 ```bash
 $ sudo apt install vim
@@ -265,13 +263,13 @@ Sophisticated setup can be found in Reference [[8]](https://github.com/yangyangw
 
 Good luck configuring! :)
 
-### TMux
+## TMux
 
 ```bash
 $ sudo apt install tmux
 ```
 
-### F.Lux
+## F.Lux
 
 ```bash
 $ sudo add-apt-repository ppa:nathan-renniewaldock/flux
@@ -279,7 +277,7 @@ $ sudo apt-get update
 $ sudo apt-get install fluxgui
 ```
 
-### Chrome
+## Chrome
 
 1. Add Key:
 ```bash
@@ -299,7 +297,7 @@ $ sudo apt-get update
 $ sudo apt-get install google-chrome-stable
 ```
 
-### Visual Studio Code
+## Visual Studio Code
 
 Download from: https://code.visualstudio.com/download
 
@@ -311,7 +309,7 @@ Download from: https://code.visualstudio.com/download
     + Git History
     + markdownlint
 
-### VPP
+## VPP
 
 Since I need to have fun with VPP, I just put the instructions to install VPP here.
 
@@ -327,15 +325,24 @@ $ make build
 $ make run
 ```
 
-## Reference
+# Reference
 
 \[1\] - [How do I enable the shared clipboard in VirtualBox?](https://superuser.com/questions/42134/how-do-i-enable-the-shared-clipboard-in-virtualbox)
+
 \[2\] - [How to copy & paste from Ubuntu VirtualBox guest to Windows host?](https://askubuntu.com/questions/73059/how-to-copy-paste-from-ubuntu-virtualbox-guest-to-windows-host)
+
 \[3\] - [VirtualBox虚拟机运行Ubuntu如何不卡](http://www.xuzefeng.com/post/85.html)
+
 \[4\] - [Ubuntu 16.04 + Terminator + Oh My ZSH with Agnoster Theme](https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a)
+
 \[5\] - [Ubuntu 调优与美化教程](https://zhuanlan.zhihu.com/p/26032793)
+
 \[6\] - [Ubuntu 安装zsh配置 oh my zsh autojump apt-get 使用](https://www.jianshu.com/p/fc63d64c06d5)
+
 \[7\] - [强大的zsh配置文件](http://www.cnblogs.com/ma6174/archive/2012/05/08/2490921.html)
+
 \[8\] - [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+
 \[9\] - [打造Python开发工具——vim+zsh+tmux](https://zhuanlan.zhihu.com/p/26000126)
+
 \[10\] - [What is VPP?](https://wiki.fd.io/view/VPP/What_is_VPP%3F)
