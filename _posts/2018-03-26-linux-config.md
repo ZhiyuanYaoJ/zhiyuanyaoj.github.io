@@ -203,7 +203,7 @@ Restart Terminator and you're done!
 
 My configuration files looks like this:
 
-```json
+```bash
 ...
 ZSH_THEME="agnoster"
 ...
