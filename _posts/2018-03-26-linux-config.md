@@ -327,22 +327,13 @@ $ make run
 
 # Reference
 
-\[1\] - [How do I enable the shared clipboard in VirtualBox?](https://superuser.com/questions/42134/how-do-i-enable-the-shared-clipboard-in-virtualbox)
-
-\[2\] - [How to copy & paste from Ubuntu VirtualBox guest to Windows host?](https://askubuntu.com/questions/73059/how-to-copy-paste-from-ubuntu-virtualbox-guest-to-windows-host)
-
-\[3\] - [VirtualBox虚拟机运行Ubuntu如何不卡](http://www.xuzefeng.com/post/85.html)
-
-\[4\] - [Ubuntu 16.04 + Terminator + Oh My ZSH with Agnoster Theme](https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a)
-
-\[5\] - [Ubuntu 调优与美化教程](https://zhuanlan.zhihu.com/p/26032793)
-
-\[6\] - [Ubuntu 安装zsh配置 oh my zsh autojump apt-get 使用](https://www.jianshu.com/p/fc63d64c06d5)
-
-\[7\] - [强大的zsh配置文件](http://www.cnblogs.com/ma6174/archive/2012/05/08/2490921.html)
-
-\[8\] - [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
-
-\[9\] - [打造Python开发工具——vim+zsh+tmux](https://zhuanlan.zhihu.com/p/26000126)
-
-\[10\] - [What is VPP?](https://wiki.fd.io/view/VPP/What_is_VPP%3F)
+- \[1\] - [How do I enable the shared clipboard in VirtualBox?](https://superuser.com/questions/42134/how-do-i-enable-the-shared-clipboard-in-virtualbox)
+- \[2\] - [How to copy & paste from Ubuntu VirtualBox guest to Windows host?](https://askubuntu.com/questions/73059/how-to-copy-paste-from-ubuntu-virtualbox-guest-to-windows-host)
+- \[3\] - [VirtualBox虚拟机运行Ubuntu如何不卡](http://www.xuzefeng.com/post/85.html)
+- \[4\] - [Ubuntu 16.04 + Terminator + Oh My ZSH with Agnoster Theme](https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a)
+- \[5\] - [Ubuntu 调优与美化教程](https://zhuanlan.zhihu.com/p/26032793)
+- \[6\] - [Ubuntu 安装zsh配置 oh my zsh autojump apt-get 使用](https://www.jianshu.com/p/fc63d64c06d5)
+- \[7\] - [强大的zsh配置文件](http://www.cnblogs.com/ma6174/archive/2012/05/08/2490921.html)
+- \[8\] - [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+- \[9\] - [打造Python开发工具——vim+zsh+tmux](https://zhuanlan.zhihu.com/p/26000126)
+- \[10\] - [What is VPP?](https://wiki.fd.io/view/VPP/What_is_VPP%3F)
