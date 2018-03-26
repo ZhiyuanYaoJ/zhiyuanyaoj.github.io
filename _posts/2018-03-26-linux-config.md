@@ -345,3 +345,4 @@ $ make run
 - \[8\] - [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 - \[9\] - [打造Python开发工具——vim+zsh+tmux](https://zhuanlan.zhihu.com/p/26000126)
 - \[10\] - [What is VPP?](https://wiki.fd.io/view/VPP/What_is_VPP%3F)
+- \[11\] - [你的Ubuntu还可以这么美](https://zhuanlan.zhihu.com/p/27467392)
