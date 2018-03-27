@@ -55,7 +55,7 @@ Following is a list of the main directories in VPP source code, where basic info
 
 One of the highlights of VPP is that it naturally supports plugins. Here we are going to take a quick journey through the initialization of the plugins.
 
-## `/vlib/init.h`
+## /vlib/init.h
 
 Initialization is implemented on basis of _constructor function_, as is defined in `src/vlib/init.h`, so that the plugins will be included just as main line codes.
 
@@ -80,7 +80,7 @@ static void __vlib_add_##tag##_function_##x (void)              \
 #define VLIB_INIT_FUNCTION(x) VLIB_DECLARE_INIT_FUNCTION(x,init)
 ```
 
-## `vpp/vnet/main.c`
+## /vpp/vnet/main.c
 
 Then, by default, main heap will be created and allocated to vnet and plugins. And then `vlib_unix_main (argc, argv)` will be called.
 
@@ -108,7 +108,7 @@ defaulted:
 }
 ```
 
-## `vlib/unix/main.c`
+## /vlib/unix/main.c
 
 ```c
 int
@@ -159,7 +159,7 @@ vlib_unix_main (int argc, char *argv[])
 }
 ```
 
-### `vlib/unix/plugin.c`
+### /vlib/unix/plugin.c
 
 In the `vlib_unix_main` function, we can observe that there is a function called `vlib_plugin_early_init`, which is defined in `vlib/unix/plugin.c` and initialize plugin before `main()`. The following chunk of code basically allows plugins being added via CLI.
 
@@ -181,7 +181,7 @@ vlib_plugin_early_init (vlib_main_t * vm)
 }
 ```
 
-### `unformat_init_command_line`
+### unformat_init_command_line
 
 These following lines basically take the command line and assign values to different variables. If necessary, configuration functions will be called. 
 
@@ -198,7 +198,7 @@ These following lines basically take the command line and assign values to diffe
   unformat_free (&input);
 ```
 
-### `vlib_thread_stack_init`
+### vlib_thread_stack_init
 
 The following important concept is the _thread stack_. The following lines basically initialize the thread stack and assign the os thread as _0_ index.
 
@@ -209,7 +209,7 @@ The following important concept is the _thread stack_. The following lines basic
   vm->thread_index = 0;
 ```
 
-### `clib_calljmp`
+### clib_calljmp
 
 ```c
   i = clib_calljmp (thread0, (uword) vm,
@@ -219,7 +219,7 @@ The following important concept is the _thread stack_. The following lines basic
 
 This function will then lead us to our initialized thread, which is called now `thread0`. If we take a closer look into this `thread0`, it will finally lead us to an interesting function called `vlib_main`, which located in `/vlib/main.c`.
 
-### `vlib_main`
+### vlib_main
 
 In this function, all static nodes are registered by `vlib_register_all_static_nodes`, all subsystems are configured by `vlib_call_all_config_functions`, and there is one last chance for some systems to do the last-minute setup and configuration in order to get ready and dive into the main loop with `vlib_call_all_main_loop_enter_functions`.
 
@@ -352,7 +352,7 @@ done:
 }
 ```
 
-### `vlib_main_loop`
+### vlib_main_loop
 
 There are two loop functions defined in `/vlib/main.c`, namely, `vlib_main_loop` and `vlib_worker_loop`, whose difference is kind of obvious. Here, we are mainly talking about the former one, that is `vlib_main_loop`.
 
