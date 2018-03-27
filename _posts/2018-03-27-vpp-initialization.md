@@ -388,4 +388,4 @@ If we dive inside the `vlib_main_or_worker_loop`, we can observe the mainstream 
 
 # Reference
 
-- \[1\] - [PreLaunch Summit Day2 | Chapter 1 | VPP initialization](https://www.youtube.com/watch?v=D4_PBAaVmco&t=0s&list=PLWHpG2-3ZXXsomIWyDG1L72eLXay0Z1Yu&index=1)
+- \[1\] - [PreLaunch Summit Day2 - Chapter 1 - VPP initialization](https://www.youtube.com/watch?v=D4_PBAaVmco&t=0s&list=PLWHpG2-3ZXXsomIWyDG1L72eLXay0Z1Yu&index=1)
