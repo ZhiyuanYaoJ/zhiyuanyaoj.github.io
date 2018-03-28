@@ -9,7 +9,7 @@ tags:
 photos:
 ---
 
-## Intro - Problem of _#defines_
+## Intro - Problem of #defines
 
 This Item might better be called “_prefer the compiler to the preprocessor_,”
 because `#define` may be treated as if it’s not part of the language
@@ -28,7 +28,7 @@ This can be confusing if you get an error during compilation involving the use o
 
 ## Solution
 
-### _const_
+### const
 
 The first solution is to replace the macro with a constant:
 
@@ -118,7 +118,7 @@ It’s important that the _pointer_ be declared **const**.
 >   CostEstimate::FudgeFactor = 1.35;   // constant; goes in impl. file
 > ```
 
-### _enum_
+### enum
 
 Above is all you need almost all the time. The only exception is when you need the value of a class constant during compilation of the class, such as in the declaration of the array `GamePlayer::scores` above (where compilers insist on knowing the size of the array during compilation). Then the accepted way to compensate for compilers that (incorrectly) forbid the in-class specification of initial values for static integral class constants is to use what is affectionately (and non-pejoratively) known as _“the enum hack.”_ This technique takes advantage of the fact that **the values of an enumerated type can be used where ints are expected**, so `GamePlayer` could just as well be defined like this:
 
