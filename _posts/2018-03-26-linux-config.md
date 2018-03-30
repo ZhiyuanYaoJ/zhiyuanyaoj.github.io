@@ -207,12 +207,9 @@ plugins=(
 )
 source $ZSH/oh-my-zsh.sh
 ...
-# Context: user@hostname (who am I and where am I)
-prompt_context() {
-  if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
-    prompt_segment black default "%(!.%{%F{yellow}%}.)$USER"
-  fi
-}
+
+$DEFAULT_USER=$USER
+
 ...
 alias vim='sudo vim'
 alias zshconfig="vim ~/.zshrc"
@@ -265,6 +262,29 @@ $ sudo apt install vim
 Sophisticated setup can be found in Reference [[8]](https://github.com/yangyangwithgnu/use_vim_as_ide). I won't dive deep into the details. It seems pretty nice in the end, but... the whole procedure was just way too complicated. Finally, I decided to go with [VSCode](https://code.visualstudio.com/download) as my IDE.
 
 Good luck configuring! :)
+
+To follow the Reference [[8]](https://github.com/yangyangwithgnu/use_vim_as_ide), we need to install some prerequisites
+
+- python-devel
+- python3-devel
+- ruby-devel
+- lua-devel
+- libX11-devel
+- gtk-devel
+- gtk2-devel
+- gtk3-devel
+- ncurses-devel
+
+```bash
+$ apt install libpython2.7-dev
+$ apt install libpython3.5-dev
+$ apt install ruby-dev
+$ apt install liblua5.2-dev
+$ apt install libx11-dev
+$ apt install libgtk2.0-dev
+$ apt install libgtk3.0-dev
+$ apt install libncursers-dev
+```
 
 ## TMux
 
