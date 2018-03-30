@@ -123,7 +123,7 @@ $ chsh -s /bin/zsh
 
 ```bash
 # Check current bash
-$ echo $bash
+$ echo $SHELL
 ```
 
 ## Oh-My-ZSH
