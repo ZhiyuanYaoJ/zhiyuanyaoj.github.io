@@ -238,6 +238,7 @@ eval `dircolors ~/.dir_colors/dircolors`
 $ git clone https://github.com/joelthelion/autojump.git
 $ cd autojump
 $ ./install.py
+$ cd ../
 $ rm -rf autojump
 ```
 
