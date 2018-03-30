@@ -88,6 +88,8 @@ $ sudo apt update
 $ sudo apt install albert
 ```
 
+With _unity tweak tool_, the theme, fonts, and icons can be configured to _flatablulous_ and _ultra-flat_. Meanwhile, we can have several workspaces from Window Manager > Workspace Settings.
+
 # Software
 
 ## Git
