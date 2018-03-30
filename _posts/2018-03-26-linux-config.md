@@ -162,7 +162,7 @@ $ fc-cache -vf ~/.fonts
 #### Move config file
 
 ```bash
-$ mv 10-powerlin-symbols.conf ~/.config/fontconfig/conf.d
+$ mv 10-powerline-symbols.conf ~/.config/fontconfig/conf.d
 ```
 
 #### Change theme colors to solarize
