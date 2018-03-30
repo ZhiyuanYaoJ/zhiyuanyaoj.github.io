@@ -174,10 +174,9 @@ $ sudo apt-get install dconf-cli
 ```
 
 ```bash
-git clone git://github.com/sigurdga/gnome-terminal-colors-solarized.git ~/.solarized
-cd ~/.solarized
-./install.sh
-$ rm -rf ~/.solarized
+$ git clone git://github.com/sigurdga/gnome-terminal-colors-solarized.git ~/.solarized
+$ cd ~/.solarized
+$ ./install.sh
 ```
 
  - I recommend you **option 1** (dark theme) which is just great.  
