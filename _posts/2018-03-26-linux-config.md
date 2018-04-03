@@ -342,7 +342,7 @@ Download from: https://code.visualstudio.com/download
 
 ## VPP
 
-Since I need to have fun with VPP, I just put the instructions to install VPP here.
+Since I need to have fun with VPP, I just put the simplified instructions to install VPP here.
 
 ```bash
 $ cd $PATH_YOU_WANT_TO_HAVE_VPP
@@ -354,6 +354,30 @@ $ make install-dep
 $ make build
 # It should take you to the interactive terminal of VPP :)
 $ make run
+```
+
+For more details about how to pull, build, and run vpp, check this [wiki](https://wiki.fd.io/view/VPP/Pulling,_Building,_Running,_Hacking_and_Pushing_VPP_Code).
+
+# SSH Access
+
+To get access to the VM headlessly, we can try to allocate fewer resources to the VM, since we don't need visualization and stuffs like that. My configuration switched to the following:
+
+- 40GB disk space (Fixed-size VDI makes it faster)
+- 4GB of memory
+- 1 core (_VM Settings_ -> _System_ -> _Processor_)
+- Disable display acceleration
+
+To get access to the VM via SSH, we have to setup the host-guest port forwarding rules (_VM Settings_ -> _Network_ -> _Adapter 1_ -> _Advanced_ -> _Port Forwarding_).
+
+- Name: `ssh`
+- Protocol: `TCP`
+- Host Port: `9999`
+- Guest Port: `22`
+
+With all this set. Reboot the system with `sudo poweroff` and `headless start`. Then open _zsh terminal_ and start ssh communication with
+
+```bash
+$ ssh -p 9999 yzy@localhost
 ```
 
 # Reference
@@ -369,3 +393,4 @@ $ make run
 - \[9\] - [打造Python开发工具——vim+zsh+tmux](https://zhuanlan.zhihu.com/p/26000126)
 - \[10\] - [What is VPP?](https://wiki.fd.io/view/VPP/What_is_VPP%3F)
 - \[11\] - [你的Ubuntu还可以这么美](https://zhuanlan.zhihu.com/p/27467392)
+- \[12\] - [VPP/Pulling, Building, Running, Hacking and Pushing VPP Code](https://wiki.fd.io/view/VPP/Pulling,_Building,_Running,_Hacking_and_Pushing_VPP_Code)
