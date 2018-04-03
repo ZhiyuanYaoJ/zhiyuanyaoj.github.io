@@ -380,6 +380,8 @@ With all this set. Reboot the system with `sudo poweroff` and `headless start`. 
 $ ssh -p 9999 yzy@localhost
 ```
 
+where `yzy` is the name of my account on VM.
+
 # Reference
 
 - \[1\] - [How do I enable the shared clipboard in VirtualBox?](https://superuser.com/questions/42134/how-do-i-enable-the-shared-clipboard-in-virtualbox)
