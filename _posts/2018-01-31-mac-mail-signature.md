@@ -13,7 +13,7 @@ photos:
 
 越长大越发现有一个优雅的邮件签名是一件非常重要的事情，不光可以更加方便大家找到关于自己的信息，还能凸显自己非常绅士的生活态度。所以今天就来记录一下自己捣鼓的新签名。先来显摆一下我的新签名：
 
-![新签名](https://ericyaoj.github.io/assets/images/X/mac_mail_sign.png)
+![新签名](https://zhiyuanyaoj.github.io/assets/images/X/mac_mail_sign.png)
 
 下面就来简单记录一下我做签名的流程。
 
