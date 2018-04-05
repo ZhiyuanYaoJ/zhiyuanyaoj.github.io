@@ -77,7 +77,7 @@ drwxr-xr-x@  5 andre  staff   160B Jan 31 21:53 .
     <tr>
         <td valign='top' width="85" style="width:100px;margin:0;padding:0;vertical-align:top;">
             <a href='http://www.polytechnique.edu' title="L'X" style="border:none;text-decoration:none;">
-        <img moz-do-not-send="true" src="https://www.zhiyuanyao.com/assets/images/x_logo_vert.png" alt="L'X" width='78' height='100' style="border:none;width:78px;height:100px;display:block;">
+        <img moz-do-not-send="true" src="https://www.zhiyuanyao.com/assets/images/x_logo_vert.png" alt="L'X" width='82' height='105' style="border:none;width:82px;height:105px;display:block;">
       </a>
         </td>
 
@@ -106,6 +106,16 @@ drwxr-xr-x@  5 andre  staff   160B Jan 31 21:53 .
                 <tr style="margin:0;padding:0;">
                     <td style="margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;white-space:nowrap;">
                         <a href="http://www.polytechnique.edu/" style="border:none;text-decoration:none;color:#b0b0b0;"><span style="color:#b0b0b0">Ecole Polytechnique</span></a>
+                    </td>
+                </tr>
+
+        <tr height='4' style="height:1px;max-height:1px;font-size:1px;mso-line-height-rule:exactly;line-height:1px;">
+            <td height='4' style="height:1px;max-height:1px;font-size:1px;mso-line-height-rule:exactly;line-height:1px;">&nbsp;</td>
+        </tr>
+        
+                <tr style="margin:0;padding:0;">
+                    <td style="margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;white-space:nowrap;">
+                        <a href="http://www.internet-of-everything.fr/category/pirl/" style="border:none;text-decoration:none;color:#b0b0b0;"><span style="color:#b0b0b0">CISCO | PIRL Researcher</span></a>
                     </td>
                 </tr>
 
