@@ -75,9 +75,9 @@ drwxr-xr-x@  5 andre  staff   160B Jan 31 21:53 .
 
 <table id="sig" width='320' cellspacing='0' cellpadding='0' border-spacing='0' style="width:320px;margin:0;padding:0;">
     <tr>
-        <td valign='top' width="85" style="width:100px;margin:0;padding:0;vertical-align:top;">
+        <td valign='top' width="95" style="width:105px;margin:0;padding:0;vertical-align:top;">
             <a href='http://www.polytechnique.edu' title="L'X" style="border:none;text-decoration:none;">
-        <img moz-do-not-send="true" src="https://www.zhiyuanyao.com/assets/images/x_logo_vert.png" alt="L'X" width='82' height='105' style="border:none;width:82px;height:105px;display:block;">
+        <img moz-do-not-send="true" src="https://www.zhiyuanyao.com/assets/images/x_logo_vert.png" alt="L'X" width='94' height='120' style="border:none;width:94px;height:120px;display:block;">
       </a>
         </td>
 
@@ -109,9 +109,7 @@ drwxr-xr-x@  5 andre  staff   160B Jan 31 21:53 .
                     </td>
                 </tr>
 
-        <tr height='4' style="height:1px;max-height:1px;font-size:1px;mso-line-height-rule:exactly;line-height:1px;">
-            <td height='4' style="height:1px;max-height:1px;font-size:1px;mso-line-height-rule:exactly;line-height:1px;">&nbsp;</td>
-        </tr>
+        <tr height='3' style="height:1px;max-height:1px;font-size:1px;mso-line-height-rule:exactly;line-height:1px;"></tr>
         
                 <tr style="margin:0;padding:0;">
                     <td style="margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;white-space:nowrap;">
