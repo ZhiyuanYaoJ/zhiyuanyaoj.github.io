@@ -228,6 +228,9 @@ alias cls='clear'
 alias ll='ls -al'
 alias la='ls -a'
 alias top10='print -l  ${(o)history%% *} | uniq -c | sort -nr | head -n 10'
+alias clpcache='sync; echo 1 > /proc/sys/vm/drop_caches'
+alias cldcache='sync; echo 2 > /proc/sys/vm/drop_caches'
+alias clallcache='sync; echo 3 > /proc/sys/vm/drop_caches'
 ...
 # Autojump
 [[ -s ~/.autojump/etc/profile.d/autojump.zsh ]] && . ~/.autojump/etc/profile.d/autojump.zsh
