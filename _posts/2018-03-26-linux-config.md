@@ -43,49 +43,49 @@ The results are shown below.
 
 ```bash
 # My own preference is to use Chrome instead of Firefox :)
-$ dpkg --get-selections | grep firefox     # List all components of Firefox
-$ sudo apt purge firefox firefox-locale-en unity-scope-firefoxbook
+dpkg --get-selections | grep firefox     # List all components of Firefox
+sudo apt purge firefox firefox-locale-en unity-scope-firefoxbook
 
 # Erase libreoffice since I don't need it in my VM
-$ sudo apt purge libreoffice-common
+sudo apt purge libreoffice-common
 
 # Remove Amazon
-$ sudo apt purge unity-webapps-common
+sudo apt purge unity-webapps-common
 
 # Cleanup un-useful apps
-$ sudo apt purge thunderbird totem rhythmbox empathy brasero simple-scan gnome-mahjongg aisleriot
-$ sudo apt purge gnome-mines cheese transmission-common gnome-orca webbrowser-app gnome-sudoku
-$ sudo apt purge onboard deja-dup
+sudo apt purge thunderbird totem rhythmbox empathy brasero simple-scan gnome-mahjongg aisleriot
+sudo apt purge gnome-mines cheese transmission-common gnome-orca webbrowser-app gnome-sudoku
+sudo apt purge onboard deja-dup
 
 # Clear older version software cache
-$ sudo apt autoclean
+sudo apt autoclean
 # Clear all software cache
-$sudo apt clean
+sudo apt clean
 # Remove isolated softwares which will not be used again
-$ sudo apt autoremove
+sudo apt autoremove
 
 # Update
-$ sudo apt update
-$ sudo apt upgrade
+sudo apt update
+sudo apt upgrade
 ```
 
 ## Make it beautiful
 
 ```bash
 # Unity Management Tool (GUI)
-$ sudo apt install unity-tweak-tool
+sudo apt install unity-tweak-tool
 # Flatabulous Theme
-$ sudo add-apt-repository ppa:noobslab/themes
-$ sudo apt update
-$ sudo apt install flatabulous-theme
+sudo add-apt-repository ppa:noobslab/themes
+sudo apt update
+sudo apt install flatabulous-theme
 # Flatabulous Theme icon
-$ sudo add-apt-repository ppa:noobslab/icons
-$ sudo apt update
-$ sudo apt install ultra-flat-icons
+sudo add-apt-repository ppa:noobslab/icons
+sudo apt update
+sudo apt install ultra-flat-icons
 # Ubuntu version Alfred
-$ sudo add-apt-repository ppa:noobslab/macbuntu
-$ sudo apt update
-$ sudo apt install albert
+sudo add-apt-repository ppa:noobslab/macbuntu
+sudo apt update
+sudo apt install albert
 ```
 
 With _unity tweak tool_, the theme, fonts, and icons can be configured to _flatablulous_ and _ultra-flat_. Meanwhile, we can have several workspaces from Window Manager > Workspace Settings.
@@ -95,21 +95,21 @@ With _unity tweak tool_, the theme, fonts, and icons can be configured to _flata
 ## Git
 
 ```bash
-$ sudo apt install git
+sudo apt install git
 ```
 
 ## Wget
 
 ```bash
-$ sudo apt install wget
+sudo apt install wget
 ```
 
 ## Terminator (bash)
 
 ```bash
-$ sudo add-apt-repository ppa:gnome-terminator
-$ sudo apt update
-$ sudo apt install terminator
+sudo add-apt-repository ppa:gnome-terminator
+sudo apt update
+sudo apt install terminator
 ```
 
 > Terminator should be setup as default now. Restart the terminal with shortcut: "Ctrl+Alt+T"
@@ -117,15 +117,15 @@ $ sudo apt install terminator
 ## ZSH
 
 ```bash
-$ sudo apt install zsh
-$ chsh -s /bin/zsh
+sudo apt install zsh
+chsh -s /bin/zsh
 ```
 
 > Exit and re-enter the bash
 
 ```bash
 # Check current bash
-$ echo $SHELL
+echo $SHELL
 ```
 
 ## Oh-My-ZSH
@@ -134,13 +134,13 @@ $ echo $SHELL
 
 1. Auto Installation
 ```bash
-$ wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
 ```
 
 2. Manual Installation
 ```bash
-$ git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
-$ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ```
 
 ### Theme Setup
@@ -148,23 +148,23 @@ $ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 #### Install powerline font
 
 ```bash
-$ cd
-$ wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf
-$ wget https://github.com/powerline/powerline/raw/develop/font/10-powerline-symbols.conf
-$ mv PowerlineSymbols.otf ~/.fonts/
-$ mkdir -p .config/fontconfig/conf.d #if directory doesn't exists
+cd
+wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf
+wget https://github.com/powerline/powerline/raw/develop/font/10-powerline-symbols.conf
+mv PowerlineSymbols.otf ~/.fonts/
+mkdir -p .config/fontconfig/conf.d #if directory doesn't exists
 ```
 
 #### Clean fonts cache
 
 ```bash
-$ fc-cache -vf ~/.fonts
+fc-cache -vf ~/.fonts
 ```
 
 #### Move config file
 
 ```bash
-$ mv 10-powerline-symbols.conf ~/.config/fontconfig/conf.d
+mv 10-powerline-symbols.conf ~/.config/fontconfig/conf.d
 ```
 
 #### Change theme colors to solarize
@@ -172,13 +172,13 @@ $ mv 10-powerline-symbols.conf ~/.config/fontconfig/conf.d
 `dconf` is required if you don't already have it.
 
 ```bash
-$ sudo apt-get install dconf-cli
+sudo apt-get install dconf-cli
 ```
 
 ```bash
-$ git clone git://github.com/sigurdga/gnome-terminal-colors-solarized.git ~/.solarized
-$ cd ~/.solarized
-$ ./install.sh
+git clone git://github.com/sigurdga/gnome-terminal-colors-solarized.git ~/.solarized
+cd ~/.solarized
+./install.sh
 ```
 
  - I recommend you **option 1** (dark theme) which is just great.  
@@ -242,11 +242,11 @@ eval `dircolors ~/.dir_colors/dircolors`
 > Remember to install the plugin _autojump_ with:
 
 ```bash
-$ git clone https://github.com/joelthelion/autojump.git
-$ cd autojump
-$ ./install.py
-$ cd ../
-$ rm -rf autojump
+git clone https://github.com/joelthelion/autojump.git
+cd autojump
+./install.py
+cd ../
+rm -rf autojump
 ```
 
 > and then add the following lines into `~/.zshrc`
@@ -256,12 +256,12 @@ $ rm -rf autojump
 autoload -U compinit && compinit -u
 ```
 
-> Reload `ZSH` and it's good to go with `$ j + $PATH`
+> Reload `ZSH` and it's good to go with `j + $PATH`
 
 ## Vim
 
 ```bash
-$ sudo apt install vim
+sudo apt install vim
 ```
 
 Sophisticated setup can be found in Reference [[8]](https://github.com/yangyangwithgnu/use_vim_as_ide). I won't dive deep into the details. It seems pretty nice in the end, but... the whole procedure was just way too complicated. Finally, I decided to go with [VSCode](https://code.visualstudio.com/download) as my IDE.
@@ -281,54 +281,63 @@ To follow the Reference [[8]](https://github.com/yangyangwithgnu/use_vim_as_ide)
 - ncurses-devel
 
 ```bash
-$ apt install libpython2.7-dev
-$ apt install libpython3.5-dev
-$ apt install ruby-dev
-$ apt install liblua5.2-dev
-$ apt install libx11-dev
-$ apt install libgtk2.0-dev
-$ apt install libgtk3.0-dev
-$ apt install libncursers-dev
+apt install libpython2.7-dev
+apt install libpython3.5-dev
+apt install ruby-dev
+apt install liblua5.2-dev
+apt install libx11-dev
+apt install libgtk2.0-dev
+apt install libgtk3.0-dev
+apt install libncursers-dev
 ```
 
 ## TMux
 
 ```bash
-$ sudo apt install tmux
+sudo apt install tmux
 ```
 
 ## F.Lux
 
 ```bash
-$ sudo add-apt-repository ppa:nathan-renniewaldock/flux
-$ sudo apt-get update
-$ sudo apt-get install fluxgui
+sudo add-apt-repository ppa:nathan-renniewaldock/flux
+sudo apt-get update
+sudo apt-get install fluxgui
 ```
 
 ## System Load Indicator
 
 ```bash
-$ sudo add-apt-repository ppa:indicator-multiload/stable-daily
-$ sudo apt update
-$ sudo apt install indicator-multiload
+sudo add-apt-repository ppa:indicator-multiload/stable-daily
+sudo apt update
+sudo apt install indicator-multiload
 ```
+
+## SunPinYin
+
+```bash
+apt install ibus-sunpinyin
+ibus restart
+```
+
+Add `sunpinyin` in the `Text Entry`.
 
 ## Chrome
 
 1. Add Key:
 ```bash
-$ wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
 ```
 
 2. Set repository:
 ```bash
-$ echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
+echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
 ```
 
 3. Install package:
 ```bash 
-$ sudo apt-get update 
-$ sudo apt-get install google-chrome-stable
+sudo apt-get update 
+sudo apt-get install google-chrome-stable
 ```
 
 ## Visual Studio Code
@@ -348,15 +357,15 @@ Download from: https://code.visualstudio.com/download
 Since I need to have fun with VPP, I just put the simplified instructions to install VPP here.
 
 ```bash
-$ cd $PATH_YOU_WANT_TO_HAVE_VPP
-$ git clone https://git.fd.io/vpp
-$ cd vpp
+cd $PATH_YOU_WANT_TO_HAVE_VPP
+git clone https://git.fd.io/vpp
+cd vpp
 # It'll take a little while to install all the dependencies
-$ make install-dep
+make install-dep
 # It'll take a little more while to build the whole program
-$ make build
+make build
 # It should take you to the interactive terminal of VPP :)
-$ make run
+make run
 ```
 
 For more details about how to pull, build, and run vpp, check this [wiki](https://wiki.fd.io/view/VPP/Pulling,_Building,_Running,_Hacking_and_Pushing_VPP_Code).
@@ -380,7 +389,7 @@ To get access to the VM via SSH, we have to setup the host-guest port forwarding
 With all this set. Reboot the system with `sudo poweroff` and `headless start`. Then open _zsh terminal_ and start ssh communication with
 
 ```bash
-$ ssh -p 9999 yzy@localhost
+ssh -p 9999 yzy@localhost
 ```
 
 where `yzy` is the name of my account on VM.
