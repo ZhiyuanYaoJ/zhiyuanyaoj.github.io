@@ -1,6 +1,6 @@
 ---
 title: Ubuntu 18.04 Dual System Install Disk Solution
-date: 2018-11-12
+date: 2018-11-09
 description: Note down my disk management on alienware with Ubuntu 18.04 dual system.
 categories:
 - Linux
