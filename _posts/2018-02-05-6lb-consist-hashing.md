@@ -45,7 +45,7 @@ Before presenting the algorithm, notations used through the algorithm are summar
 | _c_ | A tmp variable, denoting current bucket of interesting |
 | _choice_ | A tmp variable, denoting the first avvailable position in the SR list |
 
-![Consistent Hashing Algorithm](https://www.zhiyuanyao.com/assets/images/X/cisco-intern/6lb-hash-alg.png)
+![Consistent Hashing Algorithm](/assets/images/X/cisco-intern/6lb-hash-alg.png)
 
 In this consistent hashing algorithm, there are two main sections, namely, **initialization** and **main loop**, which are introduced sequencially.
 
@@ -79,7 +79,7 @@ The logic in behind will be clearly demonstrated with an example below.
 
 # Example
 
-![An Example of Consistent Hashing Algorithm](https://www.zhiyuanyao.com/assets/images/X/cisco-intern/6lb-hash-eg.png)
+![An Example of Consistent Hashing Algorithm](/assets/images/X/cisco-intern/6lb-hash-eg.png)
 
 # Ref
 
