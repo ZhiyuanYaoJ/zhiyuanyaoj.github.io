@@ -55,6 +55,10 @@ Implement this on six platforms: P4, FPGA, GPU, CPU, multi-core CPU and OVS.
 
 ## Evaluation
 
+### Traces
+
+CAIDA4 \[2\] trace is used.
+
 ### Accuracy 
 
 Evaluation metrics are:
@@ -64,9 +68,24 @@ Evaluation metrics are:
 - Weighted mean relative error (WMRE) to estimate flow size distribution
 - Relative error (RE) to estimate accuracy of entropy of flow sizes and cardinality estimations (number of flows)
 
-# Limitation
+![Accuracy](/assets/images/X/PhD/a3d2kpt/p561-yang/fig9.png)
 
+### Memory and Bandwidth Usage
+
+It is observed that for flow size estimation, the bandwidth usage of Elastic is always less than its memory usage. The reason that the bandwidth usage does not significantly outperform the memory usage is that Elastic itself has achieved extremely high accuracy and thus the compression algorithm cannot easily improve it further.
+
+![Memory and Bandwidth Usage](/assets/images/X/PhD/a3d2kpt/p561-yang/fig11.png)
+
+### Elasticity
+
+![Elasticity](/assets/images/X/PhD/a3d2kpt/p561-yang/fig15.png)
+
+### Processing Speed
+
+![CPU Platform](/assets/images/X/PhD/a3d2kpt/p561-yang/fig17.png)
+![Different Platforms](/assets/images/X/PhD/a3d2kpt/p561-yang/fig19.png)
 
 # Ref
 
 - \[1\] [One Sketch to Rule Them All: Rethinking Network Flow Monitoring with UnivMon](http://users.ece.cmu.edu/~vsekar/papers/sigcomm16_univmon.pdf)
+- \[2\] [The CAIDA Anonymized Internet Traces](http://www.caida.org/ data/overview/)
