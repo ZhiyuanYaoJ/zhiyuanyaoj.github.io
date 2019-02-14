@@ -1,6 +1,6 @@
 ---
-title: CS2P - Improving Video Bitrate Selection and Adaptation with Data-Driven Throughput Prediction 
-date: 2019-02-11
+title: Chasing Linux Jitter Sources for Uncompressed Video
+date: 2019-02-13
 description: A paper a day keeps the doctor awake.
 categories:
 - a3d2kpt
