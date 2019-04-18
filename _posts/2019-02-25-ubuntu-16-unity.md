@@ -38,4 +38,4 @@ With `CompizConfig Settings Manager` installed as is instructed above, we can ch
 
 # Ref
 - \[1\] [Ask Ubuntu - ubuntu 16.04 alt + tab not working properly](http://users.ece.cmu.edu/~vsekar/papers/sigcomm15_mpcdash.pdf)<a name="ref1"></a>
-- \[1\] [Ask Ubuntu - Ctrl + Super + Left/Right not working in Ubuntu 16.04](https://askubuntu.com/questions/821954/ctrl-super-left-right-not-working-in-ubuntu-16-04)<a name="ref2"></a>
+- \[2\] [Ask Ubuntu - Ctrl + Super + Left/Right not working in Ubuntu 16.04](https://askubuntu.com/questions/821954/ctrl-super-left-right-not-working-in-ubuntu-16-04)<a name="ref2"></a>
