@@ -1,7 +1,7 @@
 ---
 title: Configure gitignore and remove .DS_Store files
 date: 2019-04-18
-description: Solution to some keyboard shortcut binded unity GUI problems w/ ubuntu 16.04.
+description: bash scripts that deal w/ gitignore
 categories:
 - Git
 tags:
