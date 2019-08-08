@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi 3 - Raspbian Configuration
-date: 2018-08-08
+date: 2019-08-08
 description: This notes some configuration processes with Raspbian on Raspberry Pi 3.
 categories:
 - RaspberryPi
