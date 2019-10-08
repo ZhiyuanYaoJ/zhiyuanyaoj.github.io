@@ -6,7 +6,7 @@
 # Site
 title: Zhiyuan YAO
 subtitle:
-description: PhD Student @ L'X
+description: PhD Student @ [LIX](https://www.epizeuxis.net)
 author: Zhiyuan YAO
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -134,7 +134,7 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
-  blog: blogger-b
+  blog: rocket
   categories: th
   schedule: calendar
   tags: tags
