@@ -6,7 +6,7 @@
 # Site
 title: Zhiyuan YAO
 subtitle:
-description: PhD Student @ [LIX](https://www.epizeuxis.net)
+description: PhD Student @ L'X | Cisco
 author: Zhiyuan YAO
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -89,7 +89,7 @@ rss: false
 since: 2017
 
 # icon between year and author @Footer
-authoricon: cube
+authoricon: xbox
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -116,11 +116,11 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  about: /about/
   blog: /
   categories: /categories/
   archives: /archives/
   tags: /tags/
+  about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
