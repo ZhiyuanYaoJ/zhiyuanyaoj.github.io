@@ -17,8 +17,10 @@ Before starting my PhD, I obtained an MSc in [Internet-of-Things](https://progra
 
 # Contact
 
+```
 Zhiyuan YAO
 Dept. of Computer Science
 91128 Palaiseau Cedex - France
 Tel: +33 (0)6 60 30 28 14
 Email: {firstname}[dot]{surname}[at]polytechnique[dot]edu
+```
