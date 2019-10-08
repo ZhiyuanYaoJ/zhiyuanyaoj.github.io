@@ -7,11 +7,11 @@ title:
 author: Author
 
 menu:
-  home: Home
+  about: About
+  blog: Blog
   archives: Archives
   categories: Categories
   tags: Tags
-  about: About
   search: Search
   schedule: Schedule
   sitemap: Sitemap
@@ -46,7 +46,7 @@ page:
   tags: tags
 
 footer:
-  powered: "This is SuperPower!"
+  powered: "Use Super Power!"
   theme: Theme
 
 counter:

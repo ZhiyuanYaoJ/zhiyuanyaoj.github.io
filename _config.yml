@@ -6,15 +6,15 @@
 # Site
 title: ZhiyuanYaoJ's Blog
 subtitle:
-description: Studying at L'X
-author: ZY YAO
+description: PhD Student @ L'X
+author: Zhiyuan YAO
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%d-%m-%Y'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://zhiyuanyao.com
+url: https://zyao.org
 baseurl:
 permalink: pretty
 
@@ -116,11 +116,11 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /
+  about: /about/
+  blog: /
   categories: /categories/
   archives: /archives/
   tags: /tags/
-  about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -214,7 +214,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/EricYaoJ
+  GitHub: https://github.com/ZhiyuanYaoJ
   知乎: https://www.zhihu.com/people/eric-yao-41/activities
 
 # Social Links Icons
