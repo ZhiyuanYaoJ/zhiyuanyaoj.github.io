@@ -134,6 +134,7 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
+  blog: blog
   categories: th
   schedule: calendar
   tags: tags
