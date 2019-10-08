@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Zhiyuan YAO
+title: ZYao
 subtitle:
 description: PhD Student @ L'X | Cisco
 author: Zhiyuan YAO
@@ -89,7 +89,7 @@ rss: false
 since: 2017
 
 # icon between year and author @Footer
-authoricon: xbox
+authoricon: times
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
