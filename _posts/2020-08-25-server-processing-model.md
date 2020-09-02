@@ -34,7 +34,19 @@ Each application server has two queues for incoming flows, that are, processing 
 
 ## Calculate Processing Efficiency
 
-The processing efficiency function `PE(#flow)` is depicted in the figure below.
+There exist the following models in queueing theory when we model application server.
+
+### FIFO
+
+First-in-first-out (FIFO) is the most common model (_e.g._ Apache webserver works like this). When queries arrive at the application server, each worker (thread) deals with one query. If all available workers are busy, then new queries are stalled until any of the busy threads became available again. Therefore, `PE` is always 1 for queries that are being processed and it is always 0 if queries are stalled. FCT for each flow thus consists of actual processing time and stalling time waiting in the queue.
+
+### Processor Sharing
+
+In a pure multi-threading setup, tasks share processing capacities even if the amount of tasks surpass the number of workers. The main idea of this model is to pretend that there are always `#flow` workers on the application server so that each flow can be processed independently. However, the processing efficiency will be divided by actual number of tasks once the number of flows exceeds the number of workers. Therefore, the FCT of each flow is calculated by integrating processing time with corresponding processing efficiency throughout its lifetime.
+
+### 2-Level Processor Sharing
+
+A more complicated model is a hybrid model of FIFO and processor sharing. The processing efficiency function `PE(#flow)` is depicted in the figure below.
 
 ![Processing efficiency function](/assets/images/X/PhD/simulation/server-processing-efficiency.png)
 
