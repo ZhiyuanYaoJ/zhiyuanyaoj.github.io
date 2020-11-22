@@ -798,7 +798,7 @@ import datetime
 def init_logger(filename, logger_name):
     '''
     @brief:
-        initialize logger that redirect info to a file just in case we lost connection to the notebook
+        initialise a logger that redirects info to a file
     @params:
         filename: to which file should we log all the info
         logger_name: an alias to the logger
