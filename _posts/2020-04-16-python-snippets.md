@@ -809,7 +809,7 @@ def init_logger(filename, logger_name):
     
     logging.basicConfig(
         level=logging.INFO, 
-        format='[%(asctime)s] %(name)s {%(filename)s:%(lineno)d} %(levelname)s - %(message)s',
+        format="[%(asctime)s] %(name)s {%(filename)s:%(lineno)d} %(levelname)s - %(message)s",
         handlers=[
             logging.FileHandler(filename=filename),
             logging.StreamHandler(sys.stdout)
