@@ -299,7 +299,7 @@ print(tabulate(df, headers='keys', tablefmt='psql'))
 Color pallete:
 
 <div align="center">
-<img src="plot/color_pallete.png" alt=""/>
+<img src="/assets/images/color_pallete.png" alt=""/>
 (Color Pallete)
 </div>
 
