@@ -42,7 +42,7 @@ Before starting my PhD, I obtained an MSc in [Internet-of-Things](https://progra
 - **Sécurité des Systèmes d'Information**, Teaching Assistant,  École Polytechnique, 2022
 - **INF473X - Modal d'Informatique - Cybersecurity - The Hacking Xperience**, Teaching Assistant, École Polytechnique, 2019-2022
 - **INF557 Network Security**, Teaching Assistant, École Polytechnique, 2019-2022
-- **Advanced Control**, Teaching Assistant, Technical Unviversity of Munich (TUM), 2016
+- **Advanced Control**, Teaching Assistant, Technical University of Munich (TUM), 2016
 
 
 # Contact
