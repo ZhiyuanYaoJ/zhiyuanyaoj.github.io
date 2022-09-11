@@ -216,7 +216,9 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/ZhiyuanYaoJ
-  知乎: https://www.zhihu.com/people/eric-yao-41/activities
+  知乎: https://www.zhihu.com/people/yaoj-x
+  Instagram: https://www.instagram.com/zyao.x/
+  Orcid: https://orcid.org/my-orcid?orcid=0000-0002-7211-1506
 
 # Social Links Icons
 # Icon Mapping:
@@ -229,6 +231,8 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   知乎: globe
+  Instagram: instagram
+  Orcid: orcid
 
 
 # Sidebar Avatar
