@@ -7,7 +7,7 @@ layout: page
 # About
   
 
-I am a thrid year PhD student in Computer Networking, pursuing jointly between [École Polytechnique](https://www.polytechnique.edu/en)'s [networking team](https://www.epizeuxis.net) and Cisco Systems Paris Innovation and Research Lab (PIRL), advised by [Thomas Clausen](https://www.thomasclausen.net/en/) and [Mark Townsley](https://scholar.google.co.uk/citations?user=RSW64hsAAAAJ&hl=fr&oi=ao). My research interests include data-center networks, load-balancing, high-performance networking stacks, machine learning, reinforcement learning, and their applications in computer networking.
+I am a thrid year PhD student in Computer Networking, pursuing jointly between [École Polytechnique](https://www.polytechnique.edu/en)'s [networking team](https://www.epizeuxis.net) and Cisco Systems Paris Innovation and Research Lab (PIRL), advised by [Thomas Clausen](https://www.thomasclausen.net/en/) and [Mark Townsley](https://scholar.google.co.uk/citations?user=RSW64hsAAAAJ&hl=fr&oi=ao). My research interests include data-center networks, load-balancing, high-performance networking stacks, machine learning, reinforcement learning, and their applications in computer networking. My orcid
 
   
 
@@ -19,6 +19,9 @@ Before starting my PhD, I obtained an MSc in [Internet-of-Things](https://progra
 
   
 ## Publications
+
+> My publication records can be found in my [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0002-7211-1506).
+>
 
 - **Zhiyuan Yao**, and Zihan Ding. ***"Learning Distributed and Fair Policies for Network Load Balancing as Markov Potentia Game."***. Under review in _36th Conference on Neural Information Processing Systems (NeurIPS 2022)_. 2022. {[pdf](https://arxiv.org/pdf/2206.01451.pdf)}
 
@@ -51,12 +54,8 @@ Before starting my PhD, I obtained an MSc in [Internet-of-Things](https://progra
 
 ```
 Zhiyuan YAO
-
 Dept. of Computer Science
-
 91128 Palaiseau Cedex - France
-
 Tel: +33 (0)6 60 30 28 14
-
 Email: {firstname}[dot]{surname}[at]polytechnique[dot]edu
 ```
