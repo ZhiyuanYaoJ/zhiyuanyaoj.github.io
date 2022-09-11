@@ -7,7 +7,7 @@ layout: page
 # About
   
 
-I am a first year PhD student in Computer Networking, pursuing jointly between [École Polytechnique](https://www.polytechnique.edu/en)'s [networking team](https://www.epizeuxis.net) and Cisco Systems Paris Innovation and Research Lab (PIRL), advised by [Thomas Clausen](https://www.thomasclausen.net/en/) and [Mark Townsley](https://scholar.google.co.uk/citations?user=RSW64hsAAAAJ&hl=fr&oi=ao). My research interests include data-center networks, load-balancing, high-performance networking stacks, machine learning, and their applications in computer networking.
+I am a thrid year PhD student in Computer Networking, pursuing jointly between [École Polytechnique](https://www.polytechnique.edu/en)'s [networking team](https://www.epizeuxis.net) and Cisco Systems Paris Innovation and Research Lab (PIRL), advised by [Thomas Clausen](https://www.thomasclausen.net/en/) and [Mark Townsley](https://scholar.google.co.uk/citations?user=RSW64hsAAAAJ&hl=fr&oi=ao). My research interests include data-center networks, load-balancing, high-performance networking stacks, machine learning, reinforcement learning, and their applications in computer networking.
 
   
 
