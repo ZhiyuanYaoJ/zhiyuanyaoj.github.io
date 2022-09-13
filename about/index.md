@@ -7,7 +7,7 @@ layout: page
 # About
   
 
-I am a thrid year PhD student in Computer Networking, pursuing jointly between [École Polytechnique](https://www.polytechnique.edu/en)'s [networking team](https://www.epizeuxis.net) and Cisco Systems Paris Innovation and Research Lab (PIRL), advised by [Thomas Clausen](https://www.thomasclausen.net/en/) and [Mark Townsley](https://scholar.google.co.uk/citations?user=RSW64hsAAAAJ&hl=fr&oi=ao). My research interests include data-center networks, load-balancing, high-performance networking stacks, machine learning, reinforcement learning, and their applications in computer networking. My orcid
+I am a thrid year PhD student in Computer Networking, pursuing jointly between [École Polytechnique](https://www.polytechnique.edu/en)'s [networking team](https://www.epizeuxis.net) and Cisco Systems Paris Innovation and Research Lab (PIRL), advised by [Thomas Clausen](https://www.thomasclausen.net/en/) and [Mark Townsley](https://scholar.google.co.uk/citations?user=RSW64hsAAAAJ&hl=fr&oi=ao). My research interests include data-center networks, load-balancing, high-performance networking stacks, machine learning, reinforcement learning, and their applications in computer networking.
 
   
 
@@ -31,13 +31,13 @@ Before starting my PhD, I obtained an MSc in [Internet-of-Things](https://progra
 
 - **Zhiyuan Yao**, Yoann Desmouceaux, Juan Antonio Cordero Fuertes, Mark Townsley, and Thomas Heide Clausen. ***"Efficient Data-Driven Network Functions."*** In _30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS 2022)_. 2022. {[pdf](https://arxiv.org/pdf/2208.11385.pdf)}
 
-- **Zhiyuan Yao**, Yoann Desmouceaux, Juan-Antonio Cordero-Fuertes, Mark Townsley, and Thomas Clausen. ***"HLB: Toward Load-Aware Load Balancing."*** _IEEE/ACM Transactions on Networking_ (2022). {[pdf](https://www.researchgate.net/profile/Thomas-Heide-Clausen/publication/361079972_HLB_Toward_Load-Aware_Load_Balancing/links/62f625d179550d6d1c764407/HLB-Toward-Load-Aware-Load-Balancing.pdf), [doi](https://ieeexplore.ieee.org/abstract/document/9787813)}
+- **Zhiyuan Yao**, Yoann Desmouceaux, Juan-Antonio Cordero-Fuertes, Mark Townsley, and Thomas Clausen. ***"HLB: Toward Load-Aware Load Balancing."*** _IEEE/ACM Transactions on Networking_ (2022). {[pdf](https://www.researchgate.net/profile/Thomas-Heide-Clausen/publication/361079972_HLB_Toward_Load-Aware_Load_Balancing/links/62f625d179550d6d1c764407/HLB-Toward-Load-Aware-Load-Balancing.pdf), [doi](https://ieeexplore.ieee.org/abstract/document/9787813), [blog](https://zyao.xyz/phd/paper/2022/06/06/paper-hlb/)}
 
-- **Zhiyuan Yao**, Yoann Desmouceaux, Mark Townsley, and Thomas Heide Clausen. ***"Towards Intelligent Load Balancing in Data Centers."*** In _5th Workshop on Machine Learning for Systems at 35th Conference on Neural Information Processing Systems (NeurIPS 2021)_. 2021. {[pdf](https://arxiv.org/pdf/2110.15788.pdf)}
+- **Zhiyuan Yao**, Yoann Desmouceaux, Mark Townsley, and Thomas Heide Clausen. ***"Towards Intelligent Load Balancing in Data Centers."*** In _5th Workshop on Machine Learning for Systems at 35th Conference on Neural Information Processing Systems (NeurIPS 2021)_. 2021. {[pdf](https://arxiv.org/pdf/2110.15788.pdf), [blog](https://zyao.xyz/phd/paper/2021/12/19/paper-neurips/)}
 
-- **Zhiyuan Yao**, Zihan Ding, and Thomas Heide Clausen. ***"Reinforced Workload Distribution Fairness."*** In _5th Workshop on Machine Learning for Systems at 35th Conference on Neural Information Processing Systems (NeurIPS 2021)_. 2021. {[pdf](https://arxiv.org/pdf/2111.00008.pdf)}
+- **Zhiyuan Yao**, Zihan Ding, and Thomas Heide Clausen. ***"Reinforced Workload Distribution Fairness."*** In _5th Workshop on Machine Learning for Systems at 35th Conference on Neural Information Processing Systems (NeurIPS 2021)_. 2021. {[pdf](https://arxiv.org/pdf/2111.00008.pdf), [blog](https://zyao.xyz/phd/paper/2021/12/19/paper-neurips/)}
 
-- Carmine Rizzi, **Zhiyuan Yao**, Yoann Desmouceaux, Mark Townsley, and Thomas Clausen. _**"Charon: Load-Aware Load-Balancing in P4."**_ In 1st Joint International Workshop on Network Programmability & Automation (NetPA) at 17th International Conference on Network and Service Management (*CNSM 2021*). 2021. {[pdf](https://www.thomasclausen.net/wp-content/uploads/2021/11/2110.14389.pdf), [doi](https://ieeexplore.ieee.org/abstract/document/9615535)}
+- Carmine Rizzi, **Zhiyuan Yao**, Yoann Desmouceaux, Mark Townsley, and Thomas Clausen. _**"Charon: Load-Aware Load-Balancing in P4."**_ In 1st Joint International Workshop on Network Programmability & Automation (NetPA) at 17th International Conference on Network and Service Management (*CNSM 2021*). 2021. {[pdf](https://www.thomasclausen.net/wp-content/uploads/2021/11/2110.14389.pdf), [doi](https://ieeexplore.ieee.org/abstract/document/9615535), [blog](https://zyao.xyz/phd/paper/2021/12/19/paper-cnsm/)}
 
 
 ## Teaching
