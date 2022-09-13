@@ -218,7 +218,9 @@ social:
   GitHub: https://github.com/ZhiyuanYaoJ
   知乎: https://www.zhihu.com/people/yaoj-x
   Instagram: https://www.instagram.com/zyao.x/
-  Orcid: https://orcid.org/my-orcid?orcid=0000-0002-7211-1506
+  Google Scholar: https://scholar.google.fr/citations?hl=en&user=-FQkBYcAAAAJ
+  Orcid: https://orcid.org/0000-0002-7211-1506
+  Lab: https://www.epizeuxis.net/index.php/team/phd-students/zhiyuan-yao/
 
 # Social Links Icons
 # Icon Mapping:
@@ -232,7 +234,9 @@ social_icons:
   GitHub: github
   知乎: globe
   Instagram: instagram
-  Orcid: orcid
+  Google Scholar: graduation-cap
+  Orcid: books
+  Lab: network-wired
 
 
 # Sidebar Avatar
