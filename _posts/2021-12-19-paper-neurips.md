@@ -9,6 +9,7 @@ tags:
 - PhD
 - Paper
 photos:
+- https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips21.png
 ---
 
 ## Intro
