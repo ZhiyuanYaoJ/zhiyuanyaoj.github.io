@@ -21,7 +21,7 @@ As a PhD student in Cisco, we have the opportunity to take intern students from 
 
 Load-Balancers play an important role in data centers as they distribute network flows across application servers and guarantee per-connection consistency. It is hard however to make fair load balancing decisions so that all resources are efficiently occupied yet not overloaded. Tracking connection states allows load balancers to infer server load states and make informed decisions, but at the cost of additional memory space consumption. This makes it hard to implement on programmable hardware, which has constrained memory but offers line-rate performance. This paper presents Charon, a stateless load-aware load balancer that has line-rate performance implemented in P4-NetFPGA. Charon passively collects load states from application servers and employs the power-of-2-choices scheme to make load-aware load balancing decisions and improve resource utilization. Per-connection consistency is guaranteed statelessly by encoding server ID in a covert channel. The prototype design and implementation details are described in this paper. Simulation results show performance gains in terms of load distribution fairness, quality of service, throughput and processing latency.
 
-Citation is prefered in the following format:
+Citation is preferred in the following format:
 ```
 @inproceedings{rizzi2021charon,
   title={Charon: Load-Aware Load-Balancing in P4},
