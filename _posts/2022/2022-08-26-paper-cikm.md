@@ -1,7 +1,7 @@
 ---
 title: CIKM22 - Multi-Agent Reinforcement Learning for Network Load Balancing in Data Center
 date: 2022-08-26
-description: Glad to announce that my friend at Princeton University have pushed a paper on multi-agent reinforcement learning algorithms for load balancing problems to CIKM.
+description: Glad to announce that, together with my friend at Princeton University, I have pushed a paper on multi-agent reinforcement learning algorithms for load balancing problems to CIKM.
 categories:
 - PhD
 - Paper
@@ -15,11 +15,11 @@ photos:
 
 ## Intro
 
-Extending based on the paper ["Reinforced Workload Distribution Fairness"](https://arxiv.org/abs/2111.00008) which we have presented last year at the [5th Workshop on ML for Systems at NeurIPS 2021](https://zyao.xyz/phd/paper/2021/12/19/paper-neurips/), we have started investigating in multi-agent setup of load balancing problems in data center networks.
+Extending based on the paper ["Reinforced Workload Distribution Fairness"](https://arxiv.org/abs/2111.00008) which we have presented last year at the [5th Workshop on ML for Systems at NeurIPS 2021](https://zyao.xyz/phd/paper/2021/12/19/paper-neurips/), we have started investigating in the multi-agent setup of load balancing problems in data center networks.
 We have moved from an event-based simulator to a real-world networking testbed.
 This work is currently available on [arXiv](https://arxiv.org/abs/2201.11727) and it has been accepted in the [31st ACM International Conference on Information and Knowledge Management (CIKM'22)](https://www.cikm2022.org).
 
-
+Though it is really tempting for me to attend this conference and physically present this paper, time is limited for me to apply for a US Visa. Besides, there's a time conflict with another conference ([MASCOTS](https://mascots.iitis.pl)) that I will attend in Nice, France. Pity...
 
 
 ## The Paper: [Multi-Agent Reinforcement Learning for Network Load Balancing in Data Center](https://arxiv.org/abs/2201.11727)
