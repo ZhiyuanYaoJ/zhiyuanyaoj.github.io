@@ -16,10 +16,9 @@ photos:
 
 Extending based on the paper [Efficient Data-Driven Network Functions](https://zyao.xyz/phd/paper/2022/08/05/paper-mascots/) which I will physically present in the [30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems](https://mascots.iitis.pl/) in Nice, France, we have developed a platform that enables to efficiently harness networking features and advanced machine learning (ML) algorithms in cloud networks to make informed and adaptive management and operational decisions.
 
-The submission provides an in-depth analysis of the challenges of applying ML algorithms to real-world networking problems. Based on this analysis, a fast and scalable data collection and exploitation mechanism are proposed, specified, and implemented to enable learning algorithms to make inferences and open/close-loop control decisions based on fine-grained observations.
+The submission provides an in-depth analysis of the challenges of applying ML algorithms to real-world networking problems. Based on this analysis, a fast and scalable data collection and exploitation mechanism is proposed, specified, and implemented to enable learning algorithms to make inferences and open/close-loop control decisions based on fine-grained observations.
 
 In addition to the contributions in our paper [Efficient Data-Driven Network Functions](https://zyao.xyz/phd/paper/2022/08/05/paper-mascots/), this manuscript proposes: 
-
 - additional feature engineering analysis (PCA) and reasoning;
 - an extensive benchmark of unsupervised clustering algorithms in the context of traffic classification;
 - detailed offline training and benchmark of a wide range of supervised learning algorithms in the context of autoscaling systems;
