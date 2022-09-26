@@ -1,7 +1,7 @@
 ---
 title: MASCOTS 2022 - Efficient Data-Driven Network Functions
 date: 2022-08-05
-description: Glad to announce that my friend at Princeton University have pushed a paper on multi-agent reinforcement learning algorithms for load balancing problems to CIKM.
+description: Our networking feature collection and exploitation platform built on top of VPP will be presented in MASCOTS 2022 in Nice, France.
 categories:
 - PhD
 - Paper
