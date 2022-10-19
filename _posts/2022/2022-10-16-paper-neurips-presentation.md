@@ -20,6 +20,8 @@ The video presentation of [our paper at NeurIPS 2022 main conference](https://zy
 - [BiliBili](https://www.bilibili.com/video/BV1Ee411V7Fy): For Chinese users behind the WALL!
 - [SlidesLive](https://recorder-v3.slideslive.com/#/share?share=71681&s=f4a2dc28-6a21-44aa-aea0-ee7a7d018ef4): This is actually the official platform of video presentations at NeurIPS. Sadly, because of a technical issue of SlidesLive, their site is only accessible using Chrome as the browser...
 
+Oh! By the way, our camera-ready version of the final paper is now available on [ArXiv](https://arxiv.org/abs/2206.01451). Feel free to check it out as well!
+
 
 ## Transcription
 
@@ -52,6 +54,8 @@ For those who enjoy consuming information in another modulation with low bandwid
 
 > However, when traffic is split among the two load balancers deployed in the system, each load balancer has only a partial observation. And in this case, the load balancer on the top will mistakenly consider that the circled server is less loaded, while in reality, it is the most utilized server.
 
+### Model
+
 ![5](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/5.png)
 
 > To understand the load balancing problem, we study a queuing model, where we define m load balancers and n servers. With the workload assigned to each server, whose processing speed can be different, we can derive the expected time to finish all the workload on a given server. 
@@ -63,6 +67,8 @@ For those who enjoy consuming information in another modulation with low bandwid
 > Then our objective is to find the optimal policy that minimize the cost function C given all the server load states. And the cost function is conventionally defined as the “makespan”, or the max server load state in the system.
 > 
 > So this is the theoretical model. But in real-world systems, what are the additional constraints?
+
+### Real-World Constraints
 
 ![7](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/7.png)
 
@@ -76,9 +82,13 @@ For those who enjoy consuming information in another modulation with low bandwid
 
 > Third, we've discussed about the problem of multiple agents and partial observations. Centralized-training distributed-execution algorithms have been proposed to tackle these issues. However, in networking systems in production, they can incur significant communication overhead, especially in large-scale data center networks. Therefore, we prefer to build independent agents which can cooperate to achieve pure Nash equilibrium based only on local information. And this is the charm of the ***Markov Potential Game***, where we have proved that the variance-based fairness satisfies the requirements as a potential function.
 
+### Design
+
 ![10](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/10.png)
 
 > The proposed Multi-Agent Reinforcement Learning framework that we implemented in the real-world system is shown in this figure. We extract networking features from the data plane so that the reinforcement learning agents are able to infer server load states in real time, and make informed load balancing decisions. More details about this workflow can be found in our paper.
+
+### Results
 
 ![11](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/11.png)
 
@@ -89,6 +99,8 @@ For those who enjoy consuming information in another modulation with low bandwid
 > And we have shown that our method is the new state-of-the-art in terms of QoS than existing LB algorithms and CTDE RL algorithms.
 > 
 > In our paper, you will find more in-depth evaluations with respect to reward engineering, the evaluation of Nash equilibrium gap, scalability and robustness of the proposed load balancing algorithms and communication overheads.
+
+### Thanks
 
 ![13](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/13.png)
 
