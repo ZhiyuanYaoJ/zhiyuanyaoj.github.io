@@ -27,8 +27,6 @@ For those who enjoy consuming information in another modulation with low bandwid
 
 ### Introduction
 
-![0](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/0.png)
-
 > Hello! I am Zhiyuan, from École Polytechnique and Cisco Systems. I will briefly present our paper: "Learning Distributed and Fair Policies for Network Load Balancing as Markov Potential Game" in NeurIPS 2022.
 
 ### Background
