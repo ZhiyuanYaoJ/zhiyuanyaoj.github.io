@@ -27,13 +27,13 @@ For those who enjoy consuming information in another modulation with low bandwid
 
 ### Introduction
 
-![0](../../assets/images/X/PhD/paper/publication/neurips22/0.png)
+![0](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/0.png)
 
 > Hello! I am Zhiyuan, from École Polytechnique and Cisco Systems. I will briefly present our paper: "Learning Distributed and Fair Policies for Network Load Balancing as Markov Potential Game" in NeurIPS 2022.
 
 ### Background
 
-![1](../../assets/images/X/PhD/paper/publication/neurips22/1.png)
+![1](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/1.png)
 
 
 > First, let me introduce the network load balancing problem in data center networks. On receipt of a new request (e.g. a SQL query), the load balancer need to decide which server will handle the new request.
@@ -42,57 +42,57 @@ For those who enjoy consuming information in another modulation with low bandwid
 > 
 > To improve the QoS and resource utilization under elastic and dynamic networking environments, a RL-based load balancing algorithm — RLB-SAC — was proposed last year to make better workload distribution decisions.
 
-![2](../../assets/images/X/PhD/paper/publication/neurips22/2.png)
+![2](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/2.png)
 
 > However, RLB-SAC is evaluated on simulators instead of on real-world systems. And it focused mainly on single agent scenarios while in real-world systems, multiple load balancer agents are deployed to avoid single point of failure, which can directly lead to the problem of partial observations.
 
-![3](../../assets/images/X/PhD/paper/publication/neurips22/3.png)
+![3](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/3.png)
 
 > For instance, when there’s only a single load balancer agent, it has global observation on the server queue lengths. 
 
-![4](../../assets/images/X/PhD/paper/publication/neurips22/4.png)
+![4](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/4.png)
 
 > However, when traffic is split among the two load balancers deployed in the system, each load balancer has only a partial observation. And in this case, the load balancer on the top will mistakenly consider that the circled server is less loaded, while in reality, it is the most utilized server.
 
-![5](../../assets/images/X/PhD/paper/publication/neurips22/5.png)
+![5](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/5.png)
 
 > To understand the load balancing problem, we study a queuing model, where we define m load balancers and n servers. With the workload assigned to each server, whose processing speed can be different, we can derive the expected time to finish all the workload on a given server. 
 > 
 > For instance, given a timestamp t_n, we can get the highlighted part as the expected time to finish for server 0 and server 1.
 
-![6](../../assets/images/X/PhD/paper/publication/neurips22/6.png)
+![6](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/6.png)
 
 > Then our objective is to find the optimal policy that minimize the cost function C given all the server load states. And the cost function is conventionally defined as the “makespan”, or the max server load state in the system.
 > 
 > So this is the theoretical model. But in real-world systems, what are the additional constraints?
 
-![7](../../assets/images/X/PhD/paper/publication/neurips22/7.png)
+![7](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/7.png)
 
 > First, network load balancers operate at the Transport layer and do not have application-level information. Thus no makespan can be computed on network load balancers. Instead, we can only rely on the limited observations, namely, the number of on-going jobs and a distribution of job durations.
 
-![8](../../assets/images/X/PhD/paper/publication/neurips22/8.png)
+![8](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/8.png)
 
 > Second, in the context of networking environments, the workload follows long-tail distribution and the traffic rates can be quite bursty. Makespan fails under this scenario, for instance, the two different cases yield the same makespan, which makes makespan a less desirable reward for RL models. Therefore, we propose to use the variance-based fairness index to evaluate the overall workload distribution in the system.
 
-![9](../../assets/images/X/PhD/paper/publication/neurips22/9.png)
+![9](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/9.png)
 
 > Third, we've discussed about the problem of multiple agents and partial observations. Centralized-training distributed-execution algorithms have been proposed to tackle these issues. However, in networking systems in production, they can incur significant communication overhead, especially in large-scale data center networks. Therefore, we prefer to build independent agents which can cooperate to achieve pure Nash equilibrium based only on local information. And this is the charm of the ***Markov Potential Game***, where we have proved that the variance-based fairness satisfies the requirements as a potential function.
 
-![10](../../assets/images/X/PhD/paper/publication/neurips22/10.png)
+![10](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/10.png)
 
 > The proposed Multi-Agent Reinforcement Learning framework that we implemented in the real-world system is shown in this figure. We extract networking features from the data plane so that the reinforcement learning agents are able to infer server load states in real time, and make informed load balancing decisions. More details about this workflow can be found in our paper.
 
-![11](../../assets/images/X/PhD/paper/publication/neurips22/11.png)
+![11](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/11.png)
 
 > Experimental results show that our distributed Multi-Agent Reinforcement Learning framework using the variance-based fairness as rewards converges and effectively achieves better load balancing performance.
 
-![12](../../assets/images/X/PhD/paper/publication/neurips22/12.png)
+![12](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/12.png)
 
 > And we have shown that our method is the new state-of-the-art in terms of QoS than existing LB algorithms and CTDE RL algorithms.
 > 
 > In our paper, you will find more in-depth evaluations with respect to reward engineering, the evaluation of Nash equilibrium gap, scalability and robustness of the proposed load balancing algorithms and communication overheads.
 
-![13](../../assets/images/X/PhD/paper/publication/neurips22/13.png)
+![13](https://zhiyuanyaoj.github.io/assets/images/X/PhD/paper/publication/neurips22/13.png)
 
 > And this concludes my brief presentation of our paper. Thank you! 
 
