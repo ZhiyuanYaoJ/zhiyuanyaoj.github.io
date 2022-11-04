@@ -28,7 +28,10 @@ The video presentation of [our paper at NeurIPS 2022 main conference](https://zy
 >
 </iframe>
 
-- [BiliBili](https://www.bilibili.com/video/BV1Ee411V7Fy): For Chinese users behind the WALL!
+- [BiliBili](https://www.bilibili.com/video/BV1Ee411V7Fy): 中文用户请看这里 (For Chinese users behind the WALL!)
+
+<iframe src="//player.bilibili.com/player.html?aid=261702672&bvid=BV1Ee411V7Fy&cid=863818809&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 - [SlidesLive](https://recorder-v3.slideslive.com/#/share?share=71681&s=f4a2dc28-6a21-44aa-aea0-ee7a7d018ef4): This is actually the official platform of video presentations at NeurIPS. Sadly, because of a technical issue of SlidesLive, their site is only accessible using Chrome as the browser...
 
 Oh! By the way, our camera-ready version of the final paper is now available on [ArXiv](https://arxiv.org/abs/2206.01451). Feel free to check it out as well!
