@@ -18,7 +18,15 @@ The video presentation of [our paper at NeurIPS 2022 main conference](https://zy
 
 - [Youtube](https://youtu.be/eA6Mr1LTQiw): For international users!
 
-[![Youtube Presentation](https://img.youtube.com/vi/eA6Mr1LTQiw/0.jpg)](https://www.youtube.com/watch?v=eA6Mr1LTQiw)
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/eA6Mr1LTQiw"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 - [BiliBili](https://www.bilibili.com/video/BV1Ee411V7Fy): For Chinese users behind the WALL!
 - [SlidesLive](https://recorder-v3.slideslive.com/#/share?share=71681&s=f4a2dc28-6a21-44aa-aea0-ee7a7d018ef4): This is actually the official platform of video presentations at NeurIPS. Sadly, because of a technical issue of SlidesLive, their site is only accessible using Chrome as the browser...
