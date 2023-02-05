@@ -383,6 +383,7 @@ baidu_analytics: 234c788b11cf12c7646868826b84ee36
 
 # Google Analytics ID
 google_analytics: UA-110987408-1
+only_pageview: true
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -498,8 +499,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: XeWRJNzFcWdnmAhg1niTsxlH-gzGzoHsz
-  app_key: NEfgl3bSc3zkzfVusEymD8q5
+  app_id: 68HvPBq989FbA7AE1pSY5Fun-gzGzoHsz
+  app_key: bt4R6nuSSFpfAJKTqnzUZBtr
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
