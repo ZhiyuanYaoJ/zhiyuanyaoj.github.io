@@ -10,10 +10,6 @@ photos:
 - 
 ---
 
-# FPGA 学习笔记 - Theory [0x00]
-
-> 导言：最近研究需要，正在学习 FPGA 的相关基础知识，在这里记录下来，和大家分享交流。
-
 ## FPGA 简介
 
 我在[P4 学习笔记（一）- 导论](https://zhuanlan.zhihu.com/p/346371311)里面有提到过 FPGA，也就是 Field-programmable gate array（现场可编程逻辑门阵列）。FPGA 的主要特点就是介于 General Purpose Processor（GPP）和 Application-Specific Integrated Circuit (ASIC) 之间，同时结合了 GPP 的灵活性和 ASIC 的高性能的两大优点。 FPGA 的应用范围也很广泛，比如：科学计算、生物计算、人工智能、信号处理、信息安全等等。
