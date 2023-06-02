@@ -1,7 +1,7 @@
 ---
 title: FPGA 学习笔记 - Theory
 date: 2021-04-19
-description: 
+description: 最近研究需要，正在学习 FPGA 的相关基础知识，在这里记录下来，和大家分享交流。
 categories:
 - FPGA
 tags:
