@@ -13,7 +13,7 @@ I am a research software engineer at [Cisco Meraki](http://meraki.cisco.com). My
 
 I recently completed my PhD degree in Computer Networking, which I pursued jointly between [École Polytechnique](https://www.polytechnique.edu/en)'s [networking team](https://www.epizeuxis.net) and Cisco Systems Paris Innovation and Research Lab (PIRL), advised by [Thomas Clausen](https://www.thomasclausen.net/en/) and [Mark Townsley](https://scholar.google.co.uk/citations?user=RSW64hsAAAAJ&hl=fr&oi=ao). My research interests include data-center networks, load-balancing, high-performance networking stacks, machine learning, reinforcement learning, and their applications in computer networking.
 
-Before starting my PhD, I obtained a MSc&T in [Internet-of-Things](https://programmes.polytechnique.edu/en/master-all-msct-programs/internet-of-things-innovation-and-management-master/internet-of-things) from [École Polytechnique](https://www.polytechnique.edu/en) in 2019, and a BEng in Aerospace Engineering and Mechanics from [Harbin Institut of Technology](http://en.hit.edu.cn) in 2017.
+Before starting my PhD, I obtained a MSc&T in [Internet-of-Things](https://programmes.polytechnique.edu/en/master-all-msct-programs/internet-of-things-innovation-and-management-master/internet-of-things) from [École Polytechnique](https://www.polytechnique.edu/en) in 2019, and a BEng in Computational and Applied Methametics from [Harbin Institut of Technology](http://en.hit.edu.cn) in 2017.
 
 # Contributions
 
@@ -41,6 +41,8 @@ Before starting my PhD, I obtained a MSc&T in [Internet-of-Things](https://progr
 
 - Yao Zhao, Sophine Zhang, and **Zhiyuan Yao**. _**"A Hybrid Approach for Smart Alert Generation"**_ In 3rd IEEE International
 Conference on Electrical, Computer, Communications and Mechatronics Engineering (*ICECCME’23*). 2023.
+
+- Mengoli, Emanuele, **Zhiyuan Yao**, Wutao Wei, and Thomas Clausen. _**"Develop End-to-End Anomaly Detection System."**_ In 2023 IEEE International Conference on Data Mining Workshops (ICDMW), pp. 1370-1379. IEEE, 2023. {[pdf](https://arxiv.org/pdf/2402.10085), [doi](https://ieeexplore.ieee.org/abstract/document/10411520/)}
 
 ## Teaching
 
