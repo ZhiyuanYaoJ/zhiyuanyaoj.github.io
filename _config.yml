@@ -217,7 +217,7 @@ social:
   #LinkLabel: Link
   GitHub: https://github.com/ZhiyuanYaoJ
   知乎: https://www.zhihu.com/people/yaoj-x
-  Instagram: https://www.instagram.com/zyao.x/
+  # Instagram: https://www.instagram.com/zyao.x/
   Google Scholar: https://scholar.google.fr/citations?hl=en&user=-FQkBYcAAAAJ
   Orcid: https://orcid.org/0000-0002-7211-1506
   Lab: https://www.epizeuxis.net/index.php/team/phd-students/zhiyuan-yao/
@@ -233,7 +233,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   知乎: globe
-  Instagram: instagram
+  # Instagram: instagram
   Google Scholar: graduation-cap
   Orcid: book
   Lab: server
