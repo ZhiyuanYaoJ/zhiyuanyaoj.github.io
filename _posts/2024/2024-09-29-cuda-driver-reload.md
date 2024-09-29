@@ -1,7 +1,7 @@
 ---
 title: Resolving Nvidia Driver Reload Issue - Kernel Module Version Mismatch
 date: 2024-09-29
-description: Recently, I encountered an issue when running the `nvidia-smi` command, where it failed due to a driver/library version mismatch. Here's a quick solution.
+description: When working with Nvidia drivers on Linux, you may encounter a version mismatch between the Nvidia kernel module and the installed library. This can prevent the GPU from functioning properly without a system reboot. In this guide, I walk through the process of manually unloading and reloading the Nvidia kernel modules to resolve the issue without restarting the machine.
 categories:
 - Linux
 tags:
