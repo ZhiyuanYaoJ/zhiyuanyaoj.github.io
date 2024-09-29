@@ -6,10 +6,7 @@ layout: page
 
 # About
 
-I am a research software engineer at [Cisco Meraki](http://meraki.cisco.com). My responsibility consists of:
-- Conducting quantitative research based on a vast amount of telemetry data collected from data centers and millions of active networks worldwide.
-- Applying cutting-edge algorithms to a wide range of networking problems.
-- Deploying models and solutions in real-world distributed systems under various constraints (*e.g.* low latency, high throughput).
+I am a research engineer, interested in writing code to optimize distributed and large-scale systems, with a focus on making machines more efficient at learning. 
 
 I recently completed my PhD degree in Computer Networking, which I pursued jointly between [École Polytechnique](https://www.polytechnique.edu/en)'s [networking team](https://www.epizeuxis.net) and Cisco Systems Paris Innovation and Research Lab (PIRL), advised by [Thomas Clausen](https://www.thomasclausen.net/en/) and [Mark Townsley](https://scholar.google.co.uk/citations?user=RSW64hsAAAAJ&hl=fr&oi=ao). My research interests include data-center networks, load-balancing, high-performance networking stacks, machine learning, reinforcement learning, and their applications in computer networking.
 
@@ -54,11 +51,9 @@ Conference on Electrical, Computer, Communications and Mechatronics Engineering 
 
 # Contact
 
-  
-
 ```
 Zhiyuan YAO
-18 Rue Washinton
+20 Rue Washinton
 Tel: +33 (0)1 58 04 68 59
 Email: {firstname}[dot]{surname}[at]polytechnique[dot]edu
 ```
